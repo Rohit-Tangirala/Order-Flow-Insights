@@ -1,0 +1,2001 @@
+order_id,order_date,product_category,customer_id,quantity,price,payment_method,delivery_status,return_flag
+ORD11150,2023-01-01,Books,CUST2384,1,486.16,UPI,Delivered,0
+ORD10373,2023-01-02,Clothing,CUST3335,5,116.39,Net Banking,Delivered,0
+ORD10291,2023-01-02,Electronics,CUST6363,1,342.84,Cash on Delivery,Pending,0
+ORD11118,2023-01-02,Home & Kitchen,CUST2880,3,101.93,Cash on Delivery,Shipped,0
+ORD11895,2023-01-03,Beauty,CUST8978,3,260.31,Debit Card,Delivered,0
+ORD10273,2023-01-03,Beauty,CUST7666,5,171.37,Cash on Delivery,Delivered,0
+ORD11797,2023-01-03,Beauty,CUST3806,3,433.25,Credit Card,Returned,1
+ORD10547,2023-01-04,Books,CUST2121,3,11.38,UPI,Delivered,0
+ORD10066,2023-01-04,Books,CUST4745,4,58.34,Credit Card,Delivered,0
+ORD10166,2023-01-05,Clothing,CUST9387,1,193.27,Credit Card,Delivered,0
+ORD11139,2023-01-05,Books,CUST3863,3,179.96,Net Banking,Pending,0
+ORD10075,2023-01-05,Toys,CUST8660,5,52.42,Cash on Delivery,Delivered,0
+ORD11457,2023-01-05,Beauty,CUST1412,1,495.87,Debit Card,Shipped,0
+ORD10817,2023-01-05,Sports,CUST1686,1,208.4,Credit Card,Delivered,0
+ORD10247,2023-01-06,Clothing,CUST9633,4,291.56,Net Banking,Delivered,0
+ORD11778,2023-01-06,Books,CUST4544,4,57.36,Debit Card,Delivered,0
+ORD10415,2023-01-07,Clothing,CUST4787,3,327.09,Debit Card,Pending,0
+ORD11578,2023-01-07,Beauty,CUST1526,4,225.43,Credit Card,Shipped,0
+ORD11008,2023-01-07,Groceries,CUST9189,2,167.62,Credit Card,Delivered,0
+ORD11209,2023-01-07,Groceries,CUST8625,4,397.54,Debit Card,Delivered,0
+ORD10974,2023-01-07,Beauty,CUST5487,1,234.79,Debit Card,Pending,0
+ORD10638,2023-01-08,Groceries,CUST4505,3,43.82,Net Banking,Delivered,0
+ORD10562,2023-01-08,Books,CUST8511,4,492.66,Cash on Delivery,Pending,0
+ORD11523,2023-01-09,Clothing,CUST4627,4,148.03,Credit Card,Returned,1
+ORD10185,2023-01-09,Home & Kitchen,CUST9515,4,435.27,Cash on Delivery,Delivered,0
+ORD11565,2023-01-10,Sports,CUST2241,5,438.7,Net Banking,Pending,0
+ORD10190,2023-01-10,Books,CUST7382,2,290.82,UPI,Delivered,0
+ORD11408,2023-01-10,Books,CUST2654,4,426.68,Cash on Delivery,Cancelled,0
+ORD10914,2023-01-11,Sports,CUST6578,2,134.94,Cash on Delivery,Pending,0
+ORD10634,2023-01-11,Sports,CUST2368,3,81.44,UPI,Delivered,0
+ORD11137,2023-01-12,Toys,CUST1292,4,312.22,UPI,Delivered,0
+ORD11446,2023-01-12,Electronics,CUST3533,3,400.51,UPI,Delivered,0
+ORD11878,2023-01-14,Groceries,CUST1118,2,167.38,Credit Card,Shipped,0
+ORD11762,2023-01-15,Beauty,CUST7176,1,183.44,Cash on Delivery,Delivered,0
+ORD10216,2023-01-15,Home & Kitchen,CUST7451,1,307.55,UPI,Delivered,0
+ORD11596,2023-01-15,Electronics,CUST9239,5,41.27,UPI,Shipped,0
+ORD11251,2023-01-15,Books,CUST3089,1,138.59,Cash on Delivery,Shipped,0
+ORD10174,2023-01-15,Clothing,CUST5919,3,241.16,Net Banking,Shipped,0
+ORD10120,2023-01-15,Clothing,CUST2543,1,367.51,Cash on Delivery,Delivered,0
+ORD10450,2023-01-16,Toys,CUST1382,5,386.85,Credit Card,Delivered,0
+ORD10343,2023-01-17,Sports,CUST3210,1,478.92,Debit Card,Delivered,0
+ORD10200,2023-01-17,Toys,CUST2052,4,344.17,Net Banking,Shipped,0
+ORD10837,2023-01-17,Toys,CUST3199,5,335.99,Debit Card,Delivered,0
+ORD10237,2023-01-18,Sports,CUST6553,3,409.97,Debit Card,Delivered,0
+ORD11090,2023-01-18,Toys,CUST1366,1,12.42,Net Banking,Delivered,0
+ORD10495,2023-01-18,Groceries,CUST1504,4,436.54,UPI,Pending,0
+ORD11138,2023-01-18,Clothing,CUST7940,2,196.47,UPI,Shipped,0
+ORD10008,2023-01-18,Clothing,CUST7158,5,326.81,Credit Card,Delivered,0
+ORD10586,2023-01-19,Sports,CUST3282,3,259.64,UPI,Shipped,0
+ORD11579,2023-01-19,Sports,CUST4222,1,486.07,UPI,Delivered,0
+ORD11392,2023-01-19,Beauty,CUST3441,1,493.2,Net Banking,Delivered,0
+ORD11853,2023-01-20,Home & Kitchen,CUST7701,4,496.23,Credit Card,Shipped,0
+ORD10388,2023-01-21,Toys,CUST4501,1,201.58,Credit Card,Delivered,0
+ORD10816,2023-01-21,Home & Kitchen,CUST3052,2,184.87,Net Banking,Delivered,0
+ORD11932,2023-01-22,Toys,CUST6145,2,250.39,Net Banking,Delivered,0
+ORD10477,2023-01-22,Electronics,CUST1469,1,325.06,Net Banking,Delivered,0
+ORD10098,2023-01-22,Home & Kitchen,CUST3697,2,470.78,UPI,Returned,1
+ORD11186,2023-01-22,Beauty,CUST7650,1,391.29,UPI,Delivered,0
+ORD10985,2023-01-23,Groceries,CUST3267,1,393.68,Debit Card,Delivered,0
+ORD11676,2023-01-25,Sports,CUST1603,2,291.71,Credit Card,Shipped,0
+ORD10426,2023-01-25,Beauty,CUST2998,3,481.15,Net Banking,Shipped,0
+ORD11672,2023-01-25,Groceries,CUST7453,2,216.55,Net Banking,Delivered,0
+ORD10143,2023-01-25,Home & Kitchen,CUST8766,1,250.31,Debit Card,Shipped,0
+ORD11507,2023-01-26,Books,CUST6826,3,497.33,Net Banking,Returned,1
+ORD11217,2023-01-26,Clothing,CUST1690,3,345.04,Credit Card,Pending,0
+ORD10413,2023-01-27,Toys,CUST4792,1,184.3,Credit Card,Delivered,0
+ORD10067,2023-01-27,Beauty,CUST3958,1,380.89,Net Banking,Shipped,0
+ORD11883,2023-01-27,Electronics,CUST1462,4,213.74,Credit Card,Shipped,0
+ORD10348,2023-01-27,Home & Kitchen,CUST9853,4,13.02,Credit Card,Delivered,0
+ORD11341,2023-01-28,Sports,CUST8711,5,54.49,UPI,Delivered,0
+ORD10693,2023-01-28,Books,CUST3382,1,234.31,Debit Card,Cancelled,0
+ORD11739,2023-01-28,Sports,CUST8194,1,264.19,Cash on Delivery,Delivered,0
+ORD11723,2023-01-28,Groceries,CUST9605,1,254.71,Cash on Delivery,Shipped,0
+ORD10809,2023-01-29,Groceries,CUST4341,2,290.95,Debit Card,Delivered,0
+ORD10854,2023-01-30,Home & Kitchen,CUST2220,4,253.55,Debit Card,Delivered,0
+ORD10271,2023-01-31,Clothing,CUST5583,4,416.04,Net Banking,Delivered,0
+ORD11602,2023-01-31,Toys,CUST1409,4,151.6,UPI,Delivered,0
+ORD10206,2023-01-31,Electronics,CUST5280,2,222.53,UPI,Shipped,0
+ORD11380,2023-02-01,Beauty,CUST6754,2,287.21,Cash on Delivery,Delivered,0
+ORD10363,2023-02-01,Sports,CUST6986,5,479.08,Credit Card,Delivered,0
+ORD11148,2023-02-01,Books,CUST8597,2,124.02,Credit Card,Delivered,0
+ORD11639,2023-02-01,Books,CUST7439,3,67.17,Net Banking,Delivered,0
+ORD11041,2023-02-02,Home & Kitchen,CUST3438,5,263.07,Debit Card,Delivered,0
+ORD11880,2023-02-02,Home & Kitchen,CUST6989,5,193.56,Net Banking,Delivered,0
+ORD10971,2023-02-03,Electronics,CUST9975,3,256.06,Cash on Delivery,Shipped,0
+ORD10472,2023-02-03,Toys,CUST9786,2,129.25,Debit Card,Delivered,0
+ORD11207,2023-02-04,Electronics,CUST2993,3,153.04,Debit Card,Delivered,0
+ORD11850,2023-02-05,Books,CUST3442,1,482.84,Debit Card,Shipped,0
+ORD11677,2023-02-06,Toys,CUST3869,4,282.99,UPI,Delivered,0
+ORD11036,2023-02-06,Electronics,CUST8272,4,483.42,UPI,Shipped,0
+ORD11540,2023-02-06,Sports,CUST6786,2,265.5,Debit Card,Cancelled,0
+ORD11113,2023-02-07,Sports,CUST3779,4,343.29,Net Banking,Delivered,0
+ORD10342,2023-02-07,Groceries,CUST6990,2,395.25,Net Banking,Delivered,0
+ORD10370,2023-02-07,Clothing,CUST7157,4,212.03,Cash on Delivery,Shipped,0
+ORD10171,2023-02-07,Toys,CUST9799,2,426.67,Cash on Delivery,Returned,1
+ORD10982,2023-02-08,Groceries,CUST7661,3,223.83,Cash on Delivery,Delivered,0
+ORD10321,2023-02-08,Toys,CUST2821,1,470.35,Debit Card,Delivered,0
+ORD10244,2023-02-09,Home & Kitchen,CUST9496,5,171.9,Net Banking,Delivered,0
+ORD11955,2023-02-09,Clothing,CUST4739,4,124.61,Credit Card,Delivered,0
+ORD11363,2023-02-10,Books,CUST5656,4,429.6,Credit Card,Shipped,0
+ORD11353,2023-02-10,Clothing,CUST1109,5,267.03,Net Banking,Shipped,0
+ORD10766,2023-02-10,Beauty,CUST2908,4,16.62,Cash on Delivery,Pending,0
+ORD10986,2023-02-11,Groceries,CUST6153,5,178.21,Debit Card,Delivered,0
+ORD10154,2023-02-11,Home & Kitchen,CUST3193,1,25.25,Net Banking,Shipped,0
+ORD10532,2023-02-11,Groceries,CUST3948,4,218.28,Debit Card,Delivered,0
+ORD10863,2023-02-12,Toys,CUST5501,4,278.41,Cash on Delivery,Delivered,0
+ORD10475,2023-02-12,Home & Kitchen,CUST2333,2,481.39,Debit Card,Shipped,0
+ORD10001,2023-02-13,Books,CUST5877,3,88.35,UPI,Delivered,0
+ORD10358,2023-02-13,Books,CUST4061,2,485.02,Net Banking,Shipped,0
+ORD11654,2023-02-13,Clothing,CUST1769,3,252.87,UPI,Delivered,0
+ORD10779,2023-02-14,Clothing,CUST5572,5,464.48,Cash on Delivery,Delivered,0
+ORD11944,2023-02-14,Sports,CUST2161,3,15.27,UPI,Delivered,0
+ORD10939,2023-02-14,Sports,CUST8572,5,485.1,Cash on Delivery,Shipped,0
+ORD11577,2023-02-15,Home & Kitchen,CUST2291,1,205.17,Cash on Delivery,Shipped,0
+ORD11941,2023-02-15,Home & Kitchen,CUST8066,5,449.4,Credit Card,Delivered,0
+ORD11109,2023-02-15,Beauty,CUST5955,2,244.25,Credit Card,Delivered,0
+ORD10300,2023-02-15,Clothing,CUST8854,1,247.04,Cash on Delivery,Delivered,0
+ORD10859,2023-02-15,Clothing,CUST1304,3,494.46,Credit Card,Returned,1
+ORD10029,2023-02-15,Beauty,CUST1740,3,281.06,Cash on Delivery,Shipped,0
+ORD10461,2023-02-16,Sports,CUST9650,2,268.25,Credit Card,Shipped,0
+ORD11564,2023-02-16,Books,CUST5881,3,444.67,Debit Card,Returned,1
+ORD11615,2023-02-16,Beauty,CUST7566,5,69.21,Debit Card,Delivered,0
+ORD10564,2023-02-16,Sports,CUST3591,2,195.81,UPI,Shipped,0
+ORD11160,2023-02-17,Sports,CUST4821,1,276.39,UPI,Delivered,0
+ORD10065,2023-02-17,Books,CUST7215,1,33.22,Debit Card,Pending,0
+ORD10881,2023-02-17,Groceries,CUST8518,3,358.77,Net Banking,Delivered,0
+ORD10254,2023-02-18,Toys,CUST5609,1,84.15,Cash on Delivery,Delivered,0
+ORD10667,2023-02-19,Books,CUST6209,3,364.95,Credit Card,Delivered,0
+ORD11572,2023-02-20,Books,CUST2533,5,431.6,Net Banking,Delivered,0
+ORD10833,2023-02-21,Toys,CUST2095,5,271.96,Net Banking,Delivered,0
+ORD10744,2023-02-21,Groceries,CUST6384,2,376.89,UPI,Shipped,0
+ORD10193,2023-02-22,Toys,CUST6470,3,396.26,UPI,Cancelled,0
+ORD10329,2023-02-22,Clothing,CUST5185,4,415.46,Debit Card,Delivered,0
+ORD11835,2023-02-23,Beauty,CUST2762,4,405.4,Cash on Delivery,Delivered,0
+ORD11179,2023-02-23,Sports,CUST2764,5,239.41,Debit Card,Shipped,0
+ORD10352,2023-02-23,Electronics,CUST3378,5,433.9,Debit Card,Delivered,0
+ORD10444,2023-02-24,Groceries,CUST4434,2,423.09,Credit Card,Delivered,0
+ORD11085,2023-02-25,Groceries,CUST5060,3,121.27,UPI,Delivered,0
+ORD10828,2023-02-25,Groceries,CUST8269,2,499.78,Debit Card,Shipped,0
+ORD10150,2023-02-25,Sports,CUST1310,3,476.16,Credit Card,Delivered,0
+ORD10739,2023-02-26,Electronics,CUST1982,2,492.23,Credit Card,Delivered,0
+ORD10980,2023-02-26,Groceries,CUST7127,1,462.3,Cash on Delivery,Delivered,0
+ORD10318,2023-02-26,Electronics,CUST1605,4,487.45,Credit Card,Delivered,0
+ORD11325,2023-02-26,Home & Kitchen,CUST8071,4,233.9,UPI,Delivered,0
+ORD11305,2023-02-27,Sports,CUST8694,4,231.56,Credit Card,Delivered,0
+ORD11377,2023-02-27,Sports,CUST4338,5,448.3,Net Banking,Delivered,0
+ORD10555,2023-02-27,Clothing,CUST3330,3,115.15,Debit Card,Delivered,0
+ORD11537,2023-02-27,Beauty,CUST6966,3,58.34,Cash on Delivery,Delivered,0
+ORD11329,2023-02-28,Sports,CUST8603,3,288.48,UPI,Delivered,0
+ORD11264,2023-02-28,Toys,CUST7524,1,239.75,Net Banking,Delivered,0
+ORD11346,2023-03-01,Sports,CUST7117,3,459.72,UPI,Pending,0
+ORD11295,2023-03-01,Groceries,CUST9073,3,257.36,Net Banking,Delivered,0
+ORD10468,2023-03-01,Electronics,CUST8322,3,298.88,Net Banking,Delivered,0
+ORD11162,2023-03-01,Sports,CUST5327,2,416.36,UPI,Cancelled,0
+ORD10275,2023-03-01,Books,CUST8062,4,184.32,UPI,Delivered,0
+ORD10701,2023-03-02,Toys,CUST5067,2,140.08,UPI,Delivered,0
+ORD10405,2023-03-02,Beauty,CUST2423,2,279.91,Credit Card,Delivered,0
+ORD10557,2023-03-02,Toys,CUST4042,1,263.31,Credit Card,Delivered,0
+ORD11933,2023-03-03,Home & Kitchen,CUST9745,2,334.73,Net Banking,Delivered,0
+ORD11670,2023-03-04,Electronics,CUST8388,2,81.38,Debit Card,Delivered,0
+ORD11605,2023-03-04,Books,CUST7026,4,325.16,Credit Card,Delivered,0
+ORD10663,2023-03-04,Home & Kitchen,CUST4864,5,222.66,Credit Card,Delivered,0
+ORD11396,2023-03-04,Electronics,CUST2534,1,271.07,Net Banking,Delivered,0
+ORD10544,2023-03-05,Groceries,CUST8554,1,299.43,Net Banking,Delivered,0
+ORD10903,2023-03-06,Books,CUST3647,2,298.88,UPI,Delivered,0
+ORD10620,2023-03-06,Home & Kitchen,CUST4066,1,140.4,UPI,Shipped,0
+ORD10636,2023-03-06,Home & Kitchen,CUST1461,3,275.89,Net Banking,Delivered,0
+ORD10142,2023-03-07,Books,CUST1787,1,194.17,Debit Card,Shipped,0
+ORD10721,2023-03-07,Groceries,CUST8938,2,369.18,Cash on Delivery,Delivered,0
+ORD11464,2023-03-08,Home & Kitchen,CUST6808,2,436.45,Net Banking,Delivered,0
+ORD10369,2023-03-09,Beauty,CUST3157,1,478.68,Debit Card,Delivered,0
+ORD11609,2023-03-09,Electronics,CUST2533,4,39.03,Cash on Delivery,Cancelled,0
+ORD10232,2023-03-09,Beauty,CUST6123,2,473.55,Cash on Delivery,Delivered,0
+ORD11451,2023-03-09,Books,CUST6970,4,123.22,UPI,Delivered,0
+ORD11275,2023-03-09,Home & Kitchen,CUST8368,3,339.01,UPI,Delivered,0
+ORD10705,2023-03-09,Beauty,CUST2733,3,49.47,Cash on Delivery,Delivered,0
+ORD10383,2023-03-10,Electronics,CUST3024,5,340.05,Net Banking,Delivered,0
+ORD11622,2023-03-10,Toys,CUST2471,4,314.66,UPI,Returned,1
+ORD10024,2023-03-10,Sports,CUST6621,3,169.69,Net Banking,Delivered,0
+ORD10418,2023-03-10,Groceries,CUST6779,2,273.12,Cash on Delivery,Delivered,0
+ORD10681,2023-03-10,Books,CUST2608,3,255.5,UPI,Shipped,0
+ORD10624,2023-03-10,Beauty,CUST3905,2,447.7,Credit Card,Delivered,0
+ORD11153,2023-03-11,Sports,CUST6483,1,132.72,Net Banking,Delivered,0
+ORD11086,2023-03-11,Books,CUST9298,4,88.38,Debit Card,Delivered,0
+ORD10051,2023-03-11,Home & Kitchen,CUST2609,2,386.46,Debit Card,Delivered,0
+ORD11775,2023-03-12,Beauty,CUST5324,4,278.56,Debit Card,Pending,0
+ORD10033,2023-03-12,Home & Kitchen,CUST9573,3,136.18,Net Banking,Pending,0
+ORD10834,2023-03-12,Electronics,CUST1459,5,499.0,Net Banking,Shipped,0
+ORD10608,2023-03-13,Toys,CUST7735,4,126.69,Net Banking,Shipped,0
+ORD11847,2023-03-13,Beauty,CUST6117,5,471.77,UPI,Delivered,0
+ORD11502,2023-03-14,Toys,CUST7148,1,176.39,Net Banking,Delivered,0
+ORD11328,2023-03-14,Clothing,CUST2779,5,148.71,Debit Card,Cancelled,0
+ORD11190,2023-03-14,Groceries,CUST8045,4,183.36,Debit Card,Delivered,0
+ORD11020,2023-03-16,Books,CUST7239,4,32.66,Credit Card,Delivered,0
+ORD11833,2023-03-16,Beauty,CUST7095,5,74.42,Net Banking,Delivered,0
+ORD10978,2023-03-16,Clothing,CUST8397,5,225.71,Debit Card,Shipped,0
+ORD11445,2023-03-16,Home & Kitchen,CUST1638,3,86.73,Debit Card,Shipped,0
+ORD11185,2023-03-17,Electronics,CUST5933,2,169.76,Debit Card,Delivered,0
+ORD11021,2023-03-17,Beauty,CUST9495,4,14.33,Debit Card,Cancelled,0
+ORD10194,2023-03-17,Clothing,CUST7639,5,318.77,Debit Card,Cancelled,0
+ORD10811,2023-03-17,Toys,CUST3526,4,138.85,Net Banking,Shipped,0
+ORD10099,2023-03-17,Groceries,CUST5936,3,468.42,Credit Card,Cancelled,0
+ORD10494,2023-03-17,Beauty,CUST2273,4,452.99,Cash on Delivery,Delivered,0
+ORD11462,2023-03-18,Groceries,CUST2102,4,306.65,Debit Card,Shipped,0
+ORD10598,2023-03-18,Beauty,CUST7835,3,270.35,Cash on Delivery,Delivered,0
+ORD10892,2023-03-19,Clothing,CUST7967,1,132.39,Net Banking,Delivered,0
+ORD10460,2023-03-19,Sports,CUST8231,5,341.72,UPI,Shipped,0
+ORD11117,2023-03-20,Groceries,CUST3292,4,384.37,Net Banking,Delivered,0
+ORD10823,2023-03-20,Books,CUST1015,4,455.95,UPI,Delivered,0
+ORD10781,2023-03-20,Home & Kitchen,CUST2146,2,425.1,Debit Card,Pending,0
+ORD10577,2023-03-20,Books,CUST9510,3,293.28,Credit Card,Delivered,0
+ORD11074,2023-03-20,Groceries,CUST4196,3,150.34,Debit Card,Delivered,0
+ORD10592,2023-03-21,Clothing,CUST4236,5,117.21,Cash on Delivery,Delivered,0
+ORD10589,2023-03-22,Beauty,CUST1992,5,248.22,UPI,Shipped,0
+ORD11410,2023-03-22,Groceries,CUST7401,5,101.98,Debit Card,Delivered,0
+ORD11771,2023-03-22,Beauty,CUST7024,5,412.52,Cash on Delivery,Delivered,0
+ORD11061,2023-03-23,Beauty,CUST7605,4,24.93,Credit Card,Delivered,0
+ORD10276,2023-03-23,Groceries,CUST1647,1,264.06,Credit Card,Cancelled,0
+ORD10745,2023-03-23,Books,CUST9259,2,416.38,Credit Card,Shipped,0
+ORD10489,2023-03-23,Electronics,CUST6818,2,57.0,Debit Card,Pending,0
+ORD11665,2023-03-23,Home & Kitchen,CUST8382,2,223.05,Debit Card,Shipped,0
+ORD10408,2023-03-23,Groceries,CUST2445,4,414.98,Net Banking,Cancelled,0
+ORD10895,2023-03-24,Groceries,CUST9727,1,115.1,Credit Card,Delivered,0
+ORD10968,2023-03-24,Toys,CUST5580,2,195.33,UPI,Delivered,0
+ORD11183,2023-03-25,Clothing,CUST8774,2,488.86,Cash on Delivery,Shipped,0
+ORD11759,2023-03-25,Groceries,CUST5089,4,151.46,UPI,Shipped,0
+ORD11752,2023-03-26,Electronics,CUST8972,3,311.2,Net Banking,Pending,0
+ORD11307,2023-03-26,Sports,CUST6927,1,187.27,Credit Card,Pending,0
+ORD11360,2023-03-27,Clothing,CUST9681,3,102.85,UPI,Pending,0
+ORD10878,2023-03-27,Electronics,CUST6771,2,246.68,Credit Card,Delivered,0
+ORD10022,2023-03-28,Sports,CUST5355,5,275.62,Credit Card,Delivered,0
+ORD11062,2023-03-28,Home & Kitchen,CUST4177,3,201.66,Cash on Delivery,Delivered,0
+ORD11705,2023-03-29,Home & Kitchen,CUST7085,4,196.92,Net Banking,Delivered,0
+ORD11422,2023-03-29,Clothing,CUST3695,2,34.81,Credit Card,Pending,0
+ORD11765,2023-03-31,Beauty,CUST1871,5,132.96,Credit Card,Delivered,0
+ORD10119,2023-03-31,Electronics,CUST5693,5,275.34,Cash on Delivery,Delivered,0
+ORD10778,2023-03-31,Home & Kitchen,CUST8848,5,16.06,Debit Card,Delivered,0
+ORD11075,2023-03-31,Toys,CUST7592,4,123.66,Debit Card,Shipped,0
+ORD10797,2023-03-31,Books,CUST6119,5,23.87,UPI,Cancelled,0
+ORD11724,2023-04-01,Beauty,CUST9141,4,492.47,Credit Card,Delivered,0
+ORD10571,2023-04-01,Groceries,CUST1917,5,111.19,Cash on Delivery,Delivered,0
+ORD10840,2023-04-01,Beauty,CUST5870,1,368.71,Credit Card,Delivered,0
+ORD11625,2023-04-02,Beauty,CUST5565,4,358.15,Debit Card,Delivered,0
+ORD10696,2023-04-02,Sports,CUST1218,2,28.77,Cash on Delivery,Returned,1
+ORD11648,2023-04-02,Electronics,CUST6834,1,377.12,Cash on Delivery,Delivered,0
+ORD10221,2023-04-02,Toys,CUST6534,5,78.59,UPI,Delivered,0
+ORD10149,2023-04-02,Beauty,CUST3659,3,384.66,Net Banking,Returned,1
+ORD11276,2023-04-03,Groceries,CUST8342,3,466.42,UPI,Delivered,0
+ORD10556,2023-04-03,Books,CUST9667,2,174.12,Credit Card,Shipped,0
+ORD10757,2023-04-03,Toys,CUST2266,2,348.88,Cash on Delivery,Shipped,0
+ORD11397,2023-04-04,Home & Kitchen,CUST9104,2,141.82,UPI,Delivered,0
+ORD10959,2023-04-04,Clothing,CUST5458,3,66.93,Cash on Delivery,Delivered,0
+ORD10487,2023-04-05,Toys,CUST6533,3,285.77,Net Banking,Delivered,0
+ORD11568,2023-04-06,Groceries,CUST3651,4,407.38,Debit Card,Delivered,0
+ORD11664,2023-04-06,Sports,CUST4886,1,473.63,Credit Card,Delivered,0
+ORD11721,2023-04-06,Clothing,CUST1108,1,386.49,Net Banking,Delivered,0
+ORD11123,2023-04-06,Sports,CUST8642,5,206.58,Debit Card,Delivered,0
+ORD10548,2023-04-06,Home & Kitchen,CUST9798,2,96.84,Cash on Delivery,Delivered,0
+ORD10990,2023-04-07,Beauty,CUST6012,5,238.97,Net Banking,Delivered,0
+ORD11900,2023-04-08,Clothing,CUST3430,4,35.77,Credit Card,Delivered,0
+ORD11546,2023-04-08,Home & Kitchen,CUST2325,4,30.24,Net Banking,Shipped,0
+ORD11826,2023-04-08,Sports,CUST8546,1,126.31,Cash on Delivery,Delivered,0
+ORD11192,2023-04-10,Beauty,CUST3914,1,307.49,Cash on Delivery,Delivered,0
+ORD11524,2023-04-10,Sports,CUST9682,2,194.06,Credit Card,Delivered,0
+ORD11000,2023-04-10,Electronics,CUST5211,2,473.42,Net Banking,Delivered,0
+ORD11340,2023-04-11,Electronics,CUST7962,5,376.48,UPI,Shipped,0
+ORD10299,2023-04-11,Beauty,CUST1460,2,119.7,Credit Card,Delivered,0
+ORD11757,2023-04-12,Groceries,CUST6938,2,61.27,UPI,Cancelled,0
+ORD10324,2023-04-13,Books,CUST6088,5,88.68,Net Banking,Returned,1
+ORD11181,2023-04-13,Home & Kitchen,CUST6248,1,93.2,Cash on Delivery,Returned,1
+ORD10063,2023-04-13,Home & Kitchen,CUST8850,2,111.03,Cash on Delivery,Shipped,0
+ORD11486,2023-04-13,Toys,CUST3523,1,296.5,UPI,Shipped,0
+ORD11017,2023-04-14,Groceries,CUST2395,4,366.71,Cash on Delivery,Shipped,0
+ORD10750,2023-04-14,Books,CUST3690,5,405.78,Credit Card,Delivered,0
+ORD11504,2023-04-14,Beauty,CUST6892,3,345.3,Credit Card,Cancelled,0
+ORD11977,2023-04-14,Groceries,CUST6363,1,439.2,Credit Card,Shipped,0
+ORD10253,2023-04-14,Books,CUST9507,1,367.96,Cash on Delivery,Shipped,0
+ORD10309,2023-04-15,Home & Kitchen,CUST5174,2,401.59,Debit Card,Delivered,0
+ORD11327,2023-04-15,Home & Kitchen,CUST3729,4,72.22,Cash on Delivery,Returned,1
+ORD10660,2023-04-15,Books,CUST5175,5,408.48,Net Banking,Shipped,0
+ORD11436,2023-04-15,Toys,CUST3530,2,403.23,Cash on Delivery,Cancelled,0
+ORD10580,2023-04-16,Beauty,CUST9805,3,120.73,Net Banking,Delivered,0
+ORD11666,2023-04-17,Electronics,CUST7677,2,155.36,Cash on Delivery,Delivered,0
+ORD10767,2023-04-18,Home & Kitchen,CUST7519,5,100.92,UPI,Delivered,0
+ORD11593,2023-04-18,Home & Kitchen,CUST2975,1,371.48,Debit Card,Shipped,0
+ORD11082,2023-04-19,Sports,CUST6934,2,453.31,UPI,Delivered,0
+ORD11108,2023-04-19,Books,CUST3524,3,458.44,Debit Card,Delivered,0
+ORD10790,2023-04-20,Home & Kitchen,CUST3955,3,317.74,Cash on Delivery,Delivered,0
+ORD10102,2023-04-21,Groceries,CUST4270,1,25.79,Cash on Delivery,Delivered,0
+ORD11266,2023-04-22,Books,CUST1790,2,479.81,UPI,Delivered,0
+ORD11638,2023-04-22,Toys,CUST7149,2,300.81,Net Banking,Delivered,0
+ORD11124,2023-04-22,Books,CUST5273,5,91.9,UPI,Delivered,0
+ORD10048,2023-04-22,Toys,CUST7310,4,131.39,Net Banking,Shipped,0
+ORD10655,2023-04-23,Electronics,CUST8414,5,413.27,Credit Card,Pending,0
+ORD11357,2023-04-24,Home & Kitchen,CUST3478,3,397.55,Cash on Delivery,Pending,0
+ORD11792,2023-04-24,Groceries,CUST8840,5,66.22,UPI,Delivered,0
+ORD10889,2023-04-24,Electronics,CUST6880,2,297.66,Debit Card,Pending,0
+ORD10445,2023-04-25,Groceries,CUST5797,3,266.88,Net Banking,Delivered,0
+ORD11491,2023-04-25,Clothing,CUST7500,3,262.16,Cash on Delivery,Cancelled,0
+ORD10795,2023-04-25,Electronics,CUST2638,5,206.93,Credit Card,Shipped,0
+ORD10542,2023-04-26,Sports,CUST3025,4,152.12,Debit Card,Delivered,0
+ORD10789,2023-04-26,Toys,CUST4887,4,481.91,Credit Card,Delivered,0
+ORD11414,2023-04-27,Books,CUST4416,1,311.65,Cash on Delivery,Delivered,0
+ORD11846,2023-04-27,Groceries,CUST2799,3,287.08,Debit Card,Shipped,0
+ORD11533,2023-04-28,Books,CUST5218,4,218.15,Cash on Delivery,Delivered,0
+ORD10625,2023-04-29,Beauty,CUST6662,1,124.71,Cash on Delivery,Delivered,0
+ORD10083,2023-04-29,Books,CUST6334,5,287.33,Credit Card,Shipped,0
+ORD11284,2023-04-29,Electronics,CUST1198,5,366.79,UPI,Delivered,0
+ORD11979,2023-04-30,Groceries,CUST4962,4,491.33,Cash on Delivery,Shipped,0
+ORD10651,2023-04-30,Books,CUST7867,5,108.6,Credit Card,Shipped,0
+ORD11165,2023-05-01,Home & Kitchen,CUST7564,1,483.49,Debit Card,Delivered,0
+ORD11782,2023-05-01,Beauty,CUST3128,5,393.86,UPI,Delivered,0
+ORD11953,2023-05-02,Sports,CUST8630,4,399.55,Net Banking,Delivered,0
+ORD11787,2023-05-02,Electronics,CUST9272,3,247.77,Net Banking,Pending,0
+ORD11646,2023-05-02,Clothing,CUST1207,3,331.27,Debit Card,Cancelled,0
+ORD11637,2023-05-02,Groceries,CUST6017,3,427.35,Net Banking,Returned,1
+ORD10610,2023-05-03,Home & Kitchen,CUST5725,5,210.28,Net Banking,Shipped,0
+ORD10438,2023-05-03,Groceries,CUST4610,3,469.84,Debit Card,Shipped,0
+ORD10429,2023-05-04,Groceries,CUST7853,5,252.88,Net Banking,Returned,1
+ORD10710,2023-05-04,Groceries,CUST3039,3,58.22,Debit Card,Delivered,0
+ORD11969,2023-05-04,Toys,CUST6148,3,417.23,Net Banking,Pending,0
+ORD11873,2023-05-05,Groceries,CUST6155,1,283.56,Net Banking,Delivered,0
+ORD10087,2023-05-05,Toys,CUST7102,4,358.69,Debit Card,Delivered,0
+ORD10486,2023-05-05,Groceries,CUST7381,5,421.52,Net Banking,Delivered,0
+ORD11080,2023-05-06,Home & Kitchen,CUST5022,4,487.38,Debit Card,Delivered,0
+ORD10305,2023-05-06,Groceries,CUST7315,5,413.12,Net Banking,Cancelled,0
+ORD11864,2023-05-06,Books,CUST1951,1,23.07,UPI,Shipped,0
+ORD11505,2023-05-07,Beauty,CUST7338,5,463.21,Cash on Delivery,Delivered,0
+ORD10910,2023-05-07,Groceries,CUST9709,4,207.88,UPI,Delivered,0
+ORD10145,2023-05-07,Sports,CUST6475,3,58.07,Cash on Delivery,Shipped,0
+ORD10763,2023-05-09,Toys,CUST9467,2,270.53,Cash on Delivery,Shipped,0
+ORD11516,2023-05-09,Electronics,CUST8908,2,430.28,Net Banking,Shipped,0
+ORD10095,2023-05-09,Clothing,CUST7055,4,441.1,UPI,Shipped,0
+ORD11993,2023-05-09,Electronics,CUST9540,5,180.85,Credit Card,Shipped,0
+ORD11914,2023-05-09,Groceries,CUST1563,4,128.25,UPI,Cancelled,0
+ORD11935,2023-05-10,Sports,CUST5986,3,364.81,Debit Card,Delivered,0
+ORD10026,2023-05-10,Beauty,CUST4826,2,99.6,Cash on Delivery,Delivered,0
+ORD10215,2023-05-11,Clothing,CUST5154,3,393.15,Credit Card,Pending,0
+ORD11831,2023-05-11,Electronics,CUST9229,5,485.49,Cash on Delivery,Shipped,0
+ORD10074,2023-05-11,Books,CUST7409,1,278.89,Net Banking,Delivered,0
+ORD11076,2023-05-11,Toys,CUST2947,3,354.25,Cash on Delivery,Delivered,0
+ORD10058,2023-05-13,Clothing,CUST4073,5,205.36,Cash on Delivery,Returned,1
+ORD10186,2023-05-13,Books,CUST4046,1,401.25,Cash on Delivery,Delivered,0
+ORD11175,2023-05-13,Home & Kitchen,CUST3126,2,282.29,Debit Card,Delivered,0
+ORD11917,2023-05-13,Clothing,CUST3416,4,166.54,Cash on Delivery,Returned,1
+ORD11221,2023-05-14,Sports,CUST5230,4,37.77,Net Banking,Delivered,0
+ORD10941,2023-05-14,Home & Kitchen,CUST7804,3,146.1,Credit Card,Shipped,0
+ORD11444,2023-05-14,Clothing,CUST2225,4,215.64,UPI,Pending,0
+ORD10376,2023-05-14,Beauty,CUST3492,4,270.66,Net Banking,Delivered,0
+ORD11309,2023-05-14,Electronics,CUST6324,2,427.0,Cash on Delivery,Delivered,0
+ORD10687,2023-05-14,Home & Kitchen,CUST4459,3,204.48,Cash on Delivery,Delivered,0
+ORD10695,2023-05-14,Toys,CUST5456,5,173.55,UPI,Delivered,0
+ORD10997,2023-05-15,Beauty,CUST3163,3,473.51,Cash on Delivery,Delivered,0
+ORD11940,2023-05-15,Home & Kitchen,CUST2263,4,31.15,UPI,Pending,0
+ORD11263,2023-05-16,Electronics,CUST1329,5,166.9,Credit Card,Delivered,0
+ORD11514,2023-05-16,Home & Kitchen,CUST8217,5,210.9,Debit Card,Delivered,0
+ORD11239,2023-05-16,Toys,CUST9914,2,318.69,UPI,Delivered,0
+ORD11972,2023-05-16,Toys,CUST9742,2,324.1,Credit Card,Returned,1
+ORD10286,2023-05-16,Toys,CUST5155,4,369.91,Cash on Delivery,Pending,0
+ORD10107,2023-05-17,Sports,CUST4049,5,175.96,Credit Card,Delivered,0
+ORD10138,2023-05-17,Sports,CUST7482,3,161.41,UPI,Delivered,0
+ORD10559,2023-05-18,Home & Kitchen,CUST5425,3,235.58,Debit Card,Returned,1
+ORD10530,2023-05-18,Beauty,CUST5291,3,81.42,Net Banking,Shipped,0
+ORD10230,2023-05-19,Toys,CUST1681,2,483.82,Credit Card,Delivered,0
+ORD11644,2023-05-19,Home & Kitchen,CUST1815,3,124.27,Debit Card,Delivered,0
+ORD10659,2023-05-19,Electronics,CUST2824,1,89.36,Debit Card,Cancelled,0
+ORD10967,2023-05-20,Books,CUST5091,3,49.82,Credit Card,Delivered,0
+ORD10339,2023-05-21,Toys,CUST9381,3,261.75,Credit Card,Shipped,0
+ORD11437,2023-05-21,Home & Kitchen,CUST9466,5,39.6,UPI,Shipped,0
+ORD11163,2023-05-21,Clothing,CUST1216,5,235.91,UPI,Shipped,0
+ORD11050,2023-05-21,Sports,CUST2777,2,78.43,Net Banking,Delivered,0
+ORD10133,2023-05-22,Clothing,CUST3280,4,424.6,Net Banking,Pending,0
+ORD10884,2023-05-22,Electronics,CUST8784,2,418.13,Credit Card,Delivered,0
+ORD11206,2023-05-23,Toys,CUST3934,5,76.34,Net Banking,Delivered,0
+ORD11188,2023-05-23,Beauty,CUST6770,4,51.09,Credit Card,Shipped,0
+ORD10935,2023-05-23,Home & Kitchen,CUST5808,3,342.96,UPI,Delivered,0
+ORD11171,2023-05-23,Electronics,CUST2407,3,387.16,Credit Card,Delivered,0
+ORD10927,2023-05-24,Electronics,CUST3961,2,378.5,Net Banking,Delivered,0
+ORD11379,2023-05-24,Sports,CUST9552,3,134.58,Debit Card,Pending,0
+ORD11164,2023-05-25,Groceries,CUST4310,2,323.46,Debit Card,Cancelled,0
+ORD11544,2023-05-25,Clothing,CUST4410,5,426.04,Debit Card,Delivered,0
+ORD11147,2023-05-26,Beauty,CUST4364,3,323.36,Cash on Delivery,Pending,0
+ORD10541,2023-05-26,Sports,CUST4167,4,250.76,Debit Card,Returned,1
+ORD11405,2023-05-26,Electronics,CUST4514,4,453.04,UPI,Delivered,0
+ORD11294,2023-05-27,Toys,CUST2686,5,158.45,Net Banking,Delivered,0
+ORD10641,2023-05-27,Groceries,CUST7200,5,460.82,Cash on Delivery,Cancelled,0
+ORD11003,2023-05-28,Electronics,CUST1853,4,478.78,Credit Card,Shipped,0
+ORD10456,2023-05-29,Clothing,CUST8594,2,433.9,Cash on Delivery,Delivered,0
+ORD11121,2023-05-29,Toys,CUST4142,2,236.47,Cash on Delivery,Returned,1
+ORD10491,2023-05-29,Electronics,CUST4644,1,21.74,Credit Card,Delivered,0
+ORD10177,2023-05-29,Electronics,CUST5774,4,97.74,UPI,Delivered,0
+ORD10483,2023-05-29,Books,CUST6465,2,221.14,Cash on Delivery,Shipped,0
+ORD10084,2023-05-30,Toys,CUST7906,4,130.45,Net Banking,Delivered,0
+ORD10332,2023-05-31,Groceries,CUST4917,2,88.29,UPI,Shipped,0
+ORD11561,2023-05-31,Sports,CUST2945,5,71.62,Debit Card,Delivered,0
+ORD10406,2023-05-31,Books,CUST4723,5,200.37,Cash on Delivery,Delivered,0
+ORD11381,2023-06-01,Electronics,CUST8234,2,322.25,Debit Card,Shipped,0
+ORD10998,2023-06-01,Electronics,CUST2342,5,50.06,Net Banking,Shipped,0
+ORD11479,2023-06-01,Beauty,CUST7568,5,380.89,UPI,Delivered,0
+ORD11769,2023-06-02,Clothing,CUST7451,1,97.61,Cash on Delivery,Delivered,0
+ORD10514,2023-06-02,Electronics,CUST2288,2,481.41,Credit Card,Shipped,0
+ORD11412,2023-06-03,Beauty,CUST4410,3,407.53,Cash on Delivery,Delivered,0
+ORD10301,2023-06-03,Clothing,CUST3753,1,455.97,Debit Card,Shipped,0
+ORD11218,2023-06-03,Books,CUST2542,1,147.3,Net Banking,Delivered,0
+ORD10782,2023-06-03,Home & Kitchen,CUST3069,5,170.26,Credit Card,Delivered,0
+ORD10734,2023-06-04,Groceries,CUST5160,5,354.83,Net Banking,Delivered,0
+ORD11669,2023-06-04,Groceries,CUST5903,2,78.54,Credit Card,Shipped,0
+ORD11722,2023-06-04,Electronics,CUST5160,2,54.42,UPI,Shipped,0
+ORD10178,2023-06-04,Toys,CUST3556,3,349.27,Net Banking,Delivered,0
+ORD10535,2023-06-04,Clothing,CUST9313,3,435.85,Credit Card,Delivered,0
+ORD10112,2023-06-04,Clothing,CUST1060,3,379.41,Net Banking,Returned,1
+ORD11435,2023-06-05,Beauty,CUST1944,4,109.21,Cash on Delivery,Cancelled,0
+ORD10412,2023-06-05,Clothing,CUST6679,1,214.74,Net Banking,Delivered,0
+ORD10644,2023-06-05,Groceries,CUST3724,1,184.6,Credit Card,Delivered,0
+ORD10707,2023-06-05,Beauty,CUST2451,1,212.88,UPI,Delivered,0
+ORD11964,2023-06-05,Clothing,CUST9474,1,107.06,Net Banking,Shipped,0
+ORD11482,2023-06-05,Books,CUST9752,1,439.82,UPI,Shipped,0
+ORD11292,2023-06-06,Home & Kitchen,CUST3730,2,365.95,UPI,Cancelled,0
+ORD11719,2023-06-06,Electronics,CUST1093,2,196.02,Net Banking,Shipped,0
+ORD10865,2023-06-06,Beauty,CUST7143,2,407.33,Cash on Delivery,Delivered,0
+ORD11256,2023-06-06,Beauty,CUST7401,3,168.16,Net Banking,Shipped,0
+ORD11324,2023-06-07,Beauty,CUST9927,3,337.38,Cash on Delivery,Delivered,0
+ORD10526,2023-06-07,Toys,CUST3600,2,109.13,Net Banking,Returned,1
+ORD11798,2023-06-08,Home & Kitchen,CUST9789,3,253.88,Cash on Delivery,Delivered,0
+ORD11430,2023-06-09,Groceries,CUST7771,3,465.49,Credit Card,Delivered,0
+ORD11013,2023-06-09,Toys,CUST8990,1,440.86,Net Banking,Delivered,0
+ORD11610,2023-06-09,Toys,CUST7578,1,150.0,UPI,Delivered,0
+ORD11110,2023-06-09,Beauty,CUST1865,3,17.05,Net Banking,Shipped,0
+ORD10212,2023-06-10,Electronics,CUST4005,1,185.74,Cash on Delivery,Returned,1
+ORD11982,2023-06-10,Toys,CUST9054,5,40.97,Debit Card,Returned,1
+ORD10922,2023-06-10,Clothing,CUST9911,5,174.42,Cash on Delivery,Delivered,0
+ORD11543,2023-06-11,Electronics,CUST1243,4,261.64,Net Banking,Pending,0
+ORD10762,2023-06-11,Books,CUST5876,2,80.72,Debit Card,Delivered,0
+ORD10639,2023-06-11,Clothing,CUST4030,2,342.22,Cash on Delivery,Delivered,0
+ORD11909,2023-06-12,Beauty,CUST7871,3,494.16,Debit Card,Shipped,0
+ORD10810,2023-06-13,Books,CUST3670,3,25.54,Debit Card,Cancelled,0
+ORD11304,2023-06-13,Home & Kitchen,CUST4767,4,38.85,Debit Card,Shipped,0
+ORD10050,2023-06-13,Sports,CUST3335,1,122.77,Net Banking,Delivered,0
+ORD11790,2023-06-14,Books,CUST9498,2,329.47,UPI,Delivered,0
+ORD10077,2023-06-15,Beauty,CUST2013,4,147.32,UPI,Delivered,0
+ORD11270,2023-06-16,Clothing,CUST8400,1,170.31,Credit Card,Returned,1
+ORD10919,2023-06-16,Sports,CUST4689,5,361.94,Credit Card,Delivered,0
+ORD10867,2023-06-16,Beauty,CUST4878,5,299.88,Cash on Delivery,Delivered,0
+ORD10751,2023-06-18,Beauty,CUST5757,4,26.35,Net Banking,Delivered,0
+ORD11620,2023-06-18,Home & Kitchen,CUST2204,4,230.25,Credit Card,Returned,1
+ORD10462,2023-06-19,Clothing,CUST7060,3,91.31,Cash on Delivery,Shipped,0
+ORD10602,2023-06-19,Clothing,CUST2984,1,488.11,Debit Card,Delivered,0
+ORD11958,2023-06-19,Groceries,CUST8903,3,247.57,Net Banking,Delivered,0
+ORD11810,2023-06-20,Home & Kitchen,CUST7510,2,435.99,UPI,Delivered,0
+ORD10737,2023-06-21,Groceries,CUST9881,2,77.05,Cash on Delivery,Pending,0
+ORD11455,2023-06-21,Electronics,CUST2869,2,112.94,Net Banking,Shipped,0
+ORD11145,2023-06-21,Home & Kitchen,CUST6289,4,376.09,Net Banking,Delivered,0
+ORD10599,2023-06-21,Books,CUST1625,2,357.38,Credit Card,Cancelled,0
+ORD10267,2023-06-21,Home & Kitchen,CUST5051,5,429.42,Debit Card,Delivered,0
+ORD10504,2023-06-22,Beauty,CUST1833,3,462.53,Debit Card,Delivered,0
+ORD11159,2023-06-22,Sports,CUST1429,4,254.22,UPI,Shipped,0
+ORD11293,2023-06-23,Clothing,CUST6377,3,440.21,Debit Card,Shipped,0
+ORD10417,2023-06-24,Sports,CUST3217,1,158.99,UPI,Pending,0
+ORD10793,2023-06-24,Sports,CUST4967,2,76.29,Net Banking,Delivered,0
+ORD11836,2023-06-25,Books,CUST6113,4,80.56,UPI,Delivered,0
+ORD10722,2023-06-25,Books,CUST5103,1,353.04,Debit Card,Delivered,0
+ORD11735,2023-06-26,Home & Kitchen,CUST4917,2,18.32,UPI,Delivered,0
+ORD10093,2023-06-26,Clothing,CUST3813,1,250.08,Debit Card,Delivered,0
+ORD10913,2023-06-26,Home & Kitchen,CUST4661,1,359.2,Cash on Delivery,Pending,0
+ORD10096,2023-06-27,Home & Kitchen,CUST1040,5,397.33,UPI,Delivered,0
+ORD10078,2023-06-28,Books,CUST8364,4,401.81,Credit Card,Delivered,0
+ORD10952,2023-06-28,Home & Kitchen,CUST4885,1,65.18,Credit Card,Delivered,0
+ORD11888,2023-06-29,Home & Kitchen,CUST7635,4,234.47,UPI,Returned,1
+ORD11364,2023-06-29,Beauty,CUST2837,1,19.99,UPI,Returned,1
+ORD10256,2023-06-29,Books,CUST2268,2,252.81,Cash on Delivery,Shipped,0
+ORD11226,2023-06-30,Electronics,CUST7546,2,485.29,Debit Card,Pending,0
+ORD10534,2023-06-30,Beauty,CUST7330,1,144.68,Credit Card,Delivered,0
+ORD11962,2023-06-30,Home & Kitchen,CUST8989,4,335.62,Cash on Delivery,Delivered,0
+ORD11285,2023-06-30,Clothing,CUST4995,4,269.27,Debit Card,Delivered,0
+ORD10211,2023-06-30,Clothing,CUST1039,5,130.34,Cash on Delivery,Pending,0
+ORD11767,2023-07-01,Clothing,CUST1545,5,149.26,Cash on Delivery,Delivered,0
+ORD10920,2023-07-01,Toys,CUST1096,1,136.27,Credit Card,Shipped,0
+ORD11032,2023-07-01,Toys,CUST2180,2,24.69,UPI,Delivered,0
+ORD11597,2023-07-01,Beauty,CUST4054,2,236.68,Cash on Delivery,Shipped,0
+ORD10594,2023-07-01,Electronics,CUST4635,5,493.8,UPI,Cancelled,0
+ORD11223,2023-07-03,Toys,CUST5479,4,420.77,UPI,Cancelled,0
+ORD11480,2023-07-03,Toys,CUST8073,2,267.65,Cash on Delivery,Delivered,0
+ORD10197,2023-07-04,Groceries,CUST8552,1,454.05,UPI,Pending,0
+ORD10259,2023-07-04,Books,CUST6689,1,456.01,Credit Card,Delivered,0
+ORD11685,2023-07-04,Beauty,CUST2469,4,298.57,UPI,Returned,1
+ORD10973,2023-07-04,Sports,CUST1255,1,100.18,Net Banking,Shipped,0
+ORD10650,2023-07-04,Sports,CUST3162,2,276.25,Cash on Delivery,Delivered,0
+ORD11959,2023-07-05,Clothing,CUST6732,1,499.8,Net Banking,Cancelled,0
+ORD11031,2023-07-05,Groceries,CUST4449,2,143.39,Cash on Delivery,Delivered,0
+ORD11517,2023-07-06,Toys,CUST3105,1,459.63,Net Banking,Shipped,0
+ORD10125,2023-07-06,Electronics,CUST9348,5,140.49,Net Banking,Returned,1
+ORD10679,2023-07-06,Beauty,CUST6582,4,489.59,Net Banking,Shipped,0
+ORD11058,2023-07-06,Home & Kitchen,CUST2300,1,64.9,Cash on Delivery,Delivered,0
+ORD11306,2023-07-06,Toys,CUST8785,2,13.98,Debit Card,Delivered,0
+ORD10490,2023-07-06,Electronics,CUST2062,4,469.97,Credit Card,Shipped,0
+ORD11913,2023-07-07,Toys,CUST7578,4,462.41,Debit Card,Delivered,0
+ORD10361,2023-07-08,Clothing,CUST1126,2,272.31,Debit Card,Delivered,0
+ORD10496,2023-07-09,Groceries,CUST2091,2,400.1,Debit Card,Delivered,0
+ORD11712,2023-07-09,Electronics,CUST1553,4,430.16,UPI,Delivered,0
+ORD10662,2023-07-09,Toys,CUST8676,1,51.27,Debit Card,Shipped,0
+ORD10549,2023-07-10,Home & Kitchen,CUST5444,5,248.86,Debit Card,Delivered,0
+ORD11521,2023-07-10,Groceries,CUST7324,2,461.8,Net Banking,Cancelled,0
+ORD10403,2023-07-10,Books,CUST3316,1,439.27,Cash on Delivery,Delivered,0
+ORD11718,2023-07-11,Electronics,CUST5003,3,327.56,Debit Card,Delivered,0
+ORD10747,2023-07-11,Books,CUST2896,4,423.12,UPI,Pending,0
+ORD10579,2023-07-12,Electronics,CUST5998,2,139.39,Net Banking,Pending,0
+ORD10055,2023-07-12,Clothing,CUST9604,2,406.4,Net Banking,Shipped,0
+ORD10316,2023-07-12,Sports,CUST9361,2,476.41,Debit Card,Cancelled,0
+ORD10882,2023-07-12,Clothing,CUST4034,5,221.77,Net Banking,Cancelled,0
+ORD11998,2023-07-12,Groceries,CUST8442,4,132.95,Net Banking,Delivered,0
+ORD11927,2023-07-13,Home & Kitchen,CUST6986,2,441.44,Net Banking,Returned,1
+ORD10596,2023-07-13,Groceries,CUST7686,2,217.74,Cash on Delivery,Delivered,0
+ORD10448,2023-07-13,Electronics,CUST1193,1,192.67,Cash on Delivery,Delivered,0
+ORD11389,2023-07-13,Home & Kitchen,CUST3388,1,107.49,Credit Card,Delivered,0
+ORD11834,2023-07-14,Toys,CUST8526,4,230.34,Net Banking,Delivered,0
+ORD10806,2023-07-15,Home & Kitchen,CUST1979,3,107.67,Debit Card,Delivered,0
+ORD10531,2023-07-15,Toys,CUST6572,3,232.48,Debit Card,Delivered,0
+ORD11551,2023-07-16,Toys,CUST3900,5,309.72,Cash on Delivery,Delivered,0
+ORD10322,2023-07-16,Electronics,CUST3761,5,210.43,Debit Card,Shipped,0
+ORD10326,2023-07-16,Electronics,CUST9037,1,242.63,UPI,Delivered,0
+ORD10788,2023-07-16,Sports,CUST2289,3,361.79,Net Banking,Delivered,0
+ORD11197,2023-07-16,Clothing,CUST7190,3,179.83,UPI,Returned,1
+ORD10173,2023-07-17,Electronics,CUST4165,1,461.81,UPI,Delivered,0
+ORD10773,2023-07-17,Beauty,CUST8726,5,290.65,Net Banking,Shipped,0
+ORD11852,2023-07-17,Groceries,CUST9482,4,386.26,Net Banking,Delivered,0
+ORD10302,2023-07-17,Groceries,CUST1981,1,176.89,Net Banking,Shipped,0
+ORD11384,2023-07-17,Clothing,CUST2937,4,456.2,Debit Card,Delivered,0
+ORD10220,2023-07-17,Sports,CUST8693,1,282.55,Net Banking,Delivered,0
+ORD10037,2023-07-18,Electronics,CUST5022,4,179.56,UPI,Delivered,0
+ORD10240,2023-07-19,Groceries,CUST5628,4,377.56,UPI,Delivered,0
+ORD10798,2023-07-19,Beauty,CUST3883,2,130.03,UPI,Delivered,0
+ORD10613,2023-07-19,Books,CUST1381,5,65.99,Debit Card,Delivered,0
+ORD11442,2023-07-20,Home & Kitchen,CUST5133,3,332.94,Credit Card,Delivered,0
+ORD10732,2023-07-20,Beauty,CUST2741,1,386.02,Credit Card,Delivered,0
+ORD11732,2023-07-20,Books,CUST6234,1,228.99,Debit Card,Delivered,0
+ORD11662,2023-07-20,Books,CUST7019,5,486.11,Cash on Delivery,Shipped,0
+ORD11804,2023-07-20,Groceries,CUST8464,1,66.63,UPI,Delivered,0
+ORD10234,2023-07-20,Books,CUST2006,3,129.27,Cash on Delivery,Shipped,0
+ORD10293,2023-07-21,Books,CUST3426,5,437.87,Net Banking,Delivered,0
+ORD11965,2023-07-21,Toys,CUST3607,5,339.02,UPI,Delivered,0
+ORD11431,2023-07-22,Electronics,CUST3900,3,418.16,Cash on Delivery,Delivered,0
+ORD11395,2023-07-22,Beauty,CUST6999,4,467.74,Debit Card,Delivered,0
+ORD10147,2023-07-22,Electronics,CUST6437,2,151.33,Net Banking,Shipped,0
+ORD10735,2023-07-22,Books,CUST7826,4,459.57,UPI,Shipped,0
+ORD11511,2023-07-22,Toys,CUST8450,4,400.86,Debit Card,Delivered,0
+ORD10777,2023-07-23,Beauty,CUST1342,1,357.43,Net Banking,Shipped,0
+ORD11937,2023-07-24,Groceries,CUST7846,3,285.84,Cash on Delivery,Delivered,0
+ORD11189,2023-07-24,Beauty,CUST6916,3,315.14,Debit Card,Pending,0
+ORD10356,2023-07-24,Toys,CUST5922,5,252.17,UPI,Delivered,0
+ORD11406,2023-07-24,Sports,CUST5537,2,444.39,Credit Card,Delivered,0
+ORD10478,2023-07-26,Sports,CUST5113,1,50.94,Credit Card,Delivered,0
+ORD10527,2023-07-26,Books,CUST4716,1,195.95,Credit Card,Delivered,0
+ORD10425,2023-07-26,Home & Kitchen,CUST1586,2,321.65,Cash on Delivery,Shipped,0
+ORD11984,2023-07-27,Beauty,CUST7879,2,316.92,Net Banking,Shipped,0
+ORD10163,2023-07-27,Groceries,CUST6996,5,396.34,Cash on Delivery,Shipped,0
+ORD10345,2023-07-27,Toys,CUST1331,4,298.23,UPI,Shipped,0
+ORD10389,2023-07-27,Electronics,CUST5757,1,477.01,Debit Card,Delivered,0
+ORD10493,2023-07-28,Home & Kitchen,CUST7251,5,134.14,Debit Card,Delivered,0
+ORD10524,2023-07-28,Home & Kitchen,CUST9099,1,443.83,Credit Card,Shipped,0
+ORD11193,2023-07-28,Books,CUST7728,3,482.77,Cash on Delivery,Delivered,0
+ORD10565,2023-07-29,Electronics,CUST2376,2,92.18,Debit Card,Returned,1
+ORD10925,2023-07-29,Sports,CUST1699,2,57.4,UPI,Pending,0
+ORD10729,2023-07-29,Clothing,CUST2180,2,44.91,Net Banking,Returned,1
+ORD10387,2023-07-29,Beauty,CUST6990,3,400.93,UPI,Delivered,0
+ORD10152,2023-07-30,Home & Kitchen,CUST7304,5,173.48,Debit Card,Delivered,0
+ORD11910,2023-07-30,Home & Kitchen,CUST5616,3,373.32,Debit Card,Delivered,0
+ORD10600,2023-07-30,Electronics,CUST4043,1,308.95,Net Banking,Delivered,0
+ORD11971,2023-07-30,Groceries,CUST8646,2,228.83,Net Banking,Cancelled,0
+ORD10826,2023-07-31,Home & Kitchen,CUST3605,3,430.0,Credit Card,Delivered,0
+ORD10861,2023-07-31,Beauty,CUST7549,5,441.89,Net Banking,Delivered,0
+ORD11766,2023-07-31,Groceries,CUST5100,4,215.61,Net Banking,Delivered,0
+ORD11469,2023-07-31,Electronics,CUST4964,2,464.41,Net Banking,Delivered,0
+ORD11905,2023-07-31,Electronics,CUST7963,5,389.95,Cash on Delivery,Delivered,0
+ORD11122,2023-07-31,Groceries,CUST9914,4,414.31,Net Banking,Delivered,0
+ORD11286,2023-07-31,Books,CUST5317,3,365.97,Net Banking,Delivered,0
+ORD11079,2023-08-01,Groceries,CUST4787,5,289.89,UPI,Delivered,0
+ORD11992,2023-08-01,Books,CUST6232,5,347.66,Debit Card,Delivered,0
+ORD11361,2023-08-01,Home & Kitchen,CUST4516,3,222.58,Net Banking,Delivered,0
+ORD11822,2023-08-01,Groceries,CUST2450,3,178.68,Net Banking,Cancelled,0
+ORD10957,2023-08-02,Groceries,CUST9741,3,386.55,Debit Card,Delivered,0
+ORD11729,2023-08-02,Clothing,CUST1202,2,61.43,Cash on Delivery,Pending,0
+ORD10950,2023-08-02,Toys,CUST7897,1,319.85,Net Banking,Returned,1
+ORD10175,2023-08-02,Beauty,CUST7088,2,433.25,UPI,Delivered,0
+ORD10203,2023-08-03,Home & Kitchen,CUST3088,1,76.88,Debit Card,Delivered,0
+ORD10870,2023-08-03,Toys,CUST5859,3,42.41,Credit Card,Pending,0
+ORD11623,2023-08-04,Sports,CUST8732,1,401.49,Net Banking,Delivered,0
+ORD11857,2023-08-04,Toys,CUST8523,4,202.6,Net Banking,Shipped,0
+ORD11105,2023-08-04,Clothing,CUST9618,4,383.37,Net Banking,Delivered,0
+ORD11064,2023-08-04,Sports,CUST4600,4,311.17,Debit Card,Returned,1
+ORD10109,2023-08-04,Electronics,CUST4287,3,476.8,Net Banking,Delivered,0
+ORD10996,2023-08-04,Electronics,CUST2125,2,333.06,UPI,Pending,0
+ORD11279,2023-08-05,Electronics,CUST7643,1,304.37,UPI,Pending,0
+ORD11409,2023-08-06,Toys,CUST1246,4,318.34,Credit Card,Delivered,0
+ORD10117,2023-08-06,Books,CUST8494,3,213.69,UPI,Delivered,0
+ORD11829,2023-08-06,Home & Kitchen,CUST6063,2,383.16,UPI,Delivered,0
+ORD11005,2023-08-06,Electronics,CUST4116,3,318.85,Net Banking,Delivered,0
+ORD11970,2023-08-06,Home & Kitchen,CUST8426,4,296.74,Debit Card,Delivered,0
+ORD10972,2023-08-07,Toys,CUST4354,1,86.76,UPI,Delivered,0
+ORD11653,2023-08-07,Toys,CUST1882,5,360.6,UPI,Returned,1
+ORD11604,2023-08-09,Home & Kitchen,CUST8547,3,30.02,Debit Card,Delivered,0
+ORD10423,2023-08-09,Electronics,CUST3283,4,115.94,Credit Card,Delivered,0
+ORD11402,2023-08-09,Clothing,CUST9918,3,121.34,Net Banking,Cancelled,0
+ORD10633,2023-08-10,Toys,CUST1129,2,16.45,Cash on Delivery,Delivered,0
+ORD10127,2023-08-10,Clothing,CUST3544,2,336.77,Net Banking,Delivered,0
+ORD10879,2023-08-10,Beauty,CUST6103,2,72.24,Net Banking,Returned,1
+ORD10003,2023-08-11,Books,CUST1277,4,424.82,Credit Card,Delivered,0
+ORD10704,2023-08-11,Toys,CUST3911,4,467.97,Debit Card,Shipped,0
+ORD11302,2023-08-12,Clothing,CUST3339,3,450.97,Debit Card,Shipped,0
+ORD11581,2023-08-12,Home & Kitchen,CUST5491,3,456.63,Credit Card,Delivered,0
+ORD10954,2023-08-12,Beauty,CUST3849,1,399.16,UPI,Delivered,0
+ORD11884,2023-08-12,Groceries,CUST1178,5,488.6,UPI,Pending,0
+ORD11127,2023-08-13,Groceries,CUST7583,4,116.47,UPI,Delivered,0
+ORD11077,2023-08-13,Groceries,CUST1213,2,172.39,Credit Card,Shipped,0
+ORD11743,2023-08-13,Books,CUST9903,3,107.33,UPI,Delivered,0
+ORD10712,2023-08-15,Toys,CUST4972,2,57.75,Credit Card,Delivered,0
+ORD11456,2023-08-15,Toys,CUST9257,1,300.98,Credit Card,Shipped,0
+ORD11214,2023-08-15,Books,CUST9013,1,309.95,Net Banking,Delivered,0
+ORD11382,2023-08-16,Groceries,CUST8363,3,451.27,Debit Card,Delivered,0
+ORD10584,2023-08-16,Books,CUST3971,3,433.17,Credit Card,Shipped,0
+ORD11649,2023-08-16,Home & Kitchen,CUST7402,4,477.22,UPI,Delivered,0
+ORD10975,2023-08-16,Electronics,CUST6732,3,82.09,Debit Card,Shipped,0
+ORD11553,2023-08-17,Groceries,CUST6133,3,386.89,UPI,Delivered,0
+ORD11699,2023-08-17,Home & Kitchen,CUST8044,4,346.52,UPI,Delivered,0
+ORD10198,2023-08-17,Clothing,CUST8110,4,48.71,Credit Card,Pending,0
+ORD11652,2023-08-17,Toys,CUST5494,3,18.14,UPI,Shipped,0
+ORD10432,2023-08-18,Beauty,CUST4698,1,306.45,UPI,Delivered,0
+ORD10241,2023-08-18,Beauty,CUST5554,3,479.71,Debit Card,Delivered,0
+ORD11870,2023-08-19,Electronics,CUST3948,5,51.33,Net Banking,Delivered,0
+ORD10427,2023-08-19,Books,CUST8908,3,86.89,Debit Card,Pending,0
+ORD11891,2023-08-21,Sports,CUST6354,1,463.7,Cash on Delivery,Delivered,0
+ORD11912,2023-08-21,Toys,CUST1838,4,443.73,Cash on Delivery,Returned,1
+ORD10393,2023-08-21,Home & Kitchen,CUST2174,2,424.25,Credit Card,Delivered,0
+ORD11296,2023-08-21,Home & Kitchen,CUST2315,1,430.98,Credit Card,Delivered,0
+ORD11484,2023-08-22,Clothing,CUST2389,2,40.33,UPI,Delivered,0
+ORD10452,2023-08-22,Beauty,CUST7783,3,434.07,UPI,Delivered,0
+ORD10272,2023-08-23,Home & Kitchen,CUST5913,5,261.32,Debit Card,Shipped,0
+ORD11783,2023-08-23,Sports,CUST4751,3,357.53,UPI,Pending,0
+ORD10743,2023-08-23,Toys,CUST6407,5,188.95,Credit Card,Pending,0
+ORD11530,2023-08-24,Beauty,CUST5896,5,256.34,Credit Card,Delivered,0
+ORD11177,2023-08-24,Groceries,CUST8335,4,231.7,Credit Card,Delivered,0
+ORD10945,2023-08-24,Electronics,CUST6263,4,402.69,UPI,Shipped,0
+ORD10208,2023-08-24,Beauty,CUST7970,1,431.09,UPI,Shipped,0
+ORD10622,2023-08-24,Clothing,CUST4405,4,318.04,UPI,Delivered,0
+ORD10164,2023-08-25,Toys,CUST7291,3,51.47,UPI,Shipped,0
+ORD10835,2023-08-25,Sports,CUST9544,5,61.29,Net Banking,Returned,1
+ORD10801,2023-08-25,Electronics,CUST4266,3,265.04,Debit Card,Cancelled,0
+ORD10157,2023-08-25,Groceries,CUST9088,5,301.46,UPI,Delivered,0
+ORD11460,2023-08-26,Groceries,CUST4103,5,460.25,Credit Card,Shipped,0
+ORD10335,2023-08-26,Clothing,CUST1132,5,26.75,Net Banking,Returned,1
+ORD11711,2023-08-27,Home & Kitchen,CUST5019,1,314.79,Credit Card,Delivered,0
+ORD11424,2023-08-27,Groceries,CUST8378,5,347.84,Credit Card,Pending,0
+ORD11232,2023-08-27,Groceries,CUST7133,4,241.48,Cash on Delivery,Shipped,0
+ORD10880,2023-08-28,Groceries,CUST4622,5,188.02,Debit Card,Pending,0
+ORD10266,2023-08-28,Home & Kitchen,CUST4162,4,359.27,Net Banking,Delivered,0
+ORD11906,2023-08-29,Electronics,CUST2099,1,489.1,Net Banking,Delivered,0
+ORD10062,2023-08-29,Clothing,CUST5313,3,120.91,Cash on Delivery,Delivered,0
+ORD11777,2023-08-30,Toys,CUST5701,2,366.45,UPI,Delivered,0
+ORD11287,2023-08-30,Toys,CUST9573,4,106.48,Debit Card,Delivered,0
+ORD10364,2023-08-31,Toys,CUST3816,2,456.62,Cash on Delivery,Shipped,0
+ORD11494,2023-08-31,Groceries,CUST5957,2,271.99,UPI,Returned,1
+ORD10424,2023-08-31,Home & Kitchen,CUST1191,1,12.74,Cash on Delivery,Shipped,0
+ORD10727,2023-08-31,Clothing,CUST1160,4,367.92,Credit Card,Pending,0
+ORD10252,2023-09-01,Books,CUST7976,1,31.04,Cash on Delivery,Delivered,0
+ORD11808,2023-09-01,Electronics,CUST3061,3,219.08,Credit Card,Pending,0
+ORD10938,2023-09-01,Home & Kitchen,CUST7743,5,181.2,UPI,Delivered,0
+ORD11388,2023-09-01,Groceries,CUST7791,2,312.83,Cash on Delivery,Delivered,0
+ORD11781,2023-09-02,Groceries,CUST9981,1,44.74,Cash on Delivery,Delivered,0
+ORD11394,2023-09-02,Electronics,CUST9311,1,133.95,UPI,Shipped,0
+ORD11114,2023-09-02,Groceries,CUST5664,3,255.77,UPI,Delivered,0
+ORD11336,2023-09-03,Clothing,CUST2198,2,345.64,Cash on Delivery,Delivered,0
+ORD10864,2023-09-03,Sports,CUST2453,3,165.13,Cash on Delivery,Delivered,0
+ORD10890,2023-09-03,Groceries,CUST4456,3,38.26,Debit Card,Delivered,0
+ORD10730,2023-09-03,Electronics,CUST8322,5,446.28,Net Banking,Pending,0
+ORD11006,2023-09-03,Groceries,CUST5166,2,497.85,Debit Card,Delivered,0
+ORD10871,2023-09-03,Sports,CUST4039,3,71.25,Net Banking,Delivered,0
+ORD10949,2023-09-03,Electronics,CUST4380,1,373.73,UPI,Delivered,0
+ORD10772,2023-09-04,Sports,CUST6929,4,70.08,Debit Card,Shipped,0
+ORD11474,2023-09-04,Toys,CUST5463,2,421.84,Credit Card,Delivered,0
+ORD10618,2023-09-04,Sports,CUST4034,2,129.38,UPI,Shipped,0
+ORD11200,2023-09-04,Beauty,CUST3783,5,383.88,UPI,Delivered,0
+ORD10568,2023-09-05,Clothing,CUST2725,4,486.39,Net Banking,Delivered,0
+ORD11184,2023-09-05,Beauty,CUST2358,5,477.29,Net Banking,Delivered,0
+ORD10923,2023-09-06,Toys,CUST5543,1,346.95,Net Banking,Shipped,0
+ORD10709,2023-09-07,Clothing,CUST7609,4,277.41,Net Banking,Delivered,0
+ORD10049,2023-09-07,Home & Kitchen,CUST3102,1,157.27,Credit Card,Delivered,0
+ORD11973,2023-09-07,Home & Kitchen,CUST4500,4,410.29,Cash on Delivery,Delivered,0
+ORD10818,2023-09-07,Clothing,CUST3347,2,353.01,Cash on Delivery,Delivered,0
+ORD11015,2023-09-07,Sports,CUST8540,1,498.91,Credit Card,Delivered,0
+ORD11419,2023-09-07,Clothing,CUST3308,5,74.0,Net Banking,Delivered,0
+ORD10761,2023-09-08,Home & Kitchen,CUST1681,1,454.22,Net Banking,Pending,0
+ORD11929,2023-09-08,Beauty,CUST9905,4,396.02,Net Banking,Delivered,0
+ORD10635,2023-09-09,Groceries,CUST2692,3,77.06,Credit Card,Delivered,0
+ORD10395,2023-09-09,Sports,CUST3412,4,447.79,Cash on Delivery,Delivered,0
+ORD11066,2023-09-09,Beauty,CUST9047,5,28.97,Credit Card,Delivered,0
+ORD11943,2023-09-10,Electronics,CUST9991,3,70.92,Net Banking,Delivered,0
+ORD10774,2023-09-10,Clothing,CUST3674,1,311.8,Debit Card,Delivered,0
+ORD11500,2023-09-10,Books,CUST2624,3,153.4,Net Banking,Delivered,0
+ORD11119,2023-09-11,Sports,CUST1979,1,198.59,Debit Card,Delivered,0
+ORD10856,2023-09-11,Clothing,CUST9129,4,342.03,Debit Card,Delivered,0
+ORD10991,2023-09-12,Toys,CUST6788,2,464.39,Credit Card,Delivered,0
+ORD10603,2023-09-12,Books,CUST9892,2,69.77,Cash on Delivery,Delivered,0
+ORD10680,2023-09-12,Clothing,CUST2946,2,149.2,UPI,Delivered,0
+ORD11612,2023-09-13,Clothing,CUST1687,4,170.6,Net Banking,Pending,0
+ORD11116,2023-09-14,Toys,CUST6225,2,193.88,Debit Card,Delivered,0
+ORD11727,2023-09-14,Clothing,CUST7675,3,282.14,Cash on Delivery,Delivered,0
+ORD11573,2023-09-15,Sports,CUST7780,5,98.49,Debit Card,Cancelled,0
+ORD11503,2023-09-15,Beauty,CUST9865,3,182.04,Credit Card,Delivered,0
+ORD10948,2023-09-15,Toys,CUST8314,1,152.48,Cash on Delivery,Delivered,0
+ORD11952,2023-09-15,Electronics,CUST1309,4,398.49,UPI,Cancelled,0
+ORD10958,2023-09-15,Home & Kitchen,CUST9631,5,214.32,Credit Card,Delivered,0
+ORD11996,2023-09-16,Books,CUST1691,4,155.27,Debit Card,Pending,0
+ORD11675,2023-09-16,Electronics,CUST2124,4,474.69,Debit Card,Cancelled,0
+ORD10088,2023-09-17,Groceries,CUST2741,1,107.26,Cash on Delivery,Delivered,0
+ORD10741,2023-09-17,Beauty,CUST5136,3,450.73,UPI,Delivered,0
+ORD10901,2023-09-18,Electronics,CUST7115,2,408.72,Credit Card,Delivered,0
+ORD10165,2023-09-18,Books,CUST7489,4,205.74,UPI,Delivered,0
+ORD11386,2023-09-19,Electronics,CUST5360,5,484.94,Cash on Delivery,Returned,1
+ORD10092,2023-09-19,Clothing,CUST6847,3,313.94,Cash on Delivery,Delivered,0
+ORD10630,2023-09-19,Electronics,CUST9591,3,220.43,Debit Card,Delivered,0
+ORD10306,2023-09-19,Home & Kitchen,CUST9563,1,271.87,Cash on Delivery,Shipped,0
+ORD11038,2023-09-19,Books,CUST2602,2,274.43,Credit Card,Returned,1
+ORD10507,2023-09-21,Clothing,CUST3447,3,389.05,Debit Card,Delivered,0
+ORD10338,2023-09-21,Books,CUST9737,5,489.09,Cash on Delivery,Delivered,0
+ORD10934,2023-09-21,Clothing,CUST2768,4,185.27,Cash on Delivery,Shipped,0
+ORD11844,2023-09-22,Home & Kitchen,CUST7374,3,416.74,Debit Card,Delivered,0
+ORD10378,2023-09-23,Electronics,CUST1392,3,105.37,UPI,Delivered,0
+ORD11321,2023-09-23,Electronics,CUST2862,4,78.38,UPI,Shipped,0
+ORD11541,2023-09-24,Sports,CUST4977,3,190.73,UPI,Delivered,0
+ORD10563,2023-09-24,Beauty,CUST5158,2,12.13,Credit Card,Shipped,0
+ORD11342,2023-09-24,Beauty,CUST4561,5,403.99,Debit Card,Delivered,0
+ORD11335,2023-09-24,Sports,CUST4714,3,77.35,Net Banking,Pending,0
+ORD11418,2023-09-24,Home & Kitchen,CUST4735,5,262.69,Debit Card,Delivered,0
+ORD11554,2023-09-25,Beauty,CUST6102,1,358.47,UPI,Delivered,0
+ORD11154,2023-09-25,Clothing,CUST2311,2,318.75,UPI,Delivered,0
+ORD10346,2023-09-25,Beauty,CUST5449,2,52.8,Credit Card,Delivered,0
+ORD10182,2023-09-26,Clothing,CUST3754,1,50.29,Credit Card,Delivered,0
+ORD11241,2023-09-26,Home & Kitchen,CUST2569,2,67.92,UPI,Delivered,0
+ORD10714,2023-09-26,Beauty,CUST5517,2,457.62,Cash on Delivery,Delivered,0
+ORD11125,2023-09-26,Home & Kitchen,CUST1368,5,98.74,Net Banking,Delivered,0
+ORD10511,2023-09-26,Sports,CUST4294,2,305.65,Credit Card,Delivered,0
+ORD10297,2023-09-27,Sports,CUST6571,4,257.54,Credit Card,Delivered,0
+ORD11411,2023-09-27,Groceries,CUST2410,4,18.03,Cash on Delivery,Delivered,0
+ORD10320,2023-09-27,Electronics,CUST3880,3,136.52,Cash on Delivery,Shipped,0
+ORD11606,2023-09-28,Home & Kitchen,CUST5349,5,421.44,Debit Card,Delivered,0
+ORD10295,2023-09-29,Books,CUST4593,1,378.9,UPI,Shipped,0
+ORD10517,2023-09-29,Home & Kitchen,CUST6721,2,302.26,Debit Card,Returned,1
+ORD11115,2023-09-29,Clothing,CUST2405,1,336.04,Cash on Delivery,Shipped,0
+ORD10582,2023-09-30,Electronics,CUST3609,1,98.55,Cash on Delivery,Shipped,0
+ORD10646,2023-09-30,Books,CUST9466,4,117.09,Credit Card,Delivered,0
+ORD10626,2023-10-01,Clothing,CUST3972,5,267.91,Credit Card,Delivered,0
+ORD11562,2023-10-01,Sports,CUST8367,2,57.62,Net Banking,Returned,1
+ORD10755,2023-10-02,Groceries,CUST4337,3,114.46,UPI,Shipped,0
+ORD11473,2023-10-02,Beauty,CUST6825,5,41.15,Debit Card,Delivered,0
+ORD10094,2023-10-03,Groceries,CUST3243,2,330.42,Debit Card,Delivered,0
+ORD11393,2023-10-03,Home & Kitchen,CUST8888,2,337.39,UPI,Pending,0
+ORD11492,2023-10-03,Beauty,CUST7305,4,260.34,Debit Card,Delivered,0
+ORD11563,2023-10-03,Clothing,CUST3038,5,355.86,UPI,Delivered,0
+ORD10853,2023-10-03,Home & Kitchen,CUST1607,4,305.49,Credit Card,Shipped,0
+ORD10168,2023-10-04,Books,CUST9011,4,192.48,Credit Card,Delivered,0
+ORD11858,2023-10-04,Clothing,CUST9439,3,143.06,UPI,Delivered,0
+ORD11257,2023-10-05,Home & Kitchen,CUST1913,3,79.92,UPI,Delivered,0
+ORD11178,2023-10-06,Electronics,CUST3749,4,338.57,Debit Card,Delivered,0
+ORD11784,2023-10-06,Groceries,CUST2274,3,248.92,UPI,Pending,0
+ORD10079,2023-10-06,Home & Kitchen,CUST7542,4,413.28,Cash on Delivery,Delivered,0
+ORD11308,2023-10-06,Sports,CUST1019,5,381.34,Debit Card,Delivered,0
+ORD11740,2023-10-06,Groceries,CUST4499,1,196.03,Net Banking,Delivered,0
+ORD10139,2023-10-07,Books,CUST5221,3,191.38,UPI,Returned,1
+ORD11155,2023-10-07,Sports,CUST5908,2,483.34,Cash on Delivery,Shipped,0
+ORD10931,2023-10-07,Clothing,CUST3141,1,53.03,UPI,Delivered,0
+ORD10479,2023-10-07,Toys,CUST5372,3,360.45,Debit Card,Shipped,0
+ORD11791,2023-10-07,Beauty,CUST2973,4,337.88,Cash on Delivery,Shipped,0
+ORD11658,2023-10-08,Beauty,CUST8804,1,18.29,Debit Card,Shipped,0
+ORD10151,2023-10-09,Toys,CUST6516,2,187.66,Net Banking,Delivered,0
+ORD10645,2023-10-09,Clothing,CUST5188,4,137.54,Cash on Delivery,Delivered,0
+ORD11281,2023-10-09,Groceries,CUST8342,4,240.95,Debit Card,Delivered,0
+ORD10337,2023-10-09,Toys,CUST4130,2,287.59,Cash on Delivery,Cancelled,0
+ORD10803,2023-10-09,Electronics,CUST6858,5,239.54,UPI,Returned,1
+ORD10529,2023-10-10,Groceries,CUST3495,3,219.69,Cash on Delivery,Returned,1
+ORD11258,2023-10-10,Groceries,CUST1237,1,463.89,Net Banking,Delivered,0
+ORD11861,2023-10-10,Beauty,CUST5426,2,419.55,Debit Card,Returned,1
+ORD11234,2023-10-10,Toys,CUST5094,4,344.58,Cash on Delivery,Shipped,0
+ORD11158,2023-10-11,Groceries,CUST7182,5,421.61,UPI,Delivered,0
+ORD10458,2023-10-11,Home & Kitchen,CUST8533,5,311.75,Net Banking,Cancelled,0
+ORD11187,2023-10-11,Books,CUST9295,1,215.4,Debit Card,Delivered,0
+ORD10955,2023-10-11,Clothing,CUST9458,3,78.0,UPI,Delivered,0
+ORD10466,2023-10-12,Toys,CUST1840,2,474.42,Debit Card,Delivered,0
+ORD10578,2023-10-12,Toys,CUST8607,2,110.59,Credit Card,Delivered,0
+ORD10492,2023-10-12,Home & Kitchen,CUST6299,4,156.01,Debit Card,Delivered,0
+ORD11887,2023-10-12,Sports,CUST8641,4,468.19,Credit Card,Delivered,0
+ORD11042,2023-10-12,Books,CUST6265,3,238.17,Cash on Delivery,Delivered,0
+ORD10640,2023-10-13,Books,CUST7590,2,84.25,Debit Card,Delivered,0
+ORD11863,2023-10-13,Beauty,CUST1842,1,40.46,Net Banking,Pending,0
+ORD11320,2023-10-15,Electronics,CUST6658,3,296.0,Debit Card,Delivered,0
+ORD11660,2023-10-15,Sports,CUST6697,5,341.55,Credit Card,Delivered,0
+ORD10264,2023-10-15,Groceries,CUST3429,4,204.93,Debit Card,Delivered,0
+ORD11951,2023-10-15,Home & Kitchen,CUST3853,5,153.63,Debit Card,Delivered,0
+ORD11318,2023-10-16,Groceries,CUST2572,4,10.57,Cash on Delivery,Delivered,0
+ORD11351,2023-10-16,Books,CUST9187,4,482.0,Debit Card,Delivered,0
+ORD11866,2023-10-16,Toys,CUST2115,4,200.23,Cash on Delivery,Shipped,0
+ORD10136,2023-10-16,Books,CUST6182,4,248.07,Credit Card,Pending,0
+ORD11613,2023-10-17,Clothing,CUST5378,4,105.15,UPI,Delivered,0
+ORD11303,2023-10-17,Home & Kitchen,CUST1370,2,77.27,Cash on Delivery,Returned,1
+ORD11423,2023-10-18,Electronics,CUST9460,3,288.73,Net Banking,Delivered,0
+ORD10025,2023-10-18,Toys,CUST8896,5,311.44,Debit Card,Delivered,0
+ORD11057,2023-10-18,Toys,CUST2187,2,236.07,Net Banking,Shipped,0
+ORD11736,2023-10-19,Clothing,CUST4013,5,164.96,Net Banking,Delivered,0
+ORD11842,2023-10-19,Electronics,CUST2933,2,340.0,UPI,Delivered,0
+ORD11626,2023-10-19,Sports,CUST4807,5,95.54,Credit Card,Delivered,0
+ORD11710,2023-10-20,Clothing,CUST8360,3,274.82,Debit Card,Delivered,0
+ORD11879,2023-10-20,Home & Kitchen,CUST6833,3,396.88,Debit Card,Delivered,0
+ORD11366,2023-10-20,Electronics,CUST6098,5,89.16,Net Banking,Shipped,0
+ORD10829,2023-10-20,Books,CUST8475,2,29.56,Net Banking,Delivered,0
+ORD10284,2023-10-21,Groceries,CUST8865,3,488.09,Net Banking,Shipped,0
+ORD10449,2023-10-21,Beauty,CUST2595,3,201.76,Net Banking,Delivered,0
+ORD11641,2023-10-21,Sports,CUST5589,2,446.43,UPI,Pending,0
+ORD10906,2023-10-21,Beauty,CUST1046,1,285.44,UPI,Cancelled,0
+ORD10916,2023-10-22,Toys,CUST4631,4,414.56,Cash on Delivery,Delivered,0
+ORD10104,2023-10-22,Sports,CUST2903,2,405.17,UPI,Cancelled,0
+ORD11990,2023-10-22,Electronics,CUST3289,3,101.59,UPI,Delivered,0
+ORD10561,2023-10-23,Home & Kitchen,CUST9287,4,399.66,Net Banking,Delivered,0
+ORD10537,2023-10-23,Electronics,CUST4734,4,13.36,Credit Card,Shipped,0
+ORD11213,2023-10-24,Home & Kitchen,CUST5666,1,144.24,Cash on Delivery,Delivered,0
+ORD10085,2023-10-24,Toys,CUST1672,2,431.16,UPI,Delivered,0
+ORD11103,2023-10-25,Books,CUST5733,4,203.94,Credit Card,Delivered,0
+ORD10969,2023-10-25,Beauty,CUST7051,5,43.78,Debit Card,Delivered,0
+ORD11092,2023-10-25,Books,CUST4089,2,438.88,Debit Card,Delivered,0
+ORD10692,2023-10-25,Books,CUST2546,2,440.65,Credit Card,Delivered,0
+ORD10764,2023-10-26,Sports,CUST4557,1,21.33,Debit Card,Delivered,0
+ORD11375,2023-10-27,Sports,CUST9294,3,143.92,Debit Card,Returned,1
+ORD11867,2023-10-28,Groceries,CUST7608,2,183.16,Net Banking,Delivered,0
+ORD11299,2023-10-28,Electronics,CUST7441,1,407.62,Credit Card,Delivered,0
+ORD11558,2023-10-28,Toys,CUST6396,1,481.9,Cash on Delivery,Delivered,0
+ORD10076,2023-10-29,Groceries,CUST4087,4,179.46,Net Banking,Delivered,0
+ORD11590,2023-10-29,Groceries,CUST5957,5,278.64,UPI,Cancelled,0
+ORD11819,2023-10-30,Toys,CUST7428,3,483.96,Cash on Delivery,Delivered,0
+ORD10347,2023-10-30,Groceries,CUST1212,4,96.23,Credit Card,Delivered,0
+ORD11495,2023-10-31,Clothing,CUST8320,4,480.22,Debit Card,Shipped,0
+ORD11083,2023-10-31,Electronics,CUST2450,4,77.53,Net Banking,Delivered,0
+ORD10434,2023-10-31,Clothing,CUST7080,5,397.45,Credit Card,Delivered,0
+ORD10897,2023-10-31,Electronics,CUST7401,2,386.63,UPI,Delivered,0
+ORD10227,2023-11-01,Clothing,CUST5476,2,165.07,Credit Card,Delivered,0
+ORD10187,2023-11-01,Home & Kitchen,CUST4354,5,63.75,UPI,Delivered,0
+ORD10260,2023-11-02,Home & Kitchen,CUST5890,3,339.0,UPI,Shipped,0
+ORD11802,2023-11-03,Toys,CUST2057,4,297.23,Cash on Delivery,Delivered,0
+ORD11862,2023-11-03,Toys,CUST2609,2,323.92,UPI,Delivered,0
+ORD11211,2023-11-03,Home & Kitchen,CUST5146,4,147.07,Credit Card,Delivered,0
+ORD11657,2023-11-03,Groceries,CUST3652,4,129.81,Net Banking,Pending,0
+ORD10533,2023-11-04,Electronics,CUST2995,2,260.89,Debit Card,Delivered,0
+ORD10546,2023-11-04,Groceries,CUST4491,1,154.46,Cash on Delivery,Delivered,0
+ORD11087,2023-11-05,Books,CUST9956,5,351.0,Credit Card,Shipped,0
+ORD11949,2023-11-06,Home & Kitchen,CUST9178,4,437.73,Debit Card,Delivered,0
+ORD11282,2023-11-07,Sports,CUST3470,1,338.42,Cash on Delivery,Pending,0
+ORD10536,2023-11-08,Home & Kitchen,CUST1462,5,192.51,Debit Card,Shipped,0
+ORD11560,2023-11-08,Clothing,CUST8695,2,167.41,Debit Card,Delivered,0
+ORD11374,2023-11-09,Home & Kitchen,CUST1938,4,28.49,Cash on Delivery,Delivered,0
+ORD11865,2023-11-09,Beauty,CUST6014,2,274.81,Credit Card,Pending,0
+ORD11417,2023-11-10,Groceries,CUST1631,1,69.13,Debit Card,Delivered,0
+ORD11749,2023-11-10,Toys,CUST2724,4,246.26,Net Banking,Delivered,0
+ORD11734,2023-11-10,Beauty,CUST5641,5,383.92,Cash on Delivery,Shipped,0
+ORD11628,2023-11-10,Books,CUST6497,3,306.51,Debit Card,Delivered,0
+ORD11043,2023-11-10,Beauty,CUST9958,5,367.0,Credit Card,Delivered,0
+ORD10465,2023-11-11,Electronics,CUST6341,2,37.4,Cash on Delivery,Delivered,0
+ORD11071,2023-11-12,Sports,CUST2024,3,342.48,Credit Card,Delivered,0
+ORD11344,2023-11-13,Groceries,CUST1577,1,273.11,Debit Card,Delivered,0
+ORD10366,2023-11-14,Sports,CUST2160,5,88.29,Net Banking,Delivered,0
+ORD10390,2023-11-14,Groceries,CUST4927,1,128.32,Credit Card,Delivered,0
+ORD11549,2023-11-14,Beauty,CUST1083,2,469.03,Cash on Delivery,Returned,1
+ORD10311,2023-11-15,Toys,CUST2614,3,53.19,Credit Card,Delivered,0
+ORD11278,2023-11-15,Toys,CUST7809,4,203.46,Debit Card,Delivered,0
+ORD10887,2023-11-16,Home & Kitchen,CUST7721,4,282.2,UPI,Delivered,0
+ORD11443,2023-11-16,Electronics,CUST6535,3,368.76,Net Banking,Delivered,0
+ORD11069,2023-11-16,Beauty,CUST8886,4,411.64,Credit Card,Shipped,0
+ORD11140,2023-11-16,Home & Kitchen,CUST8119,4,356.36,Credit Card,Delivered,0
+ORD11575,2023-11-17,Electronics,CUST7298,1,445.7,Credit Card,Delivered,0
+ORD11088,2023-11-18,Toys,CUST3692,3,280.1,Credit Card,Pending,0
+ORD10158,2023-11-18,Beauty,CUST7529,5,452.88,UPI,Delivered,0
+ORD11772,2023-11-18,Sports,CUST4336,4,280.17,Cash on Delivery,Shipped,0
+ORD10894,2023-11-18,Electronics,CUST9944,3,99.93,Net Banking,Delivered,0
+ORD10199,2023-11-19,Toys,CUST4794,2,59.62,Debit Card,Delivered,0
+ORD10553,2023-11-19,Sports,CUST8989,4,48.2,Cash on Delivery,Cancelled,0
+ORD10525,2023-11-19,Home & Kitchen,CUST8033,4,343.64,Net Banking,Delivered,0
+ORD10386,2023-11-20,Home & Kitchen,CUST3786,3,311.14,Net Banking,Delivered,0
+ORD11055,2023-11-20,Toys,CUST4273,1,227.75,Net Banking,Cancelled,0
+ORD10416,2023-11-20,Sports,CUST9570,4,367.26,UPI,Delivered,0
+ORD10988,2023-11-20,Sports,CUST9607,3,323.17,UPI,Delivered,0
+ORD10688,2023-11-20,Sports,CUST2053,3,193.53,Cash on Delivery,Delivered,0
+ORD10963,2023-11-21,Beauty,CUST7433,3,47.74,Net Banking,Delivered,0
+ORD10715,2023-11-21,Home & Kitchen,CUST4952,3,337.89,Cash on Delivery,Delivered,0
+ORD11532,2023-11-21,Beauty,CUST2837,4,14.61,Net Banking,Delivered,0
+ORD10223,2023-11-22,Groceries,CUST2295,4,385.93,Debit Card,Cancelled,0
+ORD10201,2023-11-22,Books,CUST8027,2,120.34,Credit Card,Delivered,0
+ORD10846,2023-11-22,Beauty,CUST7299,4,367.14,Net Banking,Pending,0
+ORD11693,2023-11-22,Toys,CUST4382,5,309.28,UPI,Delivered,0
+ORD11348,2023-11-23,Toys,CUST9279,1,391.77,Credit Card,Shipped,0
+ORD10515,2023-11-23,Books,CUST9401,4,325.25,UPI,Delivered,0
+ORD10917,2023-11-23,Toys,CUST1771,3,153.19,Debit Card,Shipped,0
+ORD11152,2023-11-24,Books,CUST1126,5,481.53,Debit Card,Delivered,0
+ORD10966,2023-11-25,Groceries,CUST9075,5,387.68,Debit Card,Cancelled,0
+ORD10960,2023-11-25,Groceries,CUST6730,5,50.41,Net Banking,Shipped,0
+ORD11056,2023-11-25,Beauty,CUST5704,3,430.25,Net Banking,Delivered,0
+ORD10711,2023-11-25,Beauty,CUST3307,5,455.15,Credit Card,Delivered,0
+ORD10706,2023-11-26,Groceries,CUST5622,1,397.13,Debit Card,Shipped,0
+ORD10936,2023-11-26,Home & Kitchen,CUST1152,4,61.68,Credit Card,Shipped,0
+ORD10195,2023-11-26,Clothing,CUST5050,4,249.98,Cash on Delivery,Shipped,0
+ORD10287,2023-11-27,Toys,CUST6441,2,204.83,Credit Card,Shipped,0
+ORD11034,2023-11-28,Beauty,CUST4346,2,122.74,Cash on Delivery,Pending,0
+ORD11989,2023-11-28,Groceries,CUST2883,1,15.65,Cash on Delivery,Delivered,0
+ORD11956,2023-11-28,Electronics,CUST5080,2,202.49,Net Banking,Delivered,0
+ORD11047,2023-11-29,Books,CUST5409,2,103.97,Credit Card,Delivered,0
+ORD11529,2023-11-29,Toys,CUST7657,2,419.44,Credit Card,Delivered,0
+ORD10821,2023-11-29,Home & Kitchen,CUST6437,2,184.6,Debit Card,Delivered,0
+ORD10420,2023-11-29,Books,CUST7010,1,185.0,UPI,Delivered,0
+ORD10873,2023-11-30,Home & Kitchen,CUST6820,5,93.4,Cash on Delivery,Returned,1
+ORD11237,2023-11-30,Beauty,CUST9592,2,426.56,Debit Card,Cancelled,0
+ORD10499,2023-11-30,Groceries,CUST7158,3,289.62,Cash on Delivery,Delivered,0
+ORD10463,2023-12-01,Groceries,CUST8864,5,308.81,Credit Card,Delivered,0
+ORD11520,2023-12-01,Toys,CUST9655,2,209.31,Cash on Delivery,Shipped,0
+ORD10375,2023-12-01,Sports,CUST5899,1,102.35,UPI,Pending,0
+ORD11107,2023-12-01,Sports,CUST3033,4,495.02,Debit Card,Delivered,0
+ORD10718,2023-12-01,Groceries,CUST5230,4,241.56,UPI,Delivered,0
+ORD10069,2023-12-01,Sports,CUST8068,2,238.55,Credit Card,Delivered,0
+ORD11372,2023-12-02,Books,CUST1544,2,393.68,UPI,Pending,0
+ORD10018,2023-12-02,Clothing,CUST1352,1,125.16,Net Banking,Delivered,0
+ORD10009,2023-12-02,Groceries,CUST5793,1,412.54,Cash on Delivery,Delivered,0
+ORD11128,2023-12-05,Home & Kitchen,CUST8174,5,433.38,Cash on Delivery,Delivered,0
+ORD11651,2023-12-05,Electronics,CUST5621,2,173.57,Debit Card,Shipped,0
+ORD10169,2023-12-06,Home & Kitchen,CUST2673,3,65.03,Cash on Delivery,Delivered,0
+ORD10382,2023-12-06,Books,CUST8619,5,486.05,Debit Card,Delivered,0
+ORD10503,2023-12-06,Books,CUST3462,2,184.32,Debit Card,Delivered,0
+ORD11621,2023-12-07,Groceries,CUST3120,1,133.22,UPI,Delivered,0
+ORD10677,2023-12-07,Home & Kitchen,CUST8339,2,47.09,Cash on Delivery,Delivered,0
+ORD10355,2023-12-08,Beauty,CUST5614,5,41.59,Credit Card,Shipped,0
+ORD10615,2023-12-08,Toys,CUST8372,2,136.53,Debit Card,Delivered,0
+ORD11701,2023-12-08,Groceries,CUST3621,3,369.79,UPI,Delivered,0
+ORD11496,2023-12-08,Beauty,CUST6742,1,462.52,UPI,Delivered,0
+ORD11354,2023-12-09,Toys,CUST1854,5,141.72,Debit Card,Shipped,0
+ORD10443,2023-12-09,Toys,CUST7095,1,44.87,Cash on Delivery,Delivered,0
+ORD10000,2023-12-10,Groceries,CUST8664,5,42.29,Debit Card,Delivered,0
+ORD11245,2023-12-10,Clothing,CUST2118,2,437.96,Net Banking,Delivered,0
+ORD11461,2023-12-12,Sports,CUST3386,4,49.48,Debit Card,Pending,0
+ORD10071,2023-12-12,Beauty,CUST6891,5,463.41,Debit Card,Returned,1
+ORD11510,2023-12-12,Toys,CUST5984,1,344.55,Debit Card,Delivered,0
+ORD10740,2023-12-12,Books,CUST9955,1,351.72,Net Banking,Shipped,0
+ORD10006,2023-12-13,Home & Kitchen,CUST9703,4,447.49,UPI,Pending,0
+ORD10497,2023-12-13,Home & Kitchen,CUST8934,3,453.13,Credit Card,Delivered,0
+ORD10454,2023-12-14,Electronics,CUST4369,5,309.31,Cash on Delivery,Delivered,0
+ORD10285,2023-12-14,Groceries,CUST2790,1,280.32,Credit Card,Delivered,0
+ORD10657,2023-12-14,Groceries,CUST3640,4,489.84,Cash on Delivery,Delivered,0
+ORD11323,2023-12-15,Toys,CUST8250,5,178.45,Credit Card,Pending,0
+ORD10124,2023-12-15,Electronics,CUST4465,1,396.52,Credit Card,Delivered,0
+ORD10629,2023-12-16,Toys,CUST9569,5,230.22,Credit Card,Delivered,0
+ORD11144,2023-12-17,Electronics,CUST6970,4,220.04,Debit Card,Delivered,0
+ORD11333,2023-12-17,Clothing,CUST7164,1,321.14,Cash on Delivery,Cancelled,0
+ORD10785,2023-12-18,Beauty,CUST5107,2,27.4,Cash on Delivery,Delivered,0
+ORD10172,2023-12-19,Clothing,CUST5777,5,333.97,Credit Card,Delivered,0
+ORD11908,2023-12-19,Electronics,CUST1684,3,320.42,Debit Card,Delivered,0
+ORD11806,2023-12-19,Sports,CUST4886,3,380.34,Credit Card,Cancelled,0
+ORD11194,2023-12-20,Toys,CUST5726,1,380.35,Debit Card,Delivered,0
+ORD10825,2023-12-20,Clothing,CUST2539,4,223.91,UPI,Cancelled,0
+ORD10205,2023-12-20,Groceries,CUST3505,4,423.12,Debit Card,Delivered,0
+ORD11882,2023-12-21,Home & Kitchen,CUST4095,2,165.22,Debit Card,Delivered,0
+ORD11359,2023-12-21,Sports,CUST8866,4,230.12,Credit Card,Delivered,0
+ORD11229,2023-12-21,Electronics,CUST8840,1,391.1,Net Banking,Delivered,0
+ORD11689,2023-12-22,Books,CUST6517,1,295.49,Net Banking,Delivered,0
+ORD10654,2023-12-22,Books,CUST1845,5,73.26,Cash on Delivery,Delivered,0
+ORD10180,2023-12-23,Sports,CUST7209,4,215.67,Debit Card,Delivered,0
+ORD10787,2023-12-23,Home & Kitchen,CUST3708,5,365.19,Cash on Delivery,Delivered,0
+ORD10410,2023-12-23,Books,CUST6017,2,37.66,Cash on Delivery,Delivered,0
+ORD10243,2023-12-24,Sports,CUST6093,3,81.77,Cash on Delivery,Pending,0
+ORD11439,2023-12-24,Clothing,CUST8853,3,347.48,Credit Card,Returned,1
+ORD11427,2023-12-25,Home & Kitchen,CUST3611,2,391.83,Debit Card,Delivered,0
+ORD11274,2023-12-25,Sports,CUST3981,4,468.9,Debit Card,Delivered,0
+ORD11483,2023-12-25,Electronics,CUST2449,3,466.98,Credit Card,Shipped,0
+ORD11764,2023-12-25,Beauty,CUST4657,1,475.13,Cash on Delivery,Shipped,0
+ORD11246,2023-12-26,Beauty,CUST6879,4,245.18,Debit Card,Delivered,0
+ORD10105,2023-12-26,Toys,CUST8805,2,428.19,Credit Card,Delivered,0
+ORD11698,2023-12-26,Books,CUST3030,4,248.12,Credit Card,Shipped,0
+ORD10399,2023-12-27,Electronics,CUST1343,4,113.49,Net Banking,Delivered,0
+ORD10354,2023-12-27,Electronics,CUST7358,2,296.7,Credit Card,Shipped,0
+ORD10080,2023-12-28,Clothing,CUST9548,5,187.0,Net Banking,Delivered,0
+ORD10036,2023-12-28,Books,CUST4770,1,469.97,Credit Card,Delivered,0
+ORD10436,2023-12-28,Electronics,CUST9307,2,310.31,Credit Card,Shipped,0
+ORD11818,2023-12-29,Books,CUST5589,4,22.81,Debit Card,Delivered,0
+ORD11618,2023-12-29,Clothing,CUST1765,3,170.49,Debit Card,Shipped,0
+ORD11052,2023-12-30,Sports,CUST1972,5,208.13,UPI,Delivered,0
+ORD10851,2023-12-30,Beauty,CUST8425,5,394.83,Cash on Delivery,Delivered,0
+ORD11084,2023-12-31,Home & Kitchen,CUST7116,3,133.83,Credit Card,Delivered,0
+ORD11939,2023-12-31,Clothing,CUST1436,2,480.88,UPI,Shipped,0
+ORD10765,2023-12-31,Books,CUST6730,5,275.46,Credit Card,Pending,0
+ORD10609,2024-01-01,Groceries,CUST4045,5,348.0,Net Banking,Shipped,0
+ORD11438,2024-01-01,Beauty,CUST8226,1,46.8,Debit Card,Shipped,0
+ORD11812,2024-01-01,Home & Kitchen,CUST9381,1,112.94,Debit Card,Shipped,0
+ORD11761,2024-01-01,Clothing,CUST8083,5,101.79,Cash on Delivery,Delivered,0
+ORD10384,2024-01-01,Electronics,CUST3826,5,370.49,Credit Card,Delivered,0
+ORD11454,2024-01-01,Books,CUST3674,3,309.45,Debit Card,Delivered,0
+ORD11065,2024-01-01,Groceries,CUST2165,3,218.34,Credit Card,Delivered,0
+ORD11872,2024-01-02,Clothing,CUST2243,2,97.62,Net Banking,Delivered,0
+ORD11950,2024-01-02,Books,CUST6977,1,281.84,Cash on Delivery,Returned,1
+ORD10872,2024-01-02,Toys,CUST1035,3,175.43,Cash on Delivery,Delivered,0
+ORD10111,2024-01-02,Books,CUST7716,3,57.56,UPI,Pending,0
+ORD11925,2024-01-03,Clothing,CUST3156,4,352.02,Credit Card,Delivered,0
+ORD11809,2024-01-04,Clothing,CUST5439,5,451.41,Net Banking,Pending,0
+ORD10649,2024-01-04,Books,CUST4762,1,365.02,Credit Card,Returned,1
+ORD11001,2024-01-04,Clothing,CUST4870,3,132.4,Credit Card,Delivered,0
+ORD10862,2024-01-04,Clothing,CUST6768,5,30.08,UPI,Pending,0
+ORD11102,2024-01-05,Toys,CUST2510,2,77.82,Net Banking,Delivered,0
+ORD11746,2024-01-05,Clothing,CUST1215,2,235.4,Debit Card,Shipped,0
+ORD10086,2024-01-05,Toys,CUST3358,2,425.82,UPI,Delivered,0
+ORD11586,2024-01-05,Toys,CUST9385,1,490.16,Debit Card,Delivered,0
+ORD11874,2024-01-06,Electronics,CUST5168,4,197.68,Net Banking,Shipped,0
+ORD10176,2024-01-06,Toys,CUST9781,4,480.47,UPI,Delivered,0
+ORD11991,2024-01-07,Electronics,CUST6179,1,77.69,UPI,Delivered,0
+ORD10015,2024-01-07,Toys,CUST8634,4,450.43,UPI,Delivered,0
+ORD10961,2024-01-07,Toys,CUST4642,2,28.24,Debit Card,Shipped,0
+ORD11742,2024-01-07,Beauty,CUST8895,4,68.44,Credit Card,Pending,0
+ORD11816,2024-01-07,Toys,CUST5994,5,94.99,UPI,Returned,1
+ORD11745,2024-01-08,Groceries,CUST7029,2,430.37,UPI,Cancelled,0
+ORD10888,2024-01-09,Electronics,CUST1154,1,152.66,UPI,Delivered,0
+ORD11210,2024-01-10,Books,CUST2780,5,180.63,Debit Card,Delivered,0
+ORD11656,2024-01-10,Home & Kitchen,CUST9001,2,361.26,UPI,Delivered,0
+ORD11975,2024-01-11,Beauty,CUST5515,4,359.51,Debit Card,Shipped,0
+ORD10642,2024-01-11,Electronics,CUST7463,5,85.59,Cash on Delivery,Delivered,0
+ORD10552,2024-01-11,Clothing,CUST5437,1,93.57,Credit Card,Delivered,0
+ORD10021,2024-01-12,Clothing,CUST4051,3,222.42,Cash on Delivery,Delivered,0
+ORD10308,2024-01-12,Books,CUST5986,1,265.1,Credit Card,Delivered,0
+ORD10675,2024-01-12,Sports,CUST2832,4,179.47,Cash on Delivery,Delivered,0
+ORD11332,2024-01-13,Books,CUST8638,5,336.86,Cash on Delivery,Pending,0
+ORD11067,2024-01-13,Toys,CUST3733,4,225.04,Debit Card,Delivered,0
+ORD11589,2024-01-14,Toys,CUST9694,4,354.22,Credit Card,Delivered,0
+ORD10670,2024-01-14,Toys,CUST1955,4,172.85,Cash on Delivery,Delivered,0
+ORD11690,2024-01-14,Groceries,CUST3358,1,277.09,Net Banking,Delivered,0
+ORD10752,2024-01-16,Sports,CUST8796,2,359.25,UPI,Delivered,0
+ORD11046,2024-01-16,Toys,CUST5408,2,60.36,Credit Card,Shipped,0
+ORD10691,2024-01-16,Electronics,CUST5709,1,456.71,Net Banking,Delivered,0
+ORD10866,2024-01-17,Sports,CUST2512,5,109.84,Credit Card,Delivered,0
+ORD10570,2024-01-17,Sports,CUST5722,1,237.82,UPI,Delivered,0
+ORD11167,2024-01-17,Sports,CUST2283,2,232.24,Cash on Delivery,Delivered,0
+ORD11255,2024-01-17,Groceries,CUST2108,1,412.6,Credit Card,Shipped,0
+ORD10336,2024-01-17,Home & Kitchen,CUST3935,3,317.6,Net Banking,Delivered,0
+ORD10141,2024-01-18,Toys,CUST6093,2,23.21,Debit Card,Delivered,0
+ORD11415,2024-01-18,Groceries,CUST9062,2,487.71,Cash on Delivery,Delivered,0
+ORD10052,2024-01-19,Sports,CUST5638,1,146.49,Credit Card,Delivered,0
+ORD11868,2024-01-19,Groceries,CUST2663,5,471.96,Credit Card,Returned,1
+ORD11487,2024-01-19,Groceries,CUST1501,1,252.83,Debit Card,Delivered,0
+ORD10746,2024-01-20,Groceries,CUST2053,5,489.32,Net Banking,Shipped,0
+ORD11768,2024-01-20,Electronics,CUST9205,3,298.29,UPI,Delivered,0
+ORD11730,2024-01-21,Beauty,CUST8194,3,187.44,Cash on Delivery,Delivered,0
+ORD10217,2024-01-21,Home & Kitchen,CUST4067,1,95.28,Debit Card,Returned,1
+ORD11907,2024-01-21,Toys,CUST4094,3,368.77,Credit Card,Delivered,0
+ORD10349,2024-01-22,Groceries,CUST4545,3,305.82,Credit Card,Delivered,0
+ORD11203,2024-01-22,Beauty,CUST5273,4,136.55,Credit Card,Delivered,0
+ORD11714,2024-01-22,Home & Kitchen,CUST1663,5,236.57,UPI,Delivered,0
+ORD11129,2024-01-22,Clothing,CUST9575,4,409.5,Net Banking,Pending,0
+ORD10400,2024-01-23,Books,CUST1864,5,100.09,UPI,Returned,1
+ORD10560,2024-01-23,Books,CUST3615,3,22.62,Credit Card,Shipped,0
+ORD11208,2024-01-23,Toys,CUST9080,2,120.26,Debit Card,Shipped,0
+ORD10860,2024-01-24,Home & Kitchen,CUST3586,5,28.36,Credit Card,Pending,0
+ORD10689,2024-01-24,Clothing,CUST7437,5,163.77,Net Banking,Pending,0
+ORD11583,2024-01-25,Home & Kitchen,CUST2714,5,12.34,UPI,Pending,0
+ORD11429,2024-01-25,Sports,CUST9290,1,474.17,Net Banking,Cancelled,0
+ORD11679,2024-01-27,Books,CUST1867,4,32.71,Debit Card,Shipped,0
+ORD10899,2024-01-27,Groceries,CUST1443,5,227.3,UPI,Delivered,0
+ORD10874,2024-01-27,Clothing,CUST5006,1,125.2,Net Banking,Delivered,0
+ORD11228,2024-01-27,Books,CUST9836,1,364.32,Credit Card,Delivered,0
+ORD10970,2024-01-28,Home & Kitchen,CUST5436,1,296.46,Credit Card,Shipped,0
+ORD10060,2024-01-28,Groceries,CUST3419,1,46.96,Credit Card,Delivered,0
+ORD11089,2024-01-29,Books,CUST7521,3,229.03,Net Banking,Delivered,0
+ORD11700,2024-01-29,Clothing,CUST3582,3,454.92,Debit Card,Delivered,0
+ORD11526,2024-01-29,Beauty,CUST4270,3,498.19,Debit Card,Shipped,0
+ORD11674,2024-01-29,Books,CUST4772,1,488.36,Cash on Delivery,Delivered,0
+ORD11027,2024-01-29,Books,CUST8349,5,265.52,UPI,Delivered,0
+ORD10070,2024-01-29,Toys,CUST9326,3,36.54,Debit Card,Delivered,0
+ORD11459,2024-01-29,Clothing,CUST1110,1,257.69,Net Banking,Delivered,0
+ORD10717,2024-01-29,Electronics,CUST3469,1,47.12,Debit Card,Delivered,0
+ORD11049,2024-01-30,Clothing,CUST3226,5,268.85,Net Banking,Delivered,0
+ORD10758,2024-01-30,Home & Kitchen,CUST6999,5,173.76,Debit Card,Delivered,0
+ORD11986,2024-01-31,Electronics,CUST2296,5,208.99,Credit Card,Shipped,0
+ORD10631,2024-01-31,Clothing,CUST3090,5,409.92,Cash on Delivery,Delivered,0
+ORD10314,2024-01-31,Home & Kitchen,CUST1384,5,161.79,Debit Card,Returned,1
+ORD10032,2024-01-31,Electronics,CUST6135,4,28.55,Credit Card,Delivered,0
+ORD11373,2024-01-31,Beauty,CUST1551,1,236.39,UPI,Shipped,0
+ORD11845,2024-02-01,Sports,CUST2769,2,36.2,Cash on Delivery,Delivered,0
+ORD11733,2024-02-03,Groceries,CUST2128,3,290.78,Debit Card,Shipped,0
+ORD11196,2024-02-03,Toys,CUST2244,3,380.79,Credit Card,Returned,1
+ORD11611,2024-02-03,Books,CUST7713,2,155.88,Credit Card,Delivered,0
+ORD10359,2024-02-04,Sports,CUST2236,3,156.89,Cash on Delivery,Delivered,0
+ORD10632,2024-02-05,Home & Kitchen,CUST7802,1,350.89,Debit Card,Returned,1
+ORD11004,2024-02-05,Electronics,CUST4759,2,36.57,Credit Card,Delivered,0
+ORD11667,2024-02-05,Toys,CUST4422,1,114.66,Cash on Delivery,Pending,0
+ORD10235,2024-02-05,Groceries,CUST2979,2,295.22,Net Banking,Cancelled,0
+ORD10184,2024-02-05,Groceries,CUST5762,3,283.49,Debit Card,Delivered,0
+ORD10453,2024-02-05,Sports,CUST7480,2,443.97,Cash on Delivery,Delivered,0
+ORD11999,2024-02-06,Clothing,CUST2254,1,456.93,Debit Card,Delivered,0
+ORD10090,2024-02-06,Groceries,CUST3137,4,301.58,Debit Card,Delivered,0
+ORD10868,2024-02-06,Toys,CUST3203,4,332.76,Credit Card,Pending,0
+ORD10365,2024-02-07,Clothing,CUST4086,5,399.67,Credit Card,Cancelled,0
+ORD11968,2024-02-07,Sports,CUST9792,2,181.1,Cash on Delivery,Delivered,0
+ORD11475,2024-02-07,Toys,CUST1633,3,374.97,Net Banking,Delivered,0
+ORD10146,2024-02-07,Clothing,CUST9454,2,202.56,Debit Card,Delivered,0
+ORD10857,2024-02-08,Books,CUST8053,5,62.59,Debit Card,Shipped,0
+ORD10595,2024-02-08,Clothing,CUST2162,3,348.22,Net Banking,Pending,0
+ORD10219,2024-02-08,Sports,CUST9714,1,433.03,Credit Card,Shipped,0
+ORD10394,2024-02-08,Electronics,CUST7914,2,288.48,Net Banking,Delivered,0
+ORD10014,2024-02-08,Toys,CUST6024,5,41.77,Cash on Delivery,Delivered,0
+ORD10280,2024-02-08,Groceries,CUST5072,4,48.71,Cash on Delivery,Delivered,0
+ORD10673,2024-02-09,Toys,CUST9648,4,72.9,Credit Card,Delivered,0
+ORD10900,2024-02-09,Electronics,CUST3141,4,118.54,Cash on Delivery,Delivered,0
+ORD11358,2024-02-10,Toys,CUST9456,4,278.85,Net Banking,Pending,0
+ORD11470,2024-02-11,Beauty,CUST8316,4,425.51,Debit Card,Cancelled,0
+ORD10697,2024-02-11,Home & Kitchen,CUST8464,5,124.14,UPI,Delivered,0
+ORD10784,2024-02-11,Groceries,CUST5117,5,191.72,Net Banking,Delivered,0
+ORD11904,2024-02-12,Groceries,CUST6182,1,492.75,Net Banking,Shipped,0
+ORD11948,2024-02-12,Groceries,CUST2157,4,279.9,Debit Card,Pending,0
+ORD11901,2024-02-13,Books,CUST4301,1,172.53,Cash on Delivery,Delivered,0
+ORD10229,2024-02-13,Electronics,CUST1890,4,147.71,Cash on Delivery,Delivered,0
+ORD10122,2024-02-13,Toys,CUST6809,1,436.22,Net Banking,Delivered,0
+ORD11967,2024-02-14,Electronics,CUST4706,2,251.53,Credit Card,Delivered,0
+ORD10686,2024-02-14,Beauty,CUST4896,4,109.07,Cash on Delivery,Shipped,0
+ORD11240,2024-02-14,Groceries,CUST4998,5,340.73,Cash on Delivery,Delivered,0
+ORD10540,2024-02-14,Books,CUST3229,2,486.97,Cash on Delivery,Delivered,0
+ORD11624,2024-02-15,Home & Kitchen,CUST5671,1,362.23,Net Banking,Shipped,0
+ORD10391,2024-02-15,Sports,CUST6316,2,204.93,UPI,Delivered,0
+ORD11709,2024-02-15,Home & Kitchen,CUST8585,1,124.27,Net Banking,Delivered,0
+ORD10567,2024-02-15,Books,CUST1056,2,28.58,UPI,Delivered,0
+ORD11404,2024-02-15,Home & Kitchen,CUST4330,3,257.63,Debit Card,Delivered,0
+ORD11750,2024-02-15,Sports,CUST2786,4,66.11,Net Banking,Shipped,0
+ORD10664,2024-02-15,Home & Kitchen,CUST7210,5,296.09,Net Banking,Delivered,0
+ORD10068,2024-02-15,Home & Kitchen,CUST7783,1,50.54,Net Banking,Delivered,0
+ORD11601,2024-02-16,Sports,CUST9293,1,369.65,Cash on Delivery,Delivered,0
+ORD11146,2024-02-16,Electronics,CUST4718,1,265.51,Cash on Delivery,Delivered,0
+ORD11636,2024-02-16,Sports,CUST3147,2,32.34,UPI,Delivered,0
+ORD11978,2024-02-16,Toys,CUST8431,4,18.11,Debit Card,Delivered,0
+ORD10574,2024-02-16,Sports,CUST5875,5,43.6,Net Banking,Delivered,0
+ORD11224,2024-02-17,Books,CUST3305,5,435.19,Net Banking,Pending,0
+ORD11458,2024-02-17,Toys,CUST4677,3,18.94,Debit Card,Delivered,0
+ORD10510,2024-02-17,Toys,CUST6113,4,61.88,Cash on Delivery,Delivered,0
+ORD11222,2024-02-18,Clothing,CUST1852,5,439.27,Cash on Delivery,Delivered,0
+ORD11227,2024-02-18,Groceries,CUST3169,3,290.9,Net Banking,Delivered,0
+ORD10170,2024-02-18,Toys,CUST8268,2,230.7,Net Banking,Pending,0
+ORD10713,2024-02-18,Groceries,CUST7184,5,138.82,Net Banking,Delivered,0
+ORD11233,2024-02-19,Electronics,CUST6167,3,132.23,Credit Card,Delivered,0
+ORD11070,2024-02-19,Home & Kitchen,CUST6503,2,112.39,Credit Card,Delivered,0
+ORD11467,2024-02-20,Books,CUST8877,2,209.16,Cash on Delivery,Returned,1
+ORD10908,2024-02-20,Home & Kitchen,CUST6205,2,271.26,Cash on Delivery,Shipped,0
+ORD11100,2024-02-20,Groceries,CUST5849,2,283.19,Cash on Delivery,Delivered,0
+ORD10155,2024-02-21,Electronics,CUST5151,3,471.41,Credit Card,Delivered,0
+ORD10999,2024-02-21,Sports,CUST2375,5,385.27,UPI,Returned,1
+ORD11490,2024-02-21,Home & Kitchen,CUST6802,5,399.11,Credit Card,Delivered,0
+ORD10144,2024-02-22,Groceries,CUST4672,2,485.43,Net Banking,Cancelled,0
+ORD10812,2024-02-22,Toys,CUST2003,4,363.13,Debit Card,Shipped,0
+ORD10407,2024-02-23,Home & Kitchen,CUST4345,3,241.96,Cash on Delivery,Cancelled,0
+ORD10643,2024-02-23,Electronics,CUST3424,3,288.45,Debit Card,Delivered,0
+ORD11619,2024-02-24,Books,CUST6655,4,493.64,Net Banking,Shipped,0
+ORD11493,2024-02-25,Electronics,CUST7027,1,86.7,Debit Card,Shipped,0
+ORD10652,2024-02-25,Toys,CUST3979,3,197.44,Debit Card,Delivered,0
+ORD10278,2024-02-25,Beauty,CUST5416,1,233.02,Net Banking,Delivered,0
+ORD10207,2024-02-25,Beauty,CUST8010,4,437.97,UPI,Pending,0
+ORD10891,2024-02-26,Beauty,CUST1028,3,317.68,Net Banking,Delivered,0
+ORD10248,2024-02-26,Beauty,CUST8843,3,457.78,Debit Card,Delivered,0
+ORD11172,2024-02-26,Toys,CUST1249,4,286.76,Cash on Delivery,Pending,0
+ORD10612,2024-02-26,Electronics,CUST2621,1,339.59,Debit Card,Pending,0
+ORD11104,2024-02-26,Clothing,CUST7554,4,366.13,Credit Card,Delivered,0
+ORD11915,2024-02-26,Books,CUST2213,1,334.29,Cash on Delivery,Delivered,0
+ORD11550,2024-02-27,Beauty,CUST1194,3,279.54,UPI,Pending,0
+ORD11570,2024-02-27,Books,CUST4138,1,414.8,Net Banking,Delivered,0
+ORD10576,2024-02-27,Sports,CUST2232,3,145.62,Net Banking,Delivered,0
+ORD10601,2024-02-27,Sports,CUST4861,1,196.17,Debit Card,Delivered,0
+ORD11369,2024-02-28,Toys,CUST6431,5,123.47,Debit Card,Delivered,0
+ORD10876,2024-02-28,Groceries,CUST8966,2,67.23,Debit Card,Shipped,0
+ORD11851,2024-02-28,Home & Kitchen,CUST9672,4,414.94,Cash on Delivery,Pending,0
+ORD10720,2024-02-29,Beauty,CUST9922,4,107.51,UPI,Shipped,0
+ORD11191,2024-02-29,Clothing,CUST9752,2,333.97,Net Banking,Delivered,0
+ORD10464,2024-03-01,Clothing,CUST5511,2,78.35,Cash on Delivery,Delivered,0
+ORD11078,2024-03-01,Groceries,CUST5505,1,209.07,Debit Card,Delivered,0
+ORD10907,2024-03-01,Beauty,CUST1210,3,13.38,Credit Card,Delivered,0
+ORD11094,2024-03-02,Home & Kitchen,CUST5834,5,280.06,UPI,Shipped,0
+ORD10796,2024-03-02,Toys,CUST6270,4,456.92,Debit Card,Delivered,0
+ORD11053,2024-03-02,Toys,CUST1582,2,201.09,Net Banking,Delivered,0
+ORD11947,2024-03-03,Sports,CUST1534,3,188.13,UPI,Delivered,0
+ORD11513,2024-03-03,Clothing,CUST3498,2,160.27,UPI,Delivered,0
+ORD10694,2024-03-03,Clothing,CUST7180,2,442.16,Credit Card,Delivered,0
+ORD10962,2024-03-03,Home & Kitchen,CUST6530,3,240.33,Debit Card,Returned,1
+ORD11091,2024-03-04,Toys,CUST8432,3,370.74,UPI,Shipped,0
+ORD10325,2024-03-04,Books,CUST9332,2,269.08,Cash on Delivery,Delivered,0
+ORD10921,2024-03-04,Toys,CUST1349,3,403.57,UPI,Delivered,0
+ORD10005,2024-03-04,Beauty,CUST1155,2,444.99,Credit Card,Shipped,0
+ORD10312,2024-03-05,Electronics,CUST8593,5,471.48,Cash on Delivery,Shipped,0
+ORD10508,2024-03-05,Electronics,CUST6314,1,268.74,Debit Card,Delivered,0
+ORD11876,2024-03-06,Clothing,CUST2982,1,182.53,Net Banking,Delivered,0
+ORD10947,2024-03-06,Home & Kitchen,CUST5127,5,107.78,Credit Card,Shipped,0
+ORD11368,2024-03-06,Clothing,CUST4135,4,50.22,Cash on Delivery,Delivered,0
+ORD10446,2024-03-06,Groceries,CUST1116,5,17.16,Cash on Delivery,Shipped,0
+ORD11779,2024-03-06,Groceries,CUST8849,1,34.34,UPI,Delivered,0
+ORD10498,2024-03-07,Clothing,CUST1768,4,487.68,UPI,Delivered,0
+ORD10044,2024-03-08,Groceries,CUST6446,2,417.28,Cash on Delivery,Delivered,0
+ORD10666,2024-03-08,Sports,CUST7727,2,391.28,Cash on Delivery,Shipped,0
+ORD10031,2024-03-09,Sports,CUST9888,5,458.17,UPI,Delivered,0
+ORD10593,2024-03-09,Books,CUST3067,4,301.39,Cash on Delivery,Delivered,0
+ORD10685,2024-03-09,Clothing,CUST5428,3,458.42,UPI,Delivered,0
+ORD11828,2024-03-09,Home & Kitchen,CUST6344,2,76.4,Net Banking,Delivered,0
+ORD11881,2024-03-10,Beauty,CUST7086,5,206.4,Cash on Delivery,Delivered,0
+ORD10132,2024-03-11,Toys,CUST6216,4,427.75,Credit Card,Shipped,0
+ORD10053,2024-03-11,Books,CUST3690,4,50.25,Net Banking,Pending,0
+ORD11886,2024-03-11,Clothing,CUST6749,4,293.97,Cash on Delivery,Returned,1
+ORD10319,2024-03-12,Electronics,CUST3572,5,179.7,Cash on Delivery,Delivered,0
+ORD11385,2024-03-12,Electronics,CUST4415,3,393.14,UPI,Delivered,0
+ORD10783,2024-03-12,Groceries,CUST9320,1,12.64,UPI,Delivered,0
+ORD11149,2024-03-13,Sports,CUST1916,4,414.85,Cash on Delivery,Shipped,0
+ORD10401,2024-03-13,Books,CUST3778,5,206.24,UPI,Delivered,0
+ORD10822,2024-03-13,Sports,CUST5184,2,19.43,Cash on Delivery,Shipped,0
+ORD11136,2024-03-13,Sports,CUST2112,3,494.96,Debit Card,Delivered,0
+ORD11272,2024-03-14,Toys,CUST3771,3,212.89,Cash on Delivery,Delivered,0
+ORD11316,2024-03-15,Beauty,CUST6829,4,457.58,Debit Card,Shipped,0
+ORD10915,2024-03-15,Beauty,CUST7994,4,285.82,UPI,Delivered,0
+ORD10360,2024-03-15,Toys,CUST8021,5,297.24,Net Banking,Pending,0
+ORD10097,2024-03-16,Home & Kitchen,CUST6787,1,364.71,Credit Card,Delivered,0
+ORD10924,2024-03-16,Electronics,CUST2871,5,408.52,Cash on Delivery,Cancelled,0
+ORD11713,2024-03-16,Beauty,CUST6672,5,201.44,UPI,Delivered,0
+ORD11073,2024-03-16,Home & Kitchen,CUST3088,5,465.8,Debit Card,Shipped,0
+ORD11216,2024-03-18,Clothing,CUST1836,5,79.44,Credit Card,Delivered,0
+ORD11692,2024-03-18,Home & Kitchen,CUST6313,2,40.86,Cash on Delivery,Delivered,0
+ORD11018,2024-03-19,Electronics,CUST8159,3,408.2,UPI,Cancelled,0
+ORD10926,2024-03-19,Sports,CUST2290,4,259.22,Credit Card,Delivered,0
+ORD10845,2024-03-19,Toys,CUST5296,2,12.79,Credit Card,Shipped,0
+ORD10756,2024-03-20,Clothing,CUST1719,5,442.46,UPI,Delivered,0
+ORD11720,2024-03-21,Sports,CUST1036,1,286.66,Debit Card,Cancelled,0
+ORD10128,2024-03-21,Beauty,CUST2565,2,127.7,Cash on Delivery,Delivered,0
+ORD11051,2024-03-22,Electronics,CUST2095,5,398.06,Cash on Delivery,Delivered,0
+ORD11987,2024-03-23,Sports,CUST1730,2,455.68,Debit Card,Delivered,0
+ORD10028,2024-03-23,Groceries,CUST4664,5,110.9,Credit Card,Delivered,0
+ORD10519,2024-03-24,Clothing,CUST2241,4,59.38,Debit Card,Pending,0
+ORD10656,2024-03-24,Toys,CUST6208,5,265.25,Cash on Delivery,Returned,1
+ORD10162,2024-03-24,Books,CUST2347,5,391.26,Debit Card,Delivered,0
+ORD10665,2024-03-24,Sports,CUST6974,2,37.61,Net Banking,Delivered,0
+ORD10843,2024-03-24,Books,CUST4166,4,29.85,Cash on Delivery,Shipped,0
+ORD11095,2024-03-26,Groceries,CUST3875,5,16.94,UPI,Delivered,0
+ORD10637,2024-03-27,Beauty,CUST5530,5,453.8,Debit Card,Delivered,0
+ORD10377,2024-03-28,Sports,CUST8744,5,313.36,UPI,Delivered,0
+ORD11832,2024-03-29,Groceries,CUST1262,2,201.87,Debit Card,Delivered,0
+ORD11019,2024-03-29,Beauty,CUST9381,5,486.34,Credit Card,Shipped,0
+ORD11528,2024-03-29,Toys,CUST2475,5,52.54,Cash on Delivery,Delivered,0
+ORD11997,2024-03-29,Beauty,CUST5608,4,214.71,Debit Card,Delivered,0
+ORD10123,2024-03-29,Toys,CUST1333,2,459.52,Net Banking,Delivered,0
+ORD10121,2024-03-29,Beauty,CUST2892,3,396.73,Cash on Delivery,Delivered,0
+ORD11126,2024-03-30,Sports,CUST4100,3,270.95,Debit Card,Delivered,0
+ORD10012,2024-03-30,Books,CUST7608,1,16.05,Net Banking,Delivered,0
+ORD10719,2024-03-31,Beauty,CUST5965,3,271.05,Credit Card,Delivered,0
+ORD10380,2024-03-31,Books,CUST6722,5,375.31,Net Banking,Delivered,0
+ORD11954,2024-03-31,Sports,CUST6610,2,219.77,Net Banking,Delivered,0
+ORD11252,2024-03-31,Groceries,CUST7589,4,109.94,Credit Card,Delivered,0
+ORD10224,2024-04-01,Home & Kitchen,CUST8916,2,11.62,Net Banking,Shipped,0
+ORD11661,2024-04-03,Sports,CUST5564,5,373.6,UPI,Delivered,0
+ORD10749,2024-04-03,Beauty,CUST4364,1,160.14,Debit Card,Delivered,0
+ORD10572,2024-04-03,Clothing,CUST1130,4,427.81,Debit Card,Delivered,0
+ORD11242,2024-04-04,Home & Kitchen,CUST5287,3,287.5,Cash on Delivery,Shipped,0
+ORD11859,2024-04-06,Home & Kitchen,CUST8555,2,319.27,UPI,Delivered,0
+ORD11916,2024-04-07,Toys,CUST7679,3,380.86,Cash on Delivery,Delivered,0
+ORD11426,2024-04-07,Electronics,CUST4013,5,335.43,Cash on Delivery,Cancelled,0
+ORD11447,2024-04-07,Beauty,CUST1594,4,207.04,Cash on Delivery,Returned,1
+ORD11195,2024-04-07,Clothing,CUST6701,4,156.72,Debit Card,Delivered,0
+ORD10708,2024-04-08,Clothing,CUST5680,4,136.45,Debit Card,Delivered,0
+ORD11849,2024-04-08,Sports,CUST1873,2,373.0,Credit Card,Returned,1
+ORD11250,2024-04-09,Toys,CUST2764,4,248.72,Credit Card,Returned,1
+ORD11582,2024-04-09,Clothing,CUST7593,3,191.11,UPI,Delivered,0
+ORD11696,2024-04-09,Sports,CUST8556,2,109.66,Net Banking,Pending,0
+ORD11288,2024-04-10,Toys,CUST5417,3,108.69,Debit Card,Delivered,0
+ORD10451,2024-04-10,Electronics,CUST3326,4,188.52,Debit Card,Shipped,0
+ORD11902,2024-04-10,Groceries,CUST7972,3,380.75,Cash on Delivery,Delivered,0
+ORD10611,2024-04-10,Beauty,CUST8028,3,124.99,Cash on Delivery,Delivered,0
+ORD11453,2024-04-10,Books,CUST5738,4,217.03,Credit Card,Pending,0
+ORD10188,2024-04-11,Clothing,CUST6709,4,359.28,Credit Card,Pending,0
+ORD10791,2024-04-12,Groceries,CUST1666,3,302.11,Debit Card,Returned,1
+ORD10674,2024-04-12,Home & Kitchen,CUST4707,1,416.91,Credit Card,Delivered,0
+ORD11995,2024-04-12,Home & Kitchen,CUST7885,3,95.51,Cash on Delivery,Delivered,0
+ORD10317,2024-04-12,Clothing,CUST2770,1,382.5,Cash on Delivery,Delivered,0
+ORD10929,2024-04-12,Toys,CUST6345,1,98.12,UPI,Delivered,0
+ORD11291,2024-04-12,Clothing,CUST4197,3,92.78,Net Banking,Shipped,0
+ORD10940,2024-04-12,Toys,CUST9203,1,262.61,Credit Card,Delivered,0
+ORD11168,2024-04-12,Home & Kitchen,CUST6045,1,303.79,Net Banking,Returned,1
+ORD10827,2024-04-13,Groceries,CUST9844,5,57.34,UPI,Delivered,0
+ORD10832,2024-04-14,Electronics,CUST9685,3,284.97,Cash on Delivery,Delivered,0
+ORD10353,2024-04-14,Beauty,CUST1074,5,199.4,Cash on Delivery,Returned,1
+ORD10877,2024-04-14,Books,CUST1548,3,30.4,Credit Card,Delivered,0
+ORD10296,2024-04-14,Home & Kitchen,CUST5925,2,145.5,UPI,Shipped,0
+ORD10605,2024-04-15,Sports,CUST1041,2,396.81,UPI,Shipped,0
+ORD10815,2024-04-15,Electronics,CUST7779,4,145.11,UPI,Shipped,0
+ORD10760,2024-04-15,Toys,CUST7373,3,117.99,UPI,Pending,0
+ORD10250,2024-04-15,Home & Kitchen,CUST1054,1,130.45,UPI,Shipped,0
+ORD11176,2024-04-16,Sports,CUST1529,1,128.32,Debit Card,Shipped,0
+ORD10628,2024-04-17,Beauty,CUST9693,3,490.19,UPI,Delivered,0
+ORD10771,2024-04-17,Groceries,CUST6552,2,170.7,Cash on Delivery,Pending,0
+ORD10754,2024-04-17,Beauty,CUST9549,4,448.52,Credit Card,Cancelled,0
+ORD11269,2024-04-18,Sports,CUST8896,1,381.42,UPI,Pending,0
+ORD11547,2024-04-18,Sports,CUST8922,2,341.99,UPI,Delivered,0
+ORD11837,2024-04-18,Home & Kitchen,CUST1801,5,49.61,Cash on Delivery,Shipped,0
+ORD10733,2024-04-19,Books,CUST6435,3,232.01,UPI,Cancelled,0
+ORD11751,2024-04-19,Groceries,CUST2214,5,325.48,Debit Card,Delivered,0
+ORD10238,2024-04-19,Beauty,CUST1835,5,37.94,Credit Card,Delivered,0
+ORD10932,2024-04-20,Clothing,CUST9964,1,191.84,Credit Card,Delivered,0
+ORD10148,2024-04-20,Groceries,CUST9896,1,271.74,Cash on Delivery,Returned,1
+ORD11773,2024-04-20,Toys,CUST8393,5,381.33,Net Banking,Pending,0
+ORD11824,2024-04-21,Clothing,CUST3378,4,105.25,Net Banking,Delivered,0
+ORD11754,2024-04-21,Home & Kitchen,CUST7608,5,285.22,Net Banking,Delivered,0
+ORD11903,2024-04-21,Home & Kitchen,CUST5348,5,253.0,UPI,Shipped,0
+ORD11731,2024-04-21,Clothing,CUST8231,1,134.73,Debit Card,Delivered,0
+ORD11691,2024-04-22,Beauty,CUST8874,5,218.93,Net Banking,Pending,0
+ORD11897,2024-04-23,Beauty,CUST5544,1,384.7,Net Banking,Pending,0
+ORD10512,2024-04-24,Clothing,CUST8144,4,254.0,UPI,Shipped,0
+ORD10928,2024-04-24,Books,CUST5127,3,81.76,Debit Card,Shipped,0
+ORD11044,2024-04-25,Books,CUST2239,4,424.79,Cash on Delivery,Delivered,0
+ORD10804,2024-04-25,Toys,CUST2852,1,56.64,Cash on Delivery,Returned,1
+ORD10841,2024-04-25,Beauty,CUST3473,4,37.27,Net Banking,Delivered,0
+ORD11716,2024-04-26,Beauty,CUST3140,5,242.12,Net Banking,Delivered,0
+ORD11337,2024-04-26,Clothing,CUST8531,3,409.12,Debit Card,Pending,0
+ORD10569,2024-04-27,Toys,CUST1508,2,272.42,Credit Card,Delivered,0
+ORD11737,2024-04-27,Groceries,CUST1843,4,156.29,Debit Card,Pending,0
+ORD11817,2024-04-29,Home & Kitchen,CUST2000,5,98.26,Cash on Delivery,Shipped,0
+ORD10538,2024-04-29,Groceries,CUST7049,3,372.76,Debit Card,Delivered,0
+ORD10447,2024-04-29,Electronics,CUST3075,1,110.57,Debit Card,Shipped,0
+ORD10045,2024-04-29,Sports,CUST6674,3,62.9,Credit Card,Delivered,0
+ORD11465,2024-04-29,Groceries,CUST6736,5,219.25,Debit Card,Shipped,0
+ORD10437,2024-04-30,Sports,CUST5926,2,31.36,Net Banking,Delivered,0
+ORD11936,2024-04-30,Sports,CUST5257,1,306.74,Credit Card,Delivered,0
+ORD10805,2024-04-30,Toys,CUST7896,2,21.96,Debit Card,Cancelled,0
+ORD11697,2024-05-01,Toys,CUST7802,2,497.81,Net Banking,Shipped,0
+ORD10799,2024-05-01,Clothing,CUST8826,3,247.39,Cash on Delivery,Shipped,0
+ORD10039,2024-05-01,Home & Kitchen,CUST3210,3,450.75,Net Banking,Delivered,0
+ORD10303,2024-05-02,Clothing,CUST8988,2,87.8,Debit Card,Delivered,0
+ORD10103,2024-05-02,Toys,CUST6020,5,276.15,Credit Card,Delivered,0
+ORD11627,2024-05-03,Beauty,CUST4664,3,321.86,Cash on Delivery,Shipped,0
+ORD10002,2024-05-03,Clothing,CUST9093,4,51.91,Credit Card,Delivered,0
+ORD11063,2024-05-04,Clothing,CUST6610,5,56.37,Cash on Delivery,Shipped,0
+ORD11280,2024-05-04,Clothing,CUST7036,5,231.41,UPI,Delivered,0
+ORD10699,2024-05-05,Sports,CUST6821,4,360.26,Cash on Delivery,Shipped,0
+ORD10362,2024-05-05,Books,CUST4577,1,430.78,Cash on Delivery,Returned,1
+ORD10658,2024-05-05,Electronics,CUST1471,3,316.97,Cash on Delivery,Returned,1
+ORD11488,2024-05-05,Groceries,CUST8061,1,14.22,Debit Card,Shipped,0
+ORD10330,2024-05-05,Clothing,CUST4706,5,237.98,UPI,Delivered,0
+ORD10398,2024-05-06,Sports,CUST4381,1,353.75,Cash on Delivery,Shipped,0
+ORD11980,2024-05-07,Home & Kitchen,CUST4710,3,59.46,Credit Card,Delivered,0
+ORD11825,2024-05-07,Beauty,CUST5310,3,476.83,Credit Card,Pending,0
+ORD11631,2024-05-07,Beauty,CUST5155,2,330.03,Cash on Delivery,Returned,1
+ORD10304,2024-05-08,Groceries,CUST6939,5,352.16,Credit Card,Delivered,0
+ORD11230,2024-05-08,Books,CUST2934,4,427.05,Cash on Delivery,Shipped,0
+ORD11039,2024-05-08,Home & Kitchen,CUST9119,2,431.71,Cash on Delivery,Delivered,0
+ORD11566,2024-05-08,Home & Kitchen,CUST4485,3,49.36,Cash on Delivery,Delivered,0
+ORD11928,2024-05-09,Groceries,CUST1283,4,147.23,Net Banking,Delivered,0
+ORD11350,2024-05-09,Toys,CUST4923,3,86.68,Credit Card,Delivered,0
+ORD10545,2024-05-10,Toys,CUST6583,3,342.22,UPI,Shipped,0
+ORD11673,2024-05-11,Clothing,CUST8051,3,81.87,UPI,Delivered,0
+ORD11890,2024-05-11,Books,CUST7148,3,325.92,Credit Card,Returned,1
+ORD10566,2024-05-12,Clothing,CUST1176,3,446.86,Debit Card,Delivered,0
+ORD11334,2024-05-12,Beauty,CUST6816,5,156.19,Debit Card,Shipped,0
+ORD11760,2024-05-12,Books,CUST3686,2,458.07,Debit Card,Cancelled,0
+ORD11111,2024-05-13,Sports,CUST8488,3,24.48,Net Banking,Delivered,0
+ORD11352,2024-05-13,Electronics,CUST2999,1,450.19,UPI,Delivered,0
+ORD11843,2024-05-14,Clothing,CUST9931,2,474.94,Cash on Delivery,Delivered,0
+ORD10909,2024-05-14,Books,CUST2800,5,102.17,Cash on Delivery,Shipped,0
+ORD10290,2024-05-14,Home & Kitchen,CUST2353,2,460.29,UPI,Delivered,0
+ORD10539,2024-05-14,Electronics,CUST8402,5,125.77,Debit Card,Delivered,0
+ORD10246,2024-05-14,Home & Kitchen,CUST8224,3,342.08,UPI,Shipped,0
+ORD11702,2024-05-15,Books,CUST2806,1,497.38,UPI,Shipped,0
+ORD10488,2024-05-15,Toys,CUST1408,2,65.56,Debit Card,Shipped,0
+ORD10459,2024-05-15,Clothing,CUST4675,5,69.83,Debit Card,Returned,1
+ORD10728,2024-05-16,Home & Kitchen,CUST2924,3,455.15,Cash on Delivery,Delivered,0
+ORD11283,2024-05-16,Sports,CUST7905,1,393.22,Cash on Delivery,Returned,1
+ORD10082,2024-05-16,Clothing,CUST2728,2,192.16,UPI,Shipped,0
+ORD11525,2024-05-17,Sports,CUST6836,2,229.12,Net Banking,Pending,0
+ORD11793,2024-05-17,Beauty,CUST9205,4,129.51,UPI,Pending,0
+ORD10844,2024-05-17,Groceries,CUST3725,2,483.19,Cash on Delivery,Delivered,0
+ORD10937,2024-05-17,Clothing,CUST3358,2,236.55,Cash on Delivery,Pending,0
+ORD10476,2024-05-18,Groceries,CUST5589,5,410.2,UPI,Pending,0
+ORD11355,2024-05-18,Toys,CUST7267,3,485.23,Cash on Delivery,Delivered,0
+ORD11580,2024-05-19,Books,CUST8613,4,448.56,Net Banking,Delivered,0
+ORD10597,2024-05-19,Sports,CUST8294,4,300.06,Net Banking,Delivered,0
+ORD10274,2024-05-20,Electronics,CUST2111,1,28.34,UPI,Returned,1
+ORD11497,2024-05-20,Groceries,CUST2329,2,83.56,Debit Card,Delivered,0
+ORD11515,2024-05-20,Books,CUST5569,3,181.08,Cash on Delivery,Delivered,0
+ORD10930,2024-05-20,Beauty,CUST3448,2,66.08,Net Banking,Delivered,0
+ORD10648,2024-05-21,Toys,CUST3901,1,219.2,Debit Card,Cancelled,0
+ORD10007,2024-05-21,Electronics,CUST6789,2,64.96,Credit Card,Pending,0
+ORD11632,2024-05-21,Books,CUST2597,3,221.77,Net Banking,Delivered,0
+ORD10156,2024-05-21,Home & Kitchen,CUST1294,2,102.06,Net Banking,Shipped,0
+ORD10703,2024-05-21,Electronics,CUST1994,1,397.5,Credit Card,Delivered,0
+ORD10905,2024-05-22,Toys,CUST4435,2,452.71,Net Banking,Delivered,0
+ORD11681,2024-05-22,Beauty,CUST4037,5,464.75,Credit Card,Delivered,0
+ORD10518,2024-05-22,Groceries,CUST5067,4,246.05,Debit Card,Shipped,0
+ORD11489,2024-05-22,Books,CUST7419,5,379.03,Debit Card,Delivered,0
+ORD11198,2024-05-22,Electronics,CUST9351,3,261.94,Credit Card,Delivered,0
+ORD11506,2024-05-23,Beauty,CUST8293,2,56.04,Net Banking,Shipped,0
+ORD10523,2024-05-23,Clothing,CUST9278,3,435.13,Net Banking,Pending,0
+ORD10064,2024-05-23,Toys,CUST6557,5,243.56,Net Banking,Pending,0
+ORD11508,2024-05-23,Groceries,CUST8416,1,366.89,Credit Card,Delivered,0
+ORD10500,2024-05-25,Sports,CUST6068,5,184.13,Cash on Delivery,Delivered,0
+ORD11254,2024-05-25,Groceries,CUST2097,2,197.47,Credit Card,Delivered,0
+ORD11848,2024-05-26,Electronics,CUST1139,5,215.59,UPI,Delivered,0
+ORD10769,2024-05-26,Beauty,CUST9464,3,308.18,UPI,Delivered,0
+ORD11717,2024-05-26,Home & Kitchen,CUST1072,5,238.95,Debit Card,Delivered,0
+ORD10374,2024-05-27,Groceries,CUST2939,3,105.01,Cash on Delivery,Shipped,0
+ORD10682,2024-05-27,Groceries,CUST8140,4,451.03,Cash on Delivery,Returned,1
+ORD10118,2024-05-28,Books,CUST8495,4,424.82,Net Banking,Delivered,0
+ORD10035,2024-05-28,Clothing,CUST4073,5,187.54,Net Banking,Delivered,0
+ORD11938,2024-05-28,Books,CUST6864,5,471.34,Debit Card,Shipped,0
+ORD10268,2024-05-28,Electronics,CUST7281,1,178.16,Debit Card,Shipped,0
+ORD11273,2024-05-28,Electronics,CUST9950,4,219.02,Net Banking,Delivered,0
+ORD11322,2024-05-28,Beauty,CUST8255,1,287.69,Net Banking,Delivered,0
+ORD11748,2024-05-29,Books,CUST6310,3,441.1,Cash on Delivery,Delivered,0
+ORD10807,2024-05-29,Clothing,CUST7598,1,137.28,Net Banking,Delivered,0
+ORD11026,2024-05-30,Books,CUST4736,4,434.62,Credit Card,Delivered,0
+ORD10040,2024-05-30,Beauty,CUST8581,1,81.57,Net Banking,Delivered,0
+ORD10989,2024-05-31,Toys,CUST5568,3,149.97,Credit Card,Delivered,0
+ORD11647,2024-05-31,Beauty,CUST6697,4,294.6,Debit Card,Delivered,0
+ORD10192,2024-05-31,Books,CUST6157,3,327.31,Debit Card,Delivered,0
+ORD11135,2024-05-31,Groceries,CUST6192,3,145.61,Credit Card,Shipped,0
+ORD10023,2024-05-31,Beauty,CUST2952,5,253.13,UPI,Delivered,0
+ORD11212,2024-06-01,Electronics,CUST2872,2,279.15,Debit Card,Delivered,0
+ORD10521,2024-06-01,Beauty,CUST1159,2,361.44,UPI,Delivered,0
+ORD11776,2024-06-02,Clothing,CUST1977,3,473.55,Net Banking,Shipped,0
+ORD11261,2024-06-03,Beauty,CUST8392,4,253.81,Cash on Delivery,Shipped,0
+ORD10590,2024-06-04,Home & Kitchen,CUST6728,2,98.85,Credit Card,Delivered,0
+ORD10202,2024-06-05,Electronics,CUST3284,2,382.01,Net Banking,Delivered,0
+ORD10820,2024-06-06,Electronics,CUST4939,2,135.83,Cash on Delivery,Delivered,0
+ORD10231,2024-06-07,Groceries,CUST1682,2,253.62,Net Banking,Delivered,0
+ORD10551,2024-06-07,Beauty,CUST5745,2,366.38,Credit Card,Returned,1
+ORD11974,2024-06-07,Home & Kitchen,CUST2560,4,235.1,UPI,Delivered,0
+ORD11161,2024-06-09,Books,CUST6197,5,132.93,Net Banking,Delivered,0
+ORD10315,2024-06-09,Toys,CUST3386,1,224.76,UPI,Delivered,0
+ORD10110,2024-06-09,Sports,CUST8175,2,112.72,Credit Card,Delivered,0
+ORD10239,2024-06-10,Books,CUST9261,3,238.64,Debit Card,Delivered,0
+ORD11671,2024-06-10,Beauty,CUST4572,1,358.84,UPI,Pending,0
+ORD11416,2024-06-11,Toys,CUST8843,5,252.11,Cash on Delivery,Delivered,0
+ORD11518,2024-06-11,Clothing,CUST5899,1,380.4,Net Banking,Delivered,0
+ORD10333,2024-06-12,Books,CUST3985,3,129.71,UPI,Delivered,0
+ORD10196,2024-06-12,Home & Kitchen,CUST9488,1,91.66,Cash on Delivery,Delivered,0
+ORD10653,2024-06-12,Beauty,CUST6776,5,307.03,UPI,Returned,1
+ORD10898,2024-06-12,Groceries,CUST4098,2,103.53,Cash on Delivery,Delivered,0
+ORD11312,2024-06-13,Toys,CUST3409,5,92.83,Cash on Delivery,Delivered,0
+ORD11898,2024-06-13,Clothing,CUST6307,5,462.0,Net Banking,Delivered,0
+ORD11319,2024-06-13,Clothing,CUST8776,2,222.15,Cash on Delivery,Delivered,0
+ORD10218,2024-06-15,Electronics,CUST2030,2,498.84,Net Banking,Delivered,0
+ORD11151,2024-06-15,Groceries,CUST6333,4,396.84,Net Banking,Delivered,0
+ORD10482,2024-06-15,Groceries,CUST2123,3,464.05,Credit Card,Delivered,0
+ORD10836,2024-06-15,Books,CUST6629,4,345.2,Debit Card,Delivered,0
+ORD10661,2024-06-15,Sports,CUST1198,5,253.17,Net Banking,Delivered,0
+ORD11946,2024-06-16,Beauty,CUST1148,5,400.5,Credit Card,Delivered,0
+ORD11134,2024-06-16,Beauty,CUST3408,1,340.54,UPI,Delivered,0
+ORD11728,2024-06-16,Home & Kitchen,CUST4321,3,41.24,Credit Card,Shipped,0
+ORD10402,2024-06-16,Beauty,CUST8940,3,50.47,UPI,Delivered,0
+ORD11432,2024-06-17,Beauty,CUST9913,2,293.51,UPI,Shipped,0
+ORD10209,2024-06-17,Books,CUST6009,3,250.8,Cash on Delivery,Pending,0
+ORD11930,2024-06-17,Electronics,CUST4917,3,263.6,Cash on Delivery,Delivered,0
+ORD11592,2024-06-17,Groceries,CUST5511,1,328.4,Net Banking,Shipped,0
+ORD10678,2024-06-17,Books,CUST8010,5,15.62,Net Banking,Shipped,0
+ORD10204,2024-06-18,Electronics,CUST7846,3,390.98,UPI,Delivered,0
+ORD10554,2024-06-18,Clothing,CUST3891,4,97.34,UPI,Cancelled,0
+ORD11892,2024-06-18,Beauty,CUST3955,2,376.34,Credit Card,Delivered,0
+ORD10213,2024-06-19,Home & Kitchen,CUST3401,3,201.36,Credit Card,Delivered,0
+ORD11390,2024-06-19,Home & Kitchen,CUST2707,4,14.95,Net Banking,Delivered,0
+ORD11539,2024-06-19,Beauty,CUST4046,4,148.89,Net Banking,Delivered,0
+ORD10357,2024-06-19,Toys,CUST7702,5,231.27,UPI,Delivered,0
+ORD10134,2024-06-19,Home & Kitchen,CUST7031,5,268.1,UPI,Returned,1
+ORD11607,2024-06-19,Sports,CUST1797,5,498.24,UPI,Delivered,0
+ORD11894,2024-06-19,Clothing,CUST3542,4,444.43,Debit Card,Delivered,0
+ORD10017,2024-06-19,Home & Kitchen,CUST4855,2,15.27,Credit Card,Shipped,0
+ORD11820,2024-06-20,Home & Kitchen,CUST7246,5,22.76,Cash on Delivery,Shipped,0
+ORD11265,2024-06-20,Groceries,CUST2132,4,223.28,Debit Card,Delivered,0
+ORD11501,2024-06-21,Electronics,CUST4465,1,108.17,UPI,Shipped,0
+ORD10404,2024-06-21,Toys,CUST5662,3,211.82,Credit Card,Pending,0
+ORD11376,2024-06-21,Beauty,CUST1429,4,491.91,Net Banking,Delivered,0
+ORD10298,2024-06-22,Groceries,CUST9127,3,316.79,Debit Card,Pending,0
+ORD10179,2024-06-22,Electronics,CUST5223,1,318.63,UPI,Delivered,0
+ORD10501,2024-06-22,Home & Kitchen,CUST1700,3,289.45,Cash on Delivery,Pending,0
+ORD11616,2024-06-22,Groceries,CUST8262,4,431.54,UPI,Delivered,0
+ORD10307,2024-06-23,Toys,CUST2615,1,14.21,Net Banking,Delivered,0
+ORD11557,2024-06-23,Clothing,CUST1802,2,367.61,UPI,Shipped,0
+ORD11215,2024-06-23,Books,CUST5743,3,310.78,Cash on Delivery,Shipped,0
+ORD10396,2024-06-23,Sports,CUST6020,2,457.85,Net Banking,Shipped,0
+ORD11838,2024-06-23,Toys,CUST4431,1,148.71,Cash on Delivery,Delivered,0
+ORD10617,2024-06-25,Home & Kitchen,CUST9486,4,216.91,UPI,Delivered,0
+ORD10543,2024-06-25,Home & Kitchen,CUST1148,5,272.93,UPI,Shipped,0
+ORD10946,2024-06-25,Toys,CUST5091,1,308.05,UPI,Delivered,0
+ORD10310,2024-06-25,Beauty,CUST2164,2,425.2,Credit Card,Delivered,0
+ORD10621,2024-06-26,Electronics,CUST2170,4,307.22,Credit Card,Delivered,0
+ORD11219,2024-06-26,Toys,CUST3524,2,483.36,Cash on Delivery,Delivered,0
+ORD11387,2024-06-26,Sports,CUST6689,4,380.21,Debit Card,Delivered,0
+ORD11813,2024-06-27,Electronics,CUST3944,1,164.28,UPI,Delivered,0
+ORD11238,2024-06-27,Beauty,CUST4662,2,239.13,Net Banking,Delivered,0
+ORD11033,2024-06-27,Sports,CUST2452,5,493.72,Debit Card,Delivered,0
+ORD11919,2024-06-28,Sports,CUST1002,2,45.33,Cash on Delivery,Delivered,0
+ORD10249,2024-06-28,Groceries,CUST7593,3,103.39,UPI,Pending,0
+ORD10270,2024-06-28,Toys,CUST1834,3,100.86,Debit Card,Shipped,0
+ORD10604,2024-06-28,Toys,CUST9984,3,444.96,Cash on Delivery,Shipped,0
+ORD11893,2024-06-29,Clothing,CUST1419,2,141.24,Net Banking,Delivered,0
+ORD10130,2024-06-29,Clothing,CUST9466,1,258.99,UPI,Delivered,0
+ORD11587,2024-06-30,Toys,CUST2793,5,286.4,Debit Card,Shipped,0
+ORD11567,2024-07-01,Books,CUST5842,4,325.25,Cash on Delivery,Cancelled,0
+ORD11755,2024-07-01,Books,CUST2205,1,63.33,Credit Card,Delivered,0
+ORD11877,2024-07-01,Clothing,CUST1927,5,120.8,Debit Card,Returned,1
+ORD10671,2024-07-01,Toys,CUST4047,5,361.73,UPI,Delivered,0
+ORD10944,2024-07-01,Toys,CUST1591,3,104.08,Credit Card,Shipped,0
+ORD10731,2024-07-02,Books,CUST4125,1,375.84,Debit Card,Shipped,0
+ORD11202,2024-07-02,Books,CUST2874,4,186.62,UPI,Delivered,0
+ORD10700,2024-07-02,Beauty,CUST2093,4,128.85,Cash on Delivery,Returned,1
+ORD10455,2024-07-03,Beauty,CUST2324,4,58.56,Debit Card,Delivered,0
+ORD11744,2024-07-03,Clothing,CUST2106,1,125.14,Credit Card,Returned,1
+ORD11634,2024-07-03,Books,CUST3264,3,456.1,Cash on Delivery,Delivered,0
+ORD11756,2024-07-04,Groceries,CUST3322,1,279.31,Net Banking,Pending,0
+ORD11924,2024-07-04,Electronics,CUST7671,3,326.54,Debit Card,Delivered,0
+ORD11403,2024-07-04,Groceries,CUST9045,2,97.23,Credit Card,Delivered,0
+ORD11173,2024-07-04,Toys,CUST5279,4,444.07,UPI,Delivered,0
+ORD11378,2024-07-04,Electronics,CUST7664,5,271.67,Credit Card,Delivered,0
+ORD11398,2024-07-05,Books,CUST5741,3,26.81,Cash on Delivery,Delivered,0
+ORD11869,2024-07-05,Groceries,CUST8871,4,484.54,UPI,Delivered,0
+ORD10724,2024-07-05,Sports,CUST4577,4,217.35,Credit Card,Cancelled,0
+ORD11960,2024-07-05,Groceries,CUST4662,4,212.08,Debit Card,Delivered,0
+ORD11268,2024-07-05,Beauty,CUST2528,3,227.35,Cash on Delivery,Shipped,0
+ORD10684,2024-07-06,Electronics,CUST4553,1,127.07,Debit Card,Delivered,0
+ORD10786,2024-07-06,Books,CUST5976,1,93.9,Net Banking,Delivered,0
+ORD10842,2024-07-07,Electronics,CUST1924,1,87.91,UPI,Delivered,0
+ORD11338,2024-07-07,Electronics,CUST3308,3,322.25,UPI,Pending,0
+ORD10010,2024-07-07,Toys,CUST3698,2,48.54,UPI,Delivered,0
+ORD11629,2024-07-08,Groceries,CUST8586,1,418.71,Credit Card,Delivered,0
+ORD10513,2024-07-08,Toys,CUST7802,3,122.47,Net Banking,Delivered,0
+ORD11290,2024-07-09,Home & Kitchen,CUST5483,3,476.32,Credit Card,Delivered,0
+ORD10038,2024-07-09,Beauty,CUST1426,3,224.38,Debit Card,Delivered,0
+ORD11753,2024-07-10,Beauty,CUST4258,5,345.08,UPI,Delivered,0
+ORD11770,2024-07-10,Home & Kitchen,CUST9876,2,296.61,Net Banking,Delivered,0
+ORD11054,2024-07-10,Groceries,CUST5341,5,79.14,Credit Card,Returned,1
+ORD11542,2024-07-11,Electronics,CUST9203,2,469.74,Debit Card,Shipped,0
+ORD11289,2024-07-11,Toys,CUST6168,3,19.1,UPI,Returned,1
+ORD10288,2024-07-11,Beauty,CUST6231,5,244.78,Credit Card,Pending,0
+ORD10089,2024-07-11,Books,CUST5173,4,490.26,Net Banking,Shipped,0
+ORD11028,2024-07-12,Books,CUST3163,4,218.17,Net Banking,Delivered,0
+ORD11471,2024-07-13,Books,CUST8530,4,315.57,UPI,Delivered,0
+ORD10690,2024-07-13,Books,CUST5823,2,335.01,UPI,Cancelled,0
+ORD10742,2024-07-13,Sports,CUST1888,3,316.69,Cash on Delivery,Delivered,0
+ORD10911,2024-07-13,Toys,CUST3077,1,350.47,Cash on Delivery,Pending,0
+ORD10672,2024-07-13,Groceries,CUST8192,1,38.67,UPI,Delivered,0
+ORD10855,2024-07-14,Books,CUST7546,3,357.56,Cash on Delivery,Delivered,0
+ORD11552,2024-07-14,Books,CUST7091,5,403.97,UPI,Delivered,0
+ORD11961,2024-07-14,Sports,CUST7280,1,40.41,Debit Card,Delivered,0
+ORD11588,2024-07-14,Books,CUST5574,1,450.8,Debit Card,Delivered,0
+ORD10372,2024-07-15,Beauty,CUST2022,5,72.05,Net Banking,Delivered,0
+ORD11301,2024-07-15,Clothing,CUST8650,4,460.85,Net Banking,Delivered,0
+ORD10725,2024-07-16,Sports,CUST8055,2,16.69,Debit Card,Delivered,0
+ORD10135,2024-07-16,Home & Kitchen,CUST4310,1,83.71,Credit Card,Delivered,0
+ORD10262,2024-07-16,Groceries,CUST4312,2,418.64,UPI,Delivered,0
+ORD10683,2024-07-17,Beauty,CUST9749,5,242.3,Credit Card,Delivered,0
+ORD11421,2024-07-17,Beauty,CUST2414,5,30.0,Net Banking,Delivered,0
+ORD10473,2024-07-17,Books,CUST1867,2,24.98,UPI,Shipped,0
+ORD11259,2024-07-18,Books,CUST9379,3,81.94,Net Banking,Shipped,0
+ORD11786,2024-07-18,Sports,CUST8932,2,324.04,Net Banking,Delivered,0
+ORD10160,2024-07-19,Groceries,CUST9327,3,100.93,Debit Card,Delivered,0
+ORD10702,2024-07-19,Clothing,CUST3635,2,476.14,Credit Card,Delivered,0
+ORD11686,2024-07-19,Electronics,CUST1068,4,349.53,UPI,Delivered,0
+ORD11545,2024-07-19,Home & Kitchen,CUST3336,3,109.41,UPI,Shipped,0
+ORD10189,2024-07-19,Sports,CUST7623,1,451.84,Debit Card,Delivered,0
+ORD10257,2024-07-19,Home & Kitchen,CUST2113,5,18.67,UPI,Delivered,0
+ORD11449,2024-07-19,Toys,CUST2293,5,78.75,Cash on Delivery,Pending,0
+ORD10334,2024-07-19,Electronics,CUST2012,2,189.61,Debit Card,Delivered,0
+ORD11800,2024-07-20,Books,CUST3584,4,314.3,UPI,Shipped,0
+ORD10581,2024-07-20,Books,CUST3491,4,311.9,Debit Card,Shipped,0
+ORD10669,2024-07-20,Books,CUST6541,3,298.22,Net Banking,Shipped,0
+ORD11349,2024-07-20,Beauty,CUST5623,1,494.23,Credit Card,Cancelled,0
+ORD10059,2024-07-21,Groceries,CUST8231,4,113.57,Credit Card,Delivered,0
+ORD10167,2024-07-21,Toys,CUST9041,4,67.39,Cash on Delivery,Delivered,0
+ORD10698,2024-07-21,Sports,CUST6918,5,202.03,Cash on Delivery,Delivered,0
+ORD10583,2024-07-22,Toys,CUST9434,3,192.66,Cash on Delivery,Delivered,0
+ORD11120,2024-07-22,Beauty,CUST7862,3,127.74,Cash on Delivery,Shipped,0
+ORD11485,2024-07-22,Home & Kitchen,CUST4088,5,463.04,Cash on Delivery,Shipped,0
+ORD11130,2024-07-22,Sports,CUST3499,3,70.14,Net Banking,Delivered,0
+ORD10258,2024-07-22,Books,CUST2315,2,491.11,Credit Card,Delivered,0
+ORD11131,2024-07-23,Sports,CUST3150,3,419.14,UPI,Delivered,0
+ORD11356,2024-07-24,Books,CUST3336,3,391.74,Cash on Delivery,Returned,1
+ORD11945,2024-07-24,Groceries,CUST8745,5,24.71,Credit Card,Shipped,0
+ORD10819,2024-07-24,Sports,CUST4068,3,272.78,UPI,Returned,1
+ORD11371,2024-07-24,Beauty,CUST5533,3,421.8,Credit Card,Shipped,0
+ORD10327,2024-07-25,Groceries,CUST1539,3,159.0,Net Banking,Shipped,0
+ORD11741,2024-07-25,Sports,CUST4318,1,471.57,Credit Card,Pending,0
+ORD11407,2024-07-25,Books,CUST4451,3,307.26,Net Banking,Shipped,0
+ORD11535,2024-07-27,Toys,CUST4148,5,441.8,Net Banking,Delivered,0
+ORD10430,2024-07-27,Clothing,CUST8154,1,183.29,Debit Card,Delivered,0
+ORD11536,2024-07-27,Home & Kitchen,CUST9791,5,394.23,Net Banking,Cancelled,0
+ORD10977,2024-07-28,Electronics,CUST3626,3,93.77,Credit Card,Delivered,0
+ORD10753,2024-07-28,Books,CUST9694,2,468.67,Cash on Delivery,Cancelled,0
+ORD10770,2024-07-29,Home & Kitchen,CUST6972,2,474.47,Net Banking,Delivered,0
+ORD10723,2024-07-29,Groceries,CUST6774,4,29.32,Cash on Delivery,Delivered,0
+ORD10850,2024-07-29,Toys,CUST2282,5,447.18,Cash on Delivery,Delivered,0
+ORD10847,2024-07-29,Electronics,CUST5269,4,68.41,Cash on Delivery,Delivered,0
+ORD11896,2024-07-30,Groceries,CUST1909,3,325.96,Net Banking,Delivered,0
+ORD10831,2024-07-30,Toys,CUST3106,1,262.09,Cash on Delivery,Delivered,0
+ORD11780,2024-07-30,Electronics,CUST1972,4,110.58,UPI,Shipped,0
+ORD11994,2024-07-30,Beauty,CUST5440,3,492.68,Net Banking,Delivered,0
+ORD10411,2024-07-31,Beauty,CUST5464,1,457.53,Debit Card,Delivered,0
+ORD10573,2024-07-31,Beauty,CUST7286,1,412.72,Credit Card,Delivered,0
+ORD10126,2024-07-31,Electronics,CUST7021,2,292.62,Credit Card,Delivered,0
+ORD11854,2024-07-31,Beauty,CUST3071,3,415.04,Credit Card,Delivered,0
+ORD11440,2024-08-01,Toys,CUST1914,4,474.26,Net Banking,Delivered,0
+ORD10265,2024-08-01,Groceries,CUST9936,4,255.62,Cash on Delivery,Delivered,0
+ORD11347,2024-08-01,Sports,CUST4808,2,463.12,Net Banking,Delivered,0
+ORD11253,2024-08-02,Beauty,CUST5925,5,141.82,UPI,Delivered,0
+ORD10505,2024-08-02,Clothing,CUST9766,4,75.67,Cash on Delivery,Delivered,0
+ORD11840,2024-08-03,Groceries,CUST1756,5,14.16,Debit Card,Delivered,0
+ORD10072,2024-08-03,Home & Kitchen,CUST9592,3,116.48,Credit Card,Returned,1
+ORD11603,2024-08-03,Toys,CUST1598,2,40.19,Credit Card,Pending,0
+ORD11885,2024-08-03,Groceries,CUST4380,2,386.81,Debit Card,Delivered,0
+ORD11045,2024-08-04,Toys,CUST7108,2,307.39,Cash on Delivery,Delivered,0
+ORD11007,2024-08-04,Toys,CUST2743,3,400.4,Credit Card,Delivered,0
+ORD11512,2024-08-05,Clothing,CUST3469,2,364.17,Debit Card,Returned,1
+ORD10792,2024-08-05,Books,CUST8384,1,100.89,UPI,Delivered,0
+ORD10379,2024-08-06,Sports,CUST1939,1,154.87,Net Banking,Shipped,0
+ORD11326,2024-08-07,Beauty,CUST9326,2,229.55,Net Banking,Shipped,0
+ORD10228,2024-08-08,Sports,CUST9990,4,244.85,Cash on Delivery,Shipped,0
+ORD11725,2024-08-08,Beauty,CUST5208,1,245.35,Cash on Delivery,Delivered,0
+ORD11707,2024-08-08,Books,CUST1836,5,153.66,Debit Card,Delivered,0
+ORD10397,2024-08-08,Toys,CUST4317,2,250.74,Credit Card,Shipped,0
+ORD11889,2024-08-09,Electronics,CUST9329,1,264.57,UPI,Delivered,0
+ORD10047,2024-08-09,Sports,CUST2084,1,201.83,Credit Card,Delivered,0
+ORD11466,2024-08-10,Groceries,CUST5426,2,152.31,Credit Card,Shipped,0
+ORD11795,2024-08-10,Home & Kitchen,CUST7783,3,102.58,Credit Card,Delivered,0
+ORD11037,2024-08-11,Groceries,CUST2696,1,126.56,Net Banking,Pending,0
+ORD11683,2024-08-11,Home & Kitchen,CUST3826,4,25.39,Cash on Delivery,Delivered,0
+ORD10587,2024-08-12,Home & Kitchen,CUST8049,4,281.84,Debit Card,Shipped,0
+ORD11642,2024-08-12,Books,CUST7547,3,483.81,Net Banking,Shipped,0
+ORD10964,2024-08-12,Groceries,CUST9800,2,334.14,Net Banking,Delivered,0
+ORD11785,2024-08-12,Books,CUST3942,1,418.52,UPI,Delivered,0
+ORD10226,2024-08-13,Home & Kitchen,CUST1878,1,38.37,Net Banking,Delivered,0
+ORD11569,2024-08-13,Beauty,CUST9768,3,144.29,Cash on Delivery,Pending,0
+ORD10233,2024-08-13,Groceries,CUST3427,5,245.71,Debit Card,Pending,0
+ORD11476,2024-08-13,Toys,CUST6653,4,469.77,Net Banking,Delivered,0
+ORD10484,2024-08-14,Groceries,CUST8282,5,219.05,Cash on Delivery,Shipped,0
+ORD10830,2024-08-15,Beauty,CUST4076,3,128.8,Debit Card,Delivered,0
+ORD11608,2024-08-15,Groceries,CUST2795,2,295.11,Cash on Delivery,Delivered,0
+ORD11262,2024-08-15,Sports,CUST8511,4,315.79,Cash on Delivery,Shipped,0
+ORD10474,2024-08-15,Electronics,CUST6801,1,192.19,Debit Card,Delivered,0
+ORD10614,2024-08-15,Beauty,CUST4059,4,486.82,Credit Card,Delivered,0
+ORD11981,2024-08-16,Clothing,CUST3305,3,459.33,Net Banking,Delivered,0
+ORD11668,2024-08-16,Sports,CUST6274,2,404.96,Net Banking,Delivered,0
+ORD11796,2024-08-17,Electronics,CUST1125,2,35.92,Debit Card,Returned,1
+ORD11413,2024-08-17,Groceries,CUST6340,3,416.43,Cash on Delivery,Shipped,0
+ORD11097,2024-08-18,Books,CUST9738,1,310.65,Credit Card,Delivered,0
+ORD11703,2024-08-18,Groceries,CUST8344,3,64.08,Net Banking,Shipped,0
+ORD10251,2024-08-18,Beauty,CUST1589,5,397.83,Net Banking,Delivered,0
+ORD11481,2024-08-18,Groceries,CUST4079,1,414.37,UPI,Shipped,0
+ORD10716,2024-08-18,Electronics,CUST8828,5,408.15,Net Banking,Delivered,0
+ORD11811,2024-08-19,Toys,CUST6738,4,146.98,Cash on Delivery,Pending,0
+ORD10471,2024-08-20,Groceries,CUST4462,1,351.89,Cash on Delivery,Delivered,0
+ORD11555,2024-08-20,Books,CUST1616,5,328.65,Cash on Delivery,Delivered,0
+ORD10759,2024-08-21,Clothing,CUST9517,2,178.93,Debit Card,Pending,0
+ORD11823,2024-08-21,Electronics,CUST8687,3,324.01,Credit Card,Pending,0
+ORD10838,2024-08-22,Clothing,CUST7104,3,206.81,Net Banking,Shipped,0
+ORD11827,2024-08-22,Groceries,CUST9450,2,62.89,Debit Card,Delivered,0
+ORD11182,2024-08-24,Sports,CUST5750,3,167.61,Net Banking,Delivered,0
+ORD11142,2024-08-24,Books,CUST1637,2,181.35,UPI,Delivered,0
+ORD10893,2024-08-24,Home & Kitchen,CUST3733,2,282.53,Credit Card,Shipped,0
+ORD10606,2024-08-24,Home & Kitchen,CUST5361,2,231.82,UPI,Pending,0
+ORD11345,2024-08-24,Books,CUST5560,2,352.33,Credit Card,Returned,1
+ORD10647,2024-08-24,Electronics,CUST7944,1,292.95,Cash on Delivery,Delivered,0
+ORD11343,2024-08-25,Toys,CUST4902,2,443.0,Credit Card,Delivered,0
+ORD10808,2024-08-26,Groceries,CUST3926,1,477.26,UPI,Delivered,0
+ORD11600,2024-08-26,Clothing,CUST5050,1,280.36,Cash on Delivery,Returned,1
+ORD11726,2024-08-27,Electronics,CUST3221,3,468.24,UPI,Shipped,0
+ORD11243,2024-08-27,Toys,CUST3394,1,393.33,UPI,Delivered,0
+ORD11035,2024-08-28,Sports,CUST4302,1,465.96,UPI,Delivered,0
+ORD10350,2024-08-29,Books,CUST3235,1,467.76,Net Banking,Delivered,0
+ORD10161,2024-08-29,Toys,CUST7750,2,126.6,Credit Card,Shipped,0
+ORD10965,2024-08-29,Beauty,CUST1477,2,180.74,Cash on Delivery,Delivered,0
+ORD11030,2024-08-29,Books,CUST2289,2,287.37,UPI,Delivered,0
+ORD11370,2024-08-30,Books,CUST4026,3,229.66,Credit Card,Returned,1
+ORD10331,2024-08-30,Clothing,CUST2248,4,186.31,Credit Card,Shipped,0
+ORD11132,2024-08-30,Home & Kitchen,CUST4581,3,499.59,Cash on Delivery,Delivered,0
+ORD10794,2024-08-30,Beauty,CUST5902,5,406.57,Cash on Delivery,Delivered,0
+ORD11926,2024-08-31,Clothing,CUST7629,3,443.91,Cash on Delivery,Pending,0
+ORD10183,2024-08-31,Groceries,CUST7111,5,423.56,Cash on Delivery,Cancelled,0
+ORD10140,2024-09-01,Toys,CUST9817,3,216.7,Cash on Delivery,Shipped,0
+ORD10381,2024-09-01,Clothing,CUST2495,2,493.28,UPI,Delivered,0
+ORD10800,2024-09-01,Groceries,CUST4157,5,493.35,Cash on Delivery,Cancelled,0
+ORD10313,2024-09-01,Sports,CUST7635,1,336.97,Cash on Delivery,Delivered,0
+ORD11788,2024-09-01,Beauty,CUST8202,5,479.15,UPI,Delivered,0
+ORD11331,2024-09-01,Groceries,CUST6869,2,153.65,Debit Card,Delivered,0
+ORD10886,2024-09-02,Electronics,CUST7919,4,291.53,Credit Card,Delivered,0
+ORD11663,2024-09-03,Home & Kitchen,CUST8362,2,81.36,Net Banking,Shipped,0
+ORD10470,2024-09-03,Electronics,CUST6963,4,459.7,Cash on Delivery,Delivered,0
+ORD11635,2024-09-04,Toys,CUST4972,4,309.43,Net Banking,Delivered,0
+ORD11598,2024-09-04,Toys,CUST3642,3,113.06,UPI,Delivered,0
+ORD10433,2024-09-05,Beauty,CUST8448,1,389.28,Debit Card,Delivered,0
+ORD10020,2024-09-05,Toys,CUST9371,5,181.17,Net Banking,Delivered,0
+ORD10073,2024-09-05,Clothing,CUST4384,1,98.8,Net Banking,Delivered,0
+ORD11099,2024-09-05,Sports,CUST4556,4,439.84,Net Banking,Delivered,0
+ORD11934,2024-09-05,Sports,CUST2232,3,192.04,Net Banking,Delivered,0
+ORD10953,2024-09-06,Electronics,CUST4057,5,23.64,Debit Card,Returned,1
+ORD11655,2024-09-06,Sports,CUST5178,3,424.39,Credit Card,Returned,1
+ORD11170,2024-09-06,Beauty,CUST2067,5,165.15,Cash on Delivery,Delivered,0
+ORD11918,2024-09-08,Books,CUST8890,3,275.06,Net Banking,Shipped,0
+ORD11931,2024-09-08,Clothing,CUST1253,2,90.04,UPI,Delivered,0
+ORD10550,2024-09-08,Books,CUST4067,3,491.96,Debit Card,Returned,1
+ORD11694,2024-09-08,Beauty,CUST5575,5,63.55,Credit Card,Shipped,0
+ORD11814,2024-09-08,Books,CUST1281,3,232.47,Net Banking,Delivered,0
+ORD11595,2024-09-09,Books,CUST6284,4,465.41,Credit Card,Delivered,0
+ORD11311,2024-09-09,Clothing,CUST2532,4,101.5,UPI,Delivered,0
+ORD11420,2024-09-09,Clothing,CUST3641,4,497.26,Cash on Delivery,Delivered,0
+ORD10054,2024-09-10,Home & Kitchen,CUST4283,5,468.23,Net Banking,Delivered,0
+ORD10896,2024-09-10,Home & Kitchen,CUST5371,4,222.02,Debit Card,Delivered,0
+ORD10522,2024-09-10,Electronics,CUST7946,2,380.39,Cash on Delivery,Delivered,0
+ORD10485,2024-09-10,Books,CUST7203,5,16.29,Credit Card,Delivered,0
+ORD10943,2024-09-10,Groceries,CUST8446,4,465.66,Net Banking,Shipped,0
+ORD11428,2024-09-11,Books,CUST6547,1,430.12,Net Banking,Pending,0
+ORD11988,2024-09-12,Clothing,CUST3858,2,101.62,UPI,Cancelled,0
+ORD10623,2024-09-12,Clothing,CUST3269,2,409.41,UPI,Delivered,0
+ORD10839,2024-09-13,Home & Kitchen,CUST8322,1,301.28,Cash on Delivery,Delivered,0
+ORD10030,2024-09-13,Groceries,CUST3122,5,436.14,UPI,Delivered,0
+ORD11156,2024-09-13,Groceries,CUST4906,5,321.32,UPI,Delivered,0
+ORD11022,2024-09-14,Electronics,CUST7102,1,68.79,UPI,Delivered,0
+ORD10340,2024-09-14,Sports,CUST4144,1,33.82,Credit Card,Delivered,0
+ORD11205,2024-09-14,Groceries,CUST3289,4,203.14,Credit Card,Pending,0
+ORD11180,2024-09-15,Books,CUST9688,3,301.03,Cash on Delivery,Delivered,0
+ORD11871,2024-09-15,Beauty,CUST1852,5,307.23,Net Banking,Shipped,0
+ORD11860,2024-09-15,Sports,CUST3690,4,364.19,Debit Card,Delivered,0
+ORD11010,2024-09-15,Groceries,CUST4326,4,454.15,UPI,Delivered,0
+ORD11801,2024-09-15,Groceries,CUST7559,3,88.62,Debit Card,Pending,0
+ORD10588,2024-09-16,Books,CUST2172,3,301.23,UPI,Shipped,0
+ORD11174,2024-09-16,Books,CUST7842,2,248.9,Debit Card,Delivered,0
+ORD10191,2024-09-17,Clothing,CUST5020,1,77.97,Cash on Delivery,Delivered,0
+ORD10984,2024-09-17,Sports,CUST1412,4,199.88,Cash on Delivery,Delivered,0
+ORD10245,2024-09-17,Toys,CUST5872,4,414.6,Debit Card,Shipped,0
+ORD10351,2024-09-17,Sports,CUST7978,1,176.5,Debit Card,Delivered,0
+ORD11141,2024-09-18,Clothing,CUST6499,2,213.57,UPI,Shipped,0
+ORD10222,2024-09-19,Groceries,CUST2362,3,32.01,Credit Card,Shipped,0
+ORD10027,2024-09-19,Home & Kitchen,CUST6358,2,207.43,Debit Card,Delivered,0
+ORD11803,2024-09-19,Toys,CUST8883,4,103.7,UPI,Delivered,0
+ORD10607,2024-09-20,Home & Kitchen,CUST8440,3,337.22,Net Banking,Pending,0
+ORD10902,2024-09-20,Beauty,CUST3804,4,225.53,Credit Card,Delivered,0
+ORD11559,2024-09-21,Electronics,CUST3272,4,436.72,Net Banking,Delivered,0
+ORD11310,2024-09-21,Beauty,CUST3787,2,269.42,Credit Card,Delivered,0
+ORD10435,2024-09-21,Home & Kitchen,CUST9688,4,496.46,Credit Card,Delivered,0
+ORD11201,2024-09-21,Beauty,CUST9752,3,32.23,Cash on Delivery,Pending,0
+ORD10768,2024-09-21,Sports,CUST8475,2,369.28,Credit Card,Delivered,0
+ORD10153,2024-09-21,Books,CUST1183,5,13.03,Cash on Delivery,Cancelled,0
+ORD11695,2024-09-22,Clothing,CUST9240,1,142.01,Credit Card,Pending,0
+ORD10328,2024-09-22,Books,CUST3893,5,117.09,UPI,Delivered,0
+ORD11204,2024-09-22,Groceries,CUST5438,2,222.27,Net Banking,Pending,0
+ORD11758,2024-09-22,Beauty,CUST5512,5,191.22,UPI,Delivered,0
+ORD11643,2024-09-23,Groceries,CUST7779,5,410.61,Net Banking,Delivered,0
+ORD11807,2024-09-23,Toys,CUST2063,1,493.07,Debit Card,Delivered,0
+ORD11856,2024-09-24,Home & Kitchen,CUST2044,5,175.48,UPI,Delivered,0
+ORD10904,2024-09-24,Beauty,CUST6182,1,107.62,Cash on Delivery,Shipped,0
+ORD11441,2024-09-24,Clothing,CUST7620,2,271.21,Debit Card,Shipped,0
+ORD10802,2024-09-24,Toys,CUST7035,3,188.89,Net Banking,Delivered,0
+ORD11271,2024-09-24,Home & Kitchen,CUST1962,2,120.47,Net Banking,Cancelled,0
+ORD11855,2024-09-24,Toys,CUST4032,5,48.74,Net Banking,Shipped,0
+ORD10277,2024-09-25,Home & Kitchen,CUST3312,5,155.18,Debit Card,Delivered,0
+ORD11023,2024-09-25,Sports,CUST2462,5,287.07,Debit Card,Delivered,0
+ORD11025,2024-09-26,Books,CUST5772,5,133.46,Credit Card,Delivered,0
+ORD11738,2024-09-27,Toys,CUST4674,2,387.73,Credit Card,Cancelled,0
+ORD11315,2024-09-27,Groceries,CUST6001,1,347.64,UPI,Delivered,0
+ORD10368,2024-09-28,Clothing,CUST6251,2,93.75,Credit Card,Delivered,0
+ORD10004,2024-09-28,Beauty,CUST6792,3,350.4,Net Banking,Delivered,0
+ORD11942,2024-09-28,Toys,CUST9271,5,249.65,Credit Card,Cancelled,0
+ORD11478,2024-09-29,Clothing,CUST6802,4,396.22,Net Banking,Delivered,0
+ORD10951,2024-09-30,Electronics,CUST5862,3,226.79,Debit Card,Delivered,0
+ORD11093,2024-09-30,Toys,CUST6758,3,103.32,Cash on Delivery,Delivered,0
+ORD10442,2024-10-01,Electronics,CUST1719,5,78.11,Credit Card,Delivered,0
+ORD11330,2024-10-01,Electronics,CUST9491,1,447.38,Net Banking,Delivered,0
+ORD11509,2024-10-01,Books,CUST2876,5,200.29,UPI,Delivered,0
+ORD11277,2024-10-02,Home & Kitchen,CUST2069,2,23.99,Credit Card,Shipped,0
+ORD11830,2024-10-02,Home & Kitchen,CUST4734,5,417.98,Net Banking,Delivered,0
+ORD10115,2024-10-02,Clothing,CUST9738,2,358.88,UPI,Returned,1
+ORD11002,2024-10-02,Toys,CUST5544,3,443.03,Credit Card,Delivered,0
+ORD10883,2024-10-03,Home & Kitchen,CUST5699,1,154.98,UPI,Delivered,0
+ORD10419,2024-10-03,Toys,CUST3420,4,107.61,UPI,Delivered,0
+ORD10409,2024-10-03,Groceries,CUST8453,3,269.17,Net Banking,Delivered,0
+ORD10439,2024-10-04,Home & Kitchen,CUST3833,1,352.34,Net Banking,Delivered,0
+ORD11645,2024-10-04,Home & Kitchen,CUST8973,5,452.31,Net Banking,Returned,1
+ORD10509,2024-10-04,Books,CUST6845,1,167.34,Debit Card,Pending,0
+ORD10428,2024-10-04,Books,CUST1636,5,23.56,Net Banking,Delivered,0
+ORD11617,2024-10-05,Electronics,CUST4384,2,353.38,UPI,Shipped,0
+ORD11531,2024-10-05,Sports,CUST6524,4,170.38,UPI,Shipped,0
+ORD11591,2024-10-05,Clothing,CUST4613,4,27.37,Debit Card,Returned,1
+ORD11106,2024-10-06,Sports,CUST6145,1,307.18,Cash on Delivery,Shipped,0
+ORD10056,2024-10-06,Home & Kitchen,CUST9450,4,400.3,Net Banking,Delivered,0
+ORD10824,2024-10-06,Electronics,CUST8990,5,339.35,Cash on Delivery,Shipped,0
+ORD10912,2024-10-07,Toys,CUST8252,1,461.31,Net Banking,Shipped,0
+ORD11815,2024-10-07,Clothing,CUST5595,3,134.34,Debit Card,Delivered,0
+ORD10502,2024-10-08,Electronics,CUST6181,4,472.6,Debit Card,Cancelled,0
+ORD11821,2024-10-08,Groceries,CUST4999,3,17.42,Debit Card,Pending,0
+ORD11640,2024-10-09,Home & Kitchen,CUST5181,5,496.94,Cash on Delivery,Cancelled,0
+ORD11556,2024-10-09,Beauty,CUST3613,3,115.23,Net Banking,Delivered,0
+ORD10255,2024-10-10,Beauty,CUST9849,4,406.07,Credit Card,Returned,1
+ORD10528,2024-10-11,Beauty,CUST6867,5,58.85,Debit Card,Delivered,0
+ORD10116,2024-10-11,Beauty,CUST8904,3,141.3,Cash on Delivery,Delivered,0
+ORD10101,2024-10-12,Clothing,CUST6993,1,25.9,UPI,Delivered,0
+ORD11014,2024-10-13,Clothing,CUST9715,2,361.26,Cash on Delivery,Returned,1
+ORD10282,2024-10-13,Clothing,CUST4200,4,307.2,UPI,Shipped,0
+ORD11391,2024-10-13,Electronics,CUST3900,4,55.57,Credit Card,Cancelled,0
+ORD11548,2024-10-14,Beauty,CUST9410,1,255.68,Credit Card,Delivered,0
+ORD11248,2024-10-14,Groceries,CUST8485,2,354.85,Credit Card,Delivered,0
+ORD11708,2024-10-14,Clothing,CUST7249,3,234.21,UPI,Pending,0
+ORD10981,2024-10-14,Clothing,CUST3502,4,461.04,Debit Card,Shipped,0
+ORD11247,2024-10-15,Beauty,CUST8433,1,64.05,UPI,Delivered,0
+ORD10849,2024-10-15,Clothing,CUST1864,2,470.51,Credit Card,Pending,0
+ORD11297,2024-10-17,Books,CUST9583,4,173.54,Credit Card,Shipped,0
+ORD10279,2024-10-17,Toys,CUST3170,5,364.09,Cash on Delivery,Pending,0
+ORD11314,2024-10-18,Clothing,CUST2700,5,237.39,Debit Card,Delivered,0
+ORD11985,2024-10-18,Sports,CUST4166,1,301.43,Cash on Delivery,Shipped,0
+ORD11425,2024-10-18,Clothing,CUST3940,4,134.02,Credit Card,Delivered,0
+ORD10214,2024-10-18,Books,CUST8121,4,285.61,Debit Card,Cancelled,0
+ORD10933,2024-10-20,Books,CUST7516,2,41.52,Credit Card,Shipped,0
+ORD10431,2024-10-20,Home & Kitchen,CUST8699,4,268.81,Net Banking,Delivered,0
+ORD10995,2024-10-20,Toys,CUST5489,3,428.47,Credit Card,Shipped,0
+ORD10776,2024-10-21,Groceries,CUST1930,5,96.86,Net Banking,Shipped,0
+ORD10987,2024-10-21,Toys,CUST6557,1,77.76,Net Banking,Delivered,0
+ORD10046,2024-10-21,Sports,CUST5939,4,406.26,Cash on Delivery,Delivered,0
+ORD10108,2024-10-22,Toys,CUST8444,5,218.67,Credit Card,Pending,0
+ORD11040,2024-10-22,Toys,CUST8667,4,239.7,Net Banking,Delivered,0
+ORD11630,2024-10-23,Books,CUST6921,1,415.77,Credit Card,Delivered,0
+ORD10956,2024-10-24,Beauty,CUST2743,5,293.36,Debit Card,Delivered,0
+ORD10575,2024-10-25,Sports,CUST5460,4,491.97,Credit Card,Pending,0
+ORD11401,2024-10-25,Toys,CUST6837,5,111.78,Net Banking,Shipped,0
+ORD10281,2024-10-26,Beauty,CUST4588,3,380.71,Net Banking,Delivered,0
+ORD11799,2024-10-26,Toys,CUST4210,1,77.62,Cash on Delivery,Delivered,0
+ORD11399,2024-10-27,Toys,CUST4342,5,328.02,Cash on Delivery,Delivered,0
+ORD10263,2024-10-27,Electronics,CUST1513,1,459.3,Net Banking,Shipped,0
+ORD10129,2024-10-27,Groceries,CUST5093,2,447.73,Credit Card,Delivered,0
+ORD11963,2024-10-28,Clothing,CUST1123,4,264.76,Debit Card,Delivered,0
+ORD10993,2024-10-29,Books,CUST2906,3,17.61,Debit Card,Returned,1
+ORD11682,2024-10-30,Clothing,CUST8902,1,166.61,Credit Card,Shipped,0
+ORD11659,2024-10-30,Home & Kitchen,CUST7943,3,480.2,UPI,Delivered,0
+ORD11966,2024-10-31,Groceries,CUST1474,1,10.02,UPI,Shipped,0
+ORD11763,2024-10-31,Beauty,CUST4843,5,317.23,Debit Card,Shipped,0
+ORD10261,2024-11-01,Toys,CUST8670,3,186.07,Net Banking,Delivered,0
+ORD11016,2024-11-01,Beauty,CUST5249,2,174.54,Debit Card,Delivered,0
+ORD11101,2024-11-01,Beauty,CUST6590,5,25.84,UPI,Delivered,0
+ORD11166,2024-11-01,Beauty,CUST1710,2,199.97,Debit Card,Returned,1
+ORD11317,2024-11-01,Toys,CUST4437,5,429.66,Debit Card,Delivered,0
+ORD10225,2024-11-01,Beauty,CUST6045,2,313.68,UPI,Cancelled,0
+ORD11534,2024-11-01,Beauty,CUST1679,2,478.06,Debit Card,Pending,0
+ORD10421,2024-11-02,Beauty,CUST4303,4,317.81,Net Banking,Delivered,0
+ORD10061,2024-11-02,Books,CUST3983,4,11.31,Debit Card,Shipped,0
+ORD11059,2024-11-02,Home & Kitchen,CUST3874,2,274.43,Credit Card,Delivered,0
+ORD10159,2024-11-03,Groceries,CUST6387,4,403.01,UPI,Delivered,0
+ORD11298,2024-11-03,Books,CUST1831,3,389.36,Net Banking,Shipped,0
+ORD11313,2024-11-03,Clothing,CUST6548,2,282.84,Net Banking,Shipped,0
+ORD10289,2024-11-03,Beauty,CUST9033,5,438.06,UPI,Delivered,0
+ORD11680,2024-11-04,Books,CUST6517,1,393.62,Credit Card,Delivered,0
+ORD10813,2024-11-04,Clothing,CUST1283,3,260.07,Debit Card,Delivered,0
+ORD10371,2024-11-05,Beauty,CUST5523,5,40.42,Credit Card,Delivered,0
+ORD11899,2024-11-05,Clothing,CUST3276,4,468.23,Cash on Delivery,Pending,0
+ORD11362,2024-11-05,Clothing,CUST6514,1,219.02,Debit Card,Delivered,0
+ORD11983,2024-11-06,Groceries,CUST3933,5,458.87,Cash on Delivery,Shipped,0
+ORD11684,2024-11-06,Toys,CUST4598,2,98.45,Cash on Delivery,Delivered,0
+ORD11249,2024-11-06,Electronics,CUST6725,4,370.47,UPI,Cancelled,0
+ORD10994,2024-11-06,Books,CUST7986,2,252.25,Cash on Delivery,Delivered,0
+ORD11339,2024-11-06,Beauty,CUST2765,4,465.93,Debit Card,Delivered,0
+ORD10367,2024-11-07,Groceries,CUST3678,1,260.69,Cash on Delivery,Shipped,0
+ORD11133,2024-11-07,Electronics,CUST2777,3,318.59,Debit Card,Delivered,0
+ORD11839,2024-11-09,Books,CUST5535,5,10.14,Net Banking,Shipped,0
+ORD10668,2024-11-09,Toys,CUST6193,5,83.0,Cash on Delivery,Delivered,0
+ORD10775,2024-11-09,Toys,CUST3419,4,347.9,UPI,Pending,0
+ORD10885,2024-11-09,Books,CUST4253,4,21.38,Credit Card,Returned,1
+ORD11650,2024-11-10,Home & Kitchen,CUST2181,3,25.12,Net Banking,Delivered,0
+ORD10043,2024-11-10,Groceries,CUST2398,1,383.15,Net Banking,Delivered,0
+ORD10323,2024-11-10,Beauty,CUST7671,3,106.59,Debit Card,Pending,0
+ORD10918,2024-11-11,Electronics,CUST5821,4,429.67,Debit Card,Delivered,0
+ORD10091,2024-11-11,Sports,CUST5015,5,265.11,Debit Card,Delivered,0
+ORD11706,2024-11-11,Beauty,CUST5685,1,127.31,Credit Card,Delivered,0
+ORD10106,2024-11-11,Beauty,CUST6016,1,265.62,Net Banking,Cancelled,0
+ORD10558,2024-11-11,Electronics,CUST2351,4,264.61,Credit Card,Shipped,0
+ORD11231,2024-11-12,Home & Kitchen,CUST3934,3,73.82,Credit Card,Delivered,0
+ORD10736,2024-11-12,Electronics,CUST4138,4,57.74,Debit Card,Shipped,0
+ORD11789,2024-11-13,Groceries,CUST3477,2,63.13,Credit Card,Shipped,0
+ORD11367,2024-11-13,Books,CUST6190,5,405.77,UPI,Shipped,0
+ORD10619,2024-11-13,Clothing,CUST7000,4,335.67,Net Banking,Delivered,0
+ORD11921,2024-11-14,Home & Kitchen,CUST3484,3,86.89,UPI,Returned,1
+ORD10848,2024-11-14,Home & Kitchen,CUST4754,1,275.72,Cash on Delivery,Cancelled,0
+ORD11096,2024-11-14,Sports,CUST9615,3,326.77,Cash on Delivery,Cancelled,0
+ORD11267,2024-11-14,Home & Kitchen,CUST8702,4,479.42,Cash on Delivery,Delivered,0
+ORD11024,2024-11-15,Sports,CUST6840,5,390.8,Debit Card,Delivered,0
+ORD10480,2024-11-15,Home & Kitchen,CUST1453,5,262.53,UPI,Delivered,0
+ORD11747,2024-11-15,Books,CUST7941,2,472.5,UPI,Delivered,0
+ORD10016,2024-11-15,Books,CUST4115,5,297.64,Credit Card,Shipped,0
+ORD10748,2024-11-15,Beauty,CUST6945,5,102.04,Cash on Delivery,Shipped,0
+ORD11199,2024-11-16,Clothing,CUST8494,5,348.72,Cash on Delivery,Pending,0
+ORD11383,2024-11-16,Beauty,CUST9374,5,378.69,UPI,Returned,1
+ORD11687,2024-11-17,Clothing,CUST7894,1,426.35,Credit Card,Delivered,0
+ORD10506,2024-11-17,Clothing,CUST4935,1,67.45,Cash on Delivery,Delivered,0
+ORD10481,2024-11-17,Beauty,CUST6719,5,453.92,Credit Card,Delivered,0
+ORD10081,2024-11-17,Toys,CUST5968,5,90.17,Cash on Delivery,Delivered,0
+ORD11576,2024-11-18,Home & Kitchen,CUST5266,4,137.23,Net Banking,Shipped,0
+ORD11599,2024-11-19,Home & Kitchen,CUST2660,2,440.0,UPI,Delivered,0
+ORD11244,2024-11-19,Toys,CUST4934,1,431.95,Cash on Delivery,Delivered,0
+ORD11499,2024-11-19,Beauty,CUST4244,3,263.6,Credit Card,Delivered,0
+ORD10852,2024-11-20,Beauty,CUST2562,2,245.04,Debit Card,Delivered,0
+ORD10516,2024-11-20,Sports,CUST6392,1,292.9,Cash on Delivery,Delivered,0
+ORD10385,2024-11-20,Sports,CUST2688,5,423.99,Debit Card,Delivered,0
+ORD10627,2024-11-21,Electronics,CUST6912,3,230.68,Credit Card,Shipped,0
+ORD11688,2024-11-21,Electronics,CUST5165,1,388.63,UPI,Shipped,0
+ORD11923,2024-11-21,Toys,CUST5207,4,199.55,Cash on Delivery,Pending,0
+ORD10034,2024-11-21,Groceries,CUST9704,5,332.14,UPI,Cancelled,0
+ORD11922,2024-11-22,Electronics,CUST2873,3,340.06,UPI,Delivered,0
+ORD11538,2024-11-22,Electronics,CUST9204,4,82.88,UPI,Delivered,0
+ORD10041,2024-11-22,Books,CUST1649,1,232.73,UPI,Delivered,0
+ORD10726,2024-11-22,Toys,CUST2582,3,367.84,Cash on Delivery,Delivered,0
+ORD10131,2024-11-23,Home & Kitchen,CUST4591,2,267.17,Net Banking,Delivered,0
+ORD10992,2024-11-23,Beauty,CUST5243,5,388.79,UPI,Cancelled,0
+ORD11365,2024-11-23,Beauty,CUST9106,1,155.77,UPI,Pending,0
+ORD10013,2024-11-24,Home & Kitchen,CUST6291,2,262.23,Cash on Delivery,Shipped,0
+ORD10441,2024-11-24,Sports,CUST5101,5,494.24,UPI,Delivered,0
+ORD11450,2024-11-25,Sports,CUST4120,4,40.12,Debit Card,Delivered,0
+ORD11048,2024-11-25,Beauty,CUST3440,4,187.36,Credit Card,Delivered,0
+ORD11574,2024-11-26,Home & Kitchen,CUST4809,5,261.6,Net Banking,Delivered,0
+ORD11584,2024-11-26,Toys,CUST1550,5,349.59,UPI,Shipped,0
+ORD10292,2024-11-28,Beauty,CUST4976,5,200.15,Cash on Delivery,Delivered,0
+ORD10236,2024-11-29,Sports,CUST7787,3,473.34,Credit Card,Delivered,0
+ORD11400,2024-11-30,Electronics,CUST2460,3,106.09,Cash on Delivery,Delivered,0
+ORD11875,2024-12-01,Toys,CUST6625,3,224.02,Cash on Delivery,Delivered,0
+ORD11585,2024-12-02,Books,CUST7783,4,477.93,Credit Card,Pending,0
+ORD11519,2024-12-02,Toys,CUST3335,1,444.24,Cash on Delivery,Delivered,0
+ORD10242,2024-12-02,Groceries,CUST3506,2,90.08,Credit Card,Delivered,0
+ORD11911,2024-12-03,Beauty,CUST8784,3,477.9,Net Banking,Pending,0
+ORD10457,2024-12-04,Clothing,CUST3987,3,150.81,Debit Card,Returned,1
+ORD10114,2024-12-04,Home & Kitchen,CUST3730,1,428.47,UPI,Delivered,0
+ORD11112,2024-12-05,Groceries,CUST8971,4,438.31,Net Banking,Delivered,0
+ORD10591,2024-12-05,Beauty,CUST7560,1,62.14,UPI,Delivered,0
+ORD11633,2024-12-06,Electronics,CUST1890,5,106.98,Net Banking,Shipped,0
+ORD10283,2024-12-06,Home & Kitchen,CUST3142,2,363.67,UPI,Shipped,0
+ORD11920,2024-12-06,Books,CUST8870,4,167.63,UPI,Delivered,0
+ORD11434,2024-12-06,Home & Kitchen,CUST1993,1,253.86,Net Banking,Delivered,0
+ORD11794,2024-12-07,Groceries,CUST5259,2,248.78,Credit Card,Shipped,0
+ORD11976,2024-12-09,Clothing,CUST9687,1,258.93,Credit Card,Delivered,0
+ORD10294,2024-12-09,Electronics,CUST6235,2,125.25,Net Banking,Pending,0
+ORD11009,2024-12-09,Electronics,CUST7973,1,488.38,Credit Card,Delivered,0
+ORD11060,2024-12-09,Groceries,CUST4490,1,219.22,Cash on Delivery,Delivered,0
+ORD10181,2024-12-09,Books,CUST8977,5,253.34,Cash on Delivery,Delivered,0
+ORD10422,2024-12-10,Toys,CUST9219,2,352.37,Debit Card,Delivered,0
+ORD10210,2024-12-10,Groceries,CUST6452,4,418.99,Net Banking,Cancelled,0
+ORD11169,2024-12-10,Electronics,CUST9661,1,454.28,Net Banking,Delivered,0
+ORD11029,2024-12-10,Toys,CUST4916,2,453.6,Credit Card,Shipped,0
+ORD10976,2024-12-11,Home & Kitchen,CUST8482,3,50.58,Credit Card,Delivered,0
+ORD10814,2024-12-11,Sports,CUST1263,4,134.46,Cash on Delivery,Delivered,0
+ORD11805,2024-12-11,Books,CUST5893,3,387.37,Credit Card,Delivered,0
+ORD10341,2024-12-11,Sports,CUST7925,2,351.29,Cash on Delivery,Delivered,0
+ORD11225,2024-12-12,Home & Kitchen,CUST1477,4,483.45,UPI,Shipped,0
+ORD11594,2024-12-12,Home & Kitchen,CUST1087,2,486.02,Net Banking,Delivered,0
+ORD11143,2024-12-13,Home & Kitchen,CUST8050,3,114.07,Cash on Delivery,Pending,0
+ORD11715,2024-12-13,Clothing,CUST3661,5,91.9,Cash on Delivery,Delivered,0
+ORD10019,2024-12-13,Beauty,CUST7893,5,456.46,Cash on Delivery,Delivered,0
+ORD11433,2024-12-13,Toys,CUST7630,1,317.74,Cash on Delivery,Delivered,0
+ORD10113,2024-12-13,Beauty,CUST4446,4,238.54,Net Banking,Shipped,0
+ORD10520,2024-12-13,Electronics,CUST1974,3,394.76,Debit Card,Shipped,0
+ORD11571,2024-12-13,Toys,CUST5986,5,199.28,UPI,Delivered,0
+ORD11527,2024-12-14,Groceries,CUST6876,5,200.98,Net Banking,Cancelled,0
+ORD11448,2024-12-14,Groceries,CUST2182,5,133.44,Debit Card,Delivered,0
+ORD10137,2024-12-14,Electronics,CUST6950,4,312.9,Cash on Delivery,Shipped,0
+ORD10469,2024-12-15,Toys,CUST6423,5,55.61,UPI,Delivered,0
+ORD11452,2024-12-15,Beauty,CUST9491,3,291.41,Credit Card,Delivered,0
+ORD10979,2024-12-16,Toys,CUST7652,4,285.9,Cash on Delivery,Pending,0
+ORD11300,2024-12-17,Books,CUST9301,5,187.94,Credit Card,Delivered,0
+ORD10738,2024-12-17,Groceries,CUST5637,4,121.52,Cash on Delivery,Delivered,0
+ORD11472,2024-12-18,Toys,CUST6415,5,444.97,Net Banking,Delivered,0
+ORD11957,2024-12-18,Sports,CUST9426,1,353.5,Cash on Delivery,Pending,0
+ORD10942,2024-12-19,Electronics,CUST3812,3,78.62,UPI,Delivered,0
+ORD11260,2024-12-20,Sports,CUST1745,3,307.02,Debit Card,Pending,0
+ORD10983,2024-12-20,Toys,CUST7340,3,394.8,Cash on Delivery,Cancelled,0
+ORD11220,2024-12-20,Clothing,CUST7463,1,233.09,Net Banking,Pending,0
+ORD11081,2024-12-21,Home & Kitchen,CUST2767,2,200.98,UPI,Delivered,0
+ORD10100,2024-12-21,Books,CUST7671,2,254.96,Net Banking,Shipped,0
+ORD11477,2024-12-22,Electronics,CUST3311,4,420.63,Net Banking,Pending,0
+ORD11841,2024-12-22,Books,CUST8739,1,315.13,Credit Card,Delivered,0
+ORD10392,2024-12-22,Groceries,CUST9948,5,412.55,Net Banking,Delivered,0
+ORD11522,2024-12-22,Electronics,CUST7919,3,417.37,Debit Card,Delivered,0
+ORD11068,2024-12-23,Electronics,CUST6364,4,24.7,Cash on Delivery,Delivered,0
+ORD11774,2024-12-23,Toys,CUST7573,4,235.51,UPI,Delivered,0
+ORD11463,2024-12-24,Home & Kitchen,CUST8881,2,68.73,Debit Card,Delivered,0
+ORD10467,2024-12-24,Sports,CUST6938,1,378.42,Debit Card,Shipped,0
+ORD10875,2024-12-24,Home & Kitchen,CUST4166,4,198.33,Credit Card,Delivered,0
+ORD11614,2024-12-24,Sports,CUST6642,1,272.4,Cash on Delivery,Delivered,0
+ORD10344,2024-12-24,Electronics,CUST1629,5,474.39,Cash on Delivery,Cancelled,0
+ORD11012,2024-12-24,Groceries,CUST1077,3,348.37,Credit Card,Delivered,0
+ORD10858,2024-12-25,Home & Kitchen,CUST1550,3,153.04,Credit Card,Delivered,0
+ORD10869,2024-12-25,Groceries,CUST4616,3,309.19,Debit Card,Delivered,0
+ORD10011,2024-12-25,Home & Kitchen,CUST9740,1,485.71,Cash on Delivery,Returned,1
+ORD11468,2024-12-25,Home & Kitchen,CUST6917,2,446.18,Cash on Delivery,Shipped,0
+ORD10616,2024-12-25,Beauty,CUST6109,5,214.54,Cash on Delivery,Delivered,0
+ORD10585,2024-12-26,Home & Kitchen,CUST5691,4,267.07,Cash on Delivery,Cancelled,0
+ORD11098,2024-12-27,Clothing,CUST3799,4,258.13,Cash on Delivery,Delivered,0
+ORD11157,2024-12-27,Books,CUST1565,2,365.59,Net Banking,Shipped,0
+ORD10269,2024-12-27,Beauty,CUST5828,3,271.4,Net Banking,Delivered,0
+ORD10440,2024-12-27,Beauty,CUST4149,5,121.35,Credit Card,Pending,0
+ORD11678,2024-12-27,Groceries,CUST6998,1,222.94,Credit Card,Delivered,0
+ORD11235,2024-12-27,Toys,CUST6948,1,163.49,Cash on Delivery,Delivered,0
+ORD11236,2024-12-27,Beauty,CUST7757,4,417.66,Credit Card,Shipped,0
+ORD11072,2024-12-28,Home & Kitchen,CUST4380,5,149.29,Credit Card,Delivered,0
+ORD11011,2024-12-28,Sports,CUST7133,1,484.73,Debit Card,Delivered,0
+ORD10042,2024-12-28,Beauty,CUST9372,1,286.17,UPI,Delivered,0
+ORD10676,2024-12-28,Toys,CUST9184,2,124.18,Net Banking,Pending,0
+ORD11498,2024-12-29,Home & Kitchen,CUST9464,4,210.09,UPI,Delivered,0
+ORD10780,2024-12-29,Clothing,CUST7862,1,12.08,Cash on Delivery,Delivered,0
+ORD10057,2024-12-29,Groceries,CUST7225,2,249.07,Cash on Delivery,Delivered,0
+ORD10414,2024-12-30,Clothing,CUST1986,3,311.21,Debit Card,Shipped,0
+ORD11704,2024-12-31,Books,CUST8785,4,469.77,Credit Card,Delivered,0
